@@ -1,0 +1,9601 @@
+{
+  "matches": [
+    {
+      "weapons": {
+        "detonated": [
+          [
+            "TerminalJunkie"
+          ]
+        ], 
+        "pummel": [
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ]
+        ], 
+        "bluecombo": [
+          [
+            "DF", 
+            "BirdMan"
+          ]
+        ], 
+        "grenade2": [
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "blue2": [
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ]
+        ], 
+        "telefrag": [
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ]
+        ], 
+        "crylink": [
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ]
+        ], 
+        "blue": [
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ]
+        ], 
+        "explode": [
+          [
+            "Alex"
+          ], 
+          [
+            "Punk"
+          ]
+        ], 
+        "rocket": [
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ]
+        ], 
+        "grounded": [
+          [
+            "DF", 
+            "BirdMan"
+          ]
+        ], 
+        "shotgun": [
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "BirdMan"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "BirdMan"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "shotgun2": [
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ]
+        ], 
+        "crylink2": [
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ]
+        ], 
+        "crylink3": [
+          [
+            "DF", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "rocket2": [
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ]
+        ], 
+        "plasma": [
+          [
+            "Punk"
+          ]
+        ], 
+        "grenade": [
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ]
+        ]
+      }, 
+      "gametime": "Fri Aug 09 16:57:40 2013", 
+      "scoreboard": [
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            0, 
+            0, 
+            1, 
+            "explode"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink3"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "crylink3"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "grenade"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "grenade"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "blue2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "blue2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "blue2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "blue2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "telefrag"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "telefrag"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "grenade2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "grenade2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            0, 
+            0, 
+            1, 
+            "detonated"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            0, 
+            0, 
+            1, 
+            "explode"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "grounded"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "grounded"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "grenade"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "grenade"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "grenade"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "grenade"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "bluecombo"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "bluecombo"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            0, 
+            0, 
+            1, 
+            "plasma"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "telefrag"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "telefrag"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "grenade2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "grenade2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "grenade"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "grenade"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ]
+      ], 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 30, 
+          "deaths": 13
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "Alex", 
+          "kills": 20, 
+          "deaths": 18
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 18, 
+          "deaths": 20
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "TerminalJunkie", 
+          "kills": 15, 
+          "deaths": 16
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": "Punk", 
+          "kills": 12, 
+          "deaths": 28
+        }
+      ], 
+      "players": {
+        "BirdMan": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [
+              "DF"
+            ], 
+            [
+              "Punk"
+            ], 
+            [
+              "DF", 
+              "Alex", 
+              "Punk", 
+              "Punk"
+            ], 
+            [
+              "Alex", 
+              "TerminalJunkie"
+            ], 
+            [
+              "Punk", 
+              "TerminalJunkie", 
+              "DF"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "Punk", 
+              "Alex", 
+              "DF"
+            ], 
+            [
+              "DF", 
+              "DF"
+            ], 
+            [
+              "Alex"
+            ], 
+            [
+              "Punk", 
+              "Alex"
+            ], 
+            [], 
+            [
+              "DF", 
+              "Punk", 
+              "DF", 
+              "Alex"
+            ], 
+            [
+              "Punk", 
+              "DF", 
+              "DF"
+            ], 
+            [
+              "Punk", 
+              "TerminalJunkie", 
+              "Punk"
+            ]
+          ], 
+          "kills": {
+            "DF": 10, 
+            "Punk": 10, 
+            "TerminalJunkie": 4, 
+            "Alex": 6
+          }, 
+          "deaths": {
+            "DF": 5, 
+            "Punk": 3, 
+            "TerminalJunkie": 2, 
+            "Alex": 3
+          }
+        }, 
+        "DF": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [
+              "Punk", 
+              "Punk", 
+              "Alex"
+            ], 
+            [
+              "Alex", 
+              "Punk"
+            ], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [
+              "Punk", 
+              "TerminalJunkie", 
+              "BirdMan", 
+              "TerminalJunkie", 
+              "Alex"
+            ], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "Alex"
+            ], 
+            [], 
+            [
+              "BirdMan", 
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [
+              "Punk"
+            ], 
+            []
+          ], 
+          "kills": {
+            "BirdMan": 5, 
+            "Punk": 6, 
+            "TerminalJunkie": 3, 
+            "Alex": 4
+          }, 
+          "deaths": {
+            "BirdMan": 10, 
+            "Alex": 4, 
+            "TerminalJunkie": 4, 
+            "Punk": 2
+          }
+        }, 
+        "TerminalJunkie": {
+          "curlife": [], 
+          "suicides": 1, 
+          "lives": [
+            [], 
+            [], 
+            [], 
+            [
+              "DF"
+            ], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [
+              "Alex", 
+              "Punk"
+            ], 
+            [
+              "DF"
+            ], 
+            [], 
+            [
+              "BirdMan", 
+              "Alex"
+            ], 
+            [
+              "Punk"
+            ], 
+            [
+              "DF"
+            ], 
+            [
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [
+              "DF", 
+              "Alex"
+            ], 
+            [
+              "Punk", 
+              "Alex", 
+              "BirdMan"
+            ], 
+            []
+          ], 
+          "kills": {
+            "DF": 4, 
+            "BirdMan": 2, 
+            "Alex": 4, 
+            "Punk": 5
+          }, 
+          "deaths": {
+            "BirdMan": 4, 
+            "DF": 3, 
+            "Alex": 6, 
+            "Punk": 3
+          }
+        }, 
+        "Punk": {
+          "curlife": [], 
+          "suicides": 2, 
+          "lives": [
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [
+              "DF", 
+              "BirdMan"
+            ], 
+            [], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "DF"
+            ], 
+            [
+              "Alex"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            []
+          ], 
+          "kills": {
+            "BirdMan": 3, 
+            "DF": 2, 
+            "TerminalJunkie": 3, 
+            "Alex": 4
+          }, 
+          "deaths": {
+            "BirdMan": 10, 
+            "DF": 6, 
+            "TerminalJunkie": 5, 
+            "Alex": 7
+          }
+        }, 
+        "Alex": {
+          "curlife": [], 
+          "suicides": 1, 
+          "lives": [
+            [], 
+            [
+              "Punk", 
+              "DF", 
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie", 
+              "BirdMan", 
+              "DF"
+            ], 
+            [
+              "TerminalJunkie", 
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [], 
+            [
+              "Punk", 
+              "Punk", 
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "DF"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "DF", 
+              "TerminalJunkie"
+            ], 
+            [
+              "Punk"
+            ], 
+            []
+          ], 
+          "kills": {
+            "DF": 4, 
+            "BirdMan": 3, 
+            "TerminalJunkie": 6, 
+            "Punk": 7
+          }, 
+          "deaths": {
+            "BirdMan": 6, 
+            "DF": 4, 
+            "TerminalJunkie": 4, 
+            "Punk": 4
+          }
+        }
+      }
+    }, 
+    {
+      "weapons": {
+        "blue": [
+          [
+            "BirdMan", 
+            "Alex"
+          ]
+        ], 
+        "blueball": [
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "vaporize": [
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ]
+        ], 
+        "rocket": [
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ]
+        ], 
+        "pummel": [
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "Punk", 
+            "BirdMan"
+          ]
+        ], 
+        "shotgun": [
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "BirdMan"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "BirdMan"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "bluecombo": [
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ]
+        ], 
+        "shotgun2": [
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ]
+        ], 
+        "crylink2": [
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ]
+        ], 
+        "crylink3": [
+          [
+            "Alex", 
+            "BirdMan"
+          ]
+        ], 
+        "rocket2": [
+          [
+            "DF", 
+            "Punk"
+          ]
+        ], 
+        "plasma": [
+          [
+            "Punk"
+          ]
+        ], 
+        "crylink": [
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ]
+        ]
+      }, 
+      "gametime": "Fri Aug 09 16:57:40 2013", 
+      "scoreboard": [
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "blueball"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "blueball"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            0, 
+            0, 
+            1, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "blueball"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "blueball"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "blueball"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "blueball"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "bluecombo"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "bluecombo"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "bluecombo"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "bluecombo"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            0, 
+            0, 
+            1, 
+            "plasma"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink3"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "crylink3"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ]
+      ], 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 30, 
+          "deaths": 12
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 28, 
+          "deaths": 19
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 15, 
+          "deaths": 23
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "TerminalJunkie", 
+          "kills": 14, 
+          "deaths": 24
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "Punk", 
+          "kills": 13, 
+          "deaths": 22
+        }
+      ], 
+      "players": {
+        "DF": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [
+              "BirdMan", 
+              "TerminalJunkie"
+            ], 
+            [
+              "Alex", 
+              "Punk", 
+              "BirdMan"
+            ], 
+            [
+              "Punk", 
+              "TerminalJunkie", 
+              "Punk", 
+              "Alex"
+            ], 
+            [], 
+            [
+              "TerminalJunkie", 
+              "Alex", 
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "Punk", 
+              "Alex", 
+              "Punk", 
+              "TerminalJunkie", 
+              "Alex"
+            ], 
+            [
+              "Punk", 
+              "BirdMan", 
+              "BirdMan"
+            ], 
+            [
+              "TerminalJunkie", 
+              "Alex"
+            ], 
+            [
+              "Alex", 
+              "BirdMan"
+            ], 
+            []
+          ], 
+          "kills": {
+            "BirdMan": 6, 
+            "Alex": 7, 
+            "TerminalJunkie": 7, 
+            "Punk": 8
+          }, 
+          "deaths": {
+            "BirdMan": 4, 
+            "Punk": 6, 
+            "TerminalJunkie": 5, 
+            "Alex": 4
+          }
+        }, 
+        "BirdMan": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [
+              "DF"
+            ], 
+            [], 
+            [
+              "Alex", 
+              "DF"
+            ], 
+            [
+              "DF", 
+              "Alex", 
+              "Punk", 
+              "Punk", 
+              "Punk", 
+              "TerminalJunkie", 
+              "TerminalJunkie", 
+              "Alex", 
+              "Alex", 
+              "DF", 
+              "Alex", 
+              "Punk", 
+              "Alex", 
+              "Alex", 
+              "TerminalJunkie", 
+              "Punk", 
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "Alex", 
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "Punk", 
+              "TerminalJunkie", 
+              "Alex", 
+              "TerminalJunkie"
+            ], 
+            [
+              "Alex"
+            ], 
+            [
+              "TerminalJunkie", 
+              "Alex"
+            ]
+          ], 
+          "kills": {
+            "DF": 4, 
+            "Punk": 7, 
+            "TerminalJunkie": 8, 
+            "Alex": 11
+          }, 
+          "deaths": {
+            "DF": 6, 
+            "Alex": 3, 
+            "TerminalJunkie": 2, 
+            "Punk": 1
+          }
+        }, 
+        "TerminalJunkie": {
+          "curlife": [], 
+          "suicides": 1, 
+          "lives": [
+            [
+              "Alex", 
+              "DF", 
+              "Punk"
+            ], 
+            [], 
+            [
+              "DF"
+            ], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [
+              "Punk", 
+              "DF"
+            ], 
+            [], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [
+              "Alex"
+            ], 
+            [], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "DF"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "DF"
+            ], 
+            [], 
+            []
+          ], 
+          "kills": {
+            "DF": 5, 
+            "BirdMan": 2, 
+            "Punk": 3, 
+            "Alex": 4
+          }, 
+          "deaths": {
+            "DF": 7, 
+            "BirdMan": 8, 
+            "Alex": 4, 
+            "Punk": 5
+          }
+        }, 
+        "Punk": {
+          "curlife": [], 
+          "suicides": 1, 
+          "lives": [
+            [], 
+            [
+              "DF", 
+              "TerminalJunkie", 
+              "Alex"
+            ], 
+            [
+              "DF"
+            ], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "DF", 
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "DF"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [], 
+            [
+              "BirdMan", 
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "DF", 
+              "DF"
+            ]
+          ], 
+          "kills": {
+            "DF": 6, 
+            "BirdMan": 1, 
+            "TerminalJunkie": 5, 
+            "Alex": 1
+          }, 
+          "deaths": {
+            "BirdMan": 7, 
+            "DF": 8, 
+            "TerminalJunkie": 3, 
+            "Alex": 4
+          }
+        }, 
+        "Alex": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [], 
+            [], 
+            [
+              "Punk", 
+              "BirdMan", 
+              "DF", 
+              "Punk", 
+              "TerminalJunkie"
+            ], 
+            [
+              "DF"
+            ], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie", 
+              "BirdMan"
+            ], 
+            [], 
+            [], 
+            [
+              "DF", 
+              "Punk", 
+              "DF"
+            ], 
+            [
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            []
+          ], 
+          "kills": {
+            "BirdMan": 3, 
+            "DF": 4, 
+            "TerminalJunkie": 4, 
+            "Punk": 4
+          }, 
+          "deaths": {
+            "DF": 7, 
+            "BirdMan": 11, 
+            "TerminalJunkie": 4, 
+            "Punk": 1
+          }
+        }
+      }
+    }, 
+    {
+      "weapons": {
+        "blue": [
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "shotgun2": [
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ]
+        ], 
+        "blueball": [
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ]
+        ], 
+        "vaporize": [
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "detonated": [
+          [
+            "Punk"
+          ]
+        ], 
+        "rocket": [
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "Punk", 
+            "BirdMan"
+          ]
+        ], 
+        "shotgun": [
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "BirdMan"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "bluecombo": [
+          [
+            "Punk", 
+            "Alex"
+          ]
+        ], 
+        "explode": [
+          [
+            "BirdMan"
+          ]
+        ], 
+        "crylink2": [
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "DF", 
+            "Alex"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ]
+        ], 
+        "rocket2": [
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "DF"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ]
+        ], 
+        "plasma2": [
+          [
+            "BirdMan"
+          ]
+        ], 
+        "blue2": [
+          [
+            "Alex", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "DF"
+          ]
+        ], 
+        "telefrag": [
+          [
+            "TerminalJunkie", 
+            "Alex"
+          ]
+        ], 
+        "crylink": [
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "DF", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "DF"
+          ], 
+          [
+            "Punk", 
+            "Alex"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Alex", 
+            "Punk"
+          ], 
+          [
+            "BirdMan"
+          ], 
+          [
+            "DF", 
+            "BirdMan"
+          ]
+        ]
+      }, 
+      "gametime": "Fri Aug 09 16:57:40 2013", 
+      "scoreboard": [
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "telefrag"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "telefrag"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "blueball"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "blueball"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            0, 
+            0, 
+            1, 
+            "explode"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            0, 
+            0, 
+            1, 
+            "plasma2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            0, 
+            0, 
+            1, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "blue2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "blue2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "blue2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "blue2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "bluecombo"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "bluecombo"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "crylink2"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "crylink2"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "crylink"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "crylink"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "DF", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Alex", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            0, 
+            0, 
+            1, 
+            "detonated"
+          ]
+        ], 
+        [
+          [
+            "Alex", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "DF", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket2"
+          ]
+        ]
+      ], 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 3, 
+          "name": "BirdMan", 
+          "kills": 33, 
+          "deaths": 7
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 22, 
+          "deaths": 16
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 18, 
+          "deaths": 29
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 15, 
+          "deaths": 27
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "Punk", 
+          "kills": 14, 
+          "deaths": 23
+        }
+      ], 
+      "players": {
+        "DF": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [], 
+            [
+              "Punk"
+            ], 
+            [
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "Alex"
+            ], 
+            [
+              "Punk", 
+              "Alex"
+            ], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "Punk", 
+              "Alex"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "Alex", 
+              "TerminalJunkie", 
+              "Punk"
+            ], 
+            [
+              "Alex", 
+              "Punk", 
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie", 
+              "Punk"
+            ], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "TerminalJunkie"
+            ]
+          ], 
+          "kills": {
+            "BirdMan": 2, 
+            "Punk": 8, 
+            "TerminalJunkie": 7, 
+            "Alex": 5
+          }, 
+          "deaths": {
+            "BirdMan": 7, 
+            "Punk": 4, 
+            "TerminalJunkie": 1, 
+            "Alex": 4
+          }
+        }, 
+        "BirdMan": {
+          "curlife": [], 
+          "suicides": 3, 
+          "lives": [
+            [
+              "DF", 
+              "TerminalJunkie", 
+              "Alex", 
+              "DF", 
+              "Alex", 
+              "DF"
+            ], 
+            [
+              "Punk", 
+              "Punk", 
+              "DF", 
+              "Alex", 
+              "TerminalJunkie", 
+              "Alex", 
+              "Punk", 
+              "TerminalJunkie"
+            ], 
+            [
+              "Alex", 
+              "DF", 
+              "Punk", 
+              "Punk"
+            ], 
+            [
+              "Alex"
+            ], 
+            [], 
+            [
+              "Alex", 
+              "TerminalJunkie", 
+              "TerminalJunkie", 
+              "Alex", 
+              "TerminalJunkie"
+            ], 
+            [
+              "Alex"
+            ], 
+            [
+              "Alex", 
+              "DF", 
+              "Punk", 
+              "TerminalJunkie", 
+              "Alex"
+            ], 
+            [
+              "DF", 
+              "Alex"
+            ], 
+            [], 
+            [
+              "Punk"
+            ]
+          ], 
+          "kills": {
+            "DF": 7, 
+            "Alex": 12, 
+            "TerminalJunkie": 7, 
+            "Punk": 7
+          }, 
+          "deaths": {
+            "DF": 2, 
+            "Punk": 2, 
+            "TerminalJunkie": 2, 
+            "Alex": 1
+          }
+        }, 
+        "TerminalJunkie": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [
+              "DF"
+            ], 
+            [
+              "BirdMan", 
+              "Punk"
+            ], 
+            [], 
+            [
+              "Alex", 
+              "Punk"
+            ], 
+            [
+              "Alex"
+            ], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "Alex", 
+              "Punk"
+            ], 
+            [
+              "Punk"
+            ], 
+            [
+              "Alex"
+            ], 
+            [
+              "Alex"
+            ], 
+            [], 
+            []
+          ], 
+          "kills": {
+            "BirdMan": 2, 
+            "DF": 1, 
+            "Alex": 7, 
+            "Punk": 5
+          }, 
+          "deaths": {
+            "BirdMan": 7, 
+            "DF": 7, 
+            "Punk": 3, 
+            "Alex": 10
+          }
+        }, 
+        "Alex": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "DF"
+            ], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [
+              "DF"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie", 
+              "DF", 
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [
+              "BirdMan", 
+              "TerminalJunkie", 
+              "Punk"
+            ], 
+            [], 
+            [
+              "DF"
+            ], 
+            [
+              "TerminalJunkie"
+            ]
+          ], 
+          "kills": {
+            "DF": 4, 
+            "BirdMan": 1, 
+            "TerminalJunkie": 10, 
+            "Punk": 3
+          }, 
+          "deaths": {
+            "BirdMan": 12, 
+            "DF": 5, 
+            "TerminalJunkie": 7, 
+            "Punk": 5
+          }
+        }, 
+        "Punk": {
+          "curlife": [], 
+          "suicides": 1, 
+          "lives": [
+            [
+              "Alex", 
+              "DF"
+            ], 
+            [], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "Alex", 
+              "DF"
+            ], 
+            [], 
+            [], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "Alex"
+            ], 
+            [
+              "DF"
+            ], 
+            [], 
+            [], 
+            [], 
+            [
+              "Alex"
+            ], 
+            [
+              "DF"
+            ], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            []
+          ], 
+          "kills": {
+            "DF": 4, 
+            "BirdMan": 2, 
+            "TerminalJunkie": 3, 
+            "Alex": 5
+          }, 
+          "deaths": {
+            "DF": 8, 
+            "BirdMan": 7, 
+            "TerminalJunkie": 5, 
+            "Alex": 3
+          }
+        }
+      }
+    }, 
+    {
+      "weapons": {
+        "blue": [
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "Punk", 
+            "BirdMan"
+          ]
+        ], 
+        "shotgun2": [
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "vaporize": [
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ]
+        ], 
+        "rocket": [
+          [
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ]
+        ], 
+        "pummel": [
+          [
+            "Punk", 
+            "BirdMan"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ]
+        ], 
+        "shotgun": [
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie", 
+            "BirdMan"
+          ]
+        ], 
+        "explode": [
+          [
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan"
+          ]
+        ], 
+        "slimed": [
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie"
+          ], 
+          [
+            "BirdMan", 
+            "Punk"
+          ], 
+          [
+            "BirdMan", 
+            "TerminalJunkie"
+          ], 
+          [
+            "TerminalJunkie", 
+            "Punk"
+          ], 
+          [
+            "TerminalJunkie"
+          ]
+        ], 
+        "blue2": [
+          [
+            "Punk", 
+            "TerminalJunkie"
+          ]
+        ]
+      }, 
+      "gametime": "Fri Aug 09 16:57:40 2013", 
+      "scoreboard": [
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            0, 
+            0, 
+            1, 
+            "explode"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "slimed"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "slimed"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            0, 
+            0, 
+            1, 
+            "slimed"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "slimed"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "slimed"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            0, 
+            0, 
+            1, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "blue"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "blue"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            0, 
+            0, 
+            1, 
+            "explode"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "slimed"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "slimed"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "blue2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "blue2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "slimed"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "slimed"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "Punk", 
+            1, 
+            0, 
+            0, 
+            "pummel"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "pummel"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "shotgun2"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "shotgun2"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "shotgun"
+          ], 
+          [
+            "BirdMan", 
+            0, 
+            1, 
+            0, 
+            "shotgun"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "TerminalJunkie", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            1, 
+            0, 
+            0, 
+            "vaporize"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "vaporize"
+          ]
+        ], 
+        [
+          [
+            "TerminalJunkie", 
+            0, 
+            0, 
+            1, 
+            "slimed"
+          ]
+        ], 
+        [
+          [
+            "BirdMan", 
+            1, 
+            0, 
+            0, 
+            "rocket"
+          ], 
+          [
+            "Punk", 
+            0, 
+            1, 
+            0, 
+            "rocket"
+          ]
+        ]
+      ], 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "BirdMan", 
+          "kills": 31, 
+          "deaths": 8
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 9, 
+          "deaths": 24
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 4, 
+          "name": "TerminalJunkie", 
+          "kills": 10, 
+          "deaths": 18
+        }
+      ], 
+      "players": {
+        "BirdMan": {
+          "curlife": [], 
+          "suicides": 1, 
+          "lives": [
+            [
+              "TerminalJunkie", 
+              "Punk", 
+              "Punk", 
+              "TerminalJunkie", 
+              "Punk", 
+              "Punk", 
+              "TerminalJunkie", 
+              "Punk", 
+              "TerminalJunkie", 
+              "Punk", 
+              "Punk", 
+              "Punk", 
+              "Punk", 
+              "Punk"
+            ], 
+            [
+              "Punk", 
+              "TerminalJunkie", 
+              "Punk"
+            ], 
+            [
+              "Punk", 
+              "Punk", 
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie", 
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie", 
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie", 
+              "Punk"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [
+              "TerminalJunkie", 
+              "Punk"
+            ]
+          ], 
+          "kills": {
+            "TerminalJunkie": 14, 
+            "Punk": 17
+          }, 
+          "deaths": {
+            "TerminalJunkie": 3, 
+            "Punk": 5
+          }
+        }, 
+        "TerminalJunkie": {
+          "curlife": [], 
+          "suicides": 4, 
+          "lives": [
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "BirdMan", 
+              "Punk"
+            ], 
+            [], 
+            [
+              "Punk"
+            ], 
+            [], 
+            [
+              "Punk", 
+              "Punk", 
+              "BirdMan"
+            ], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "Punk"
+            ], 
+            []
+          ], 
+          "kills": {
+            "BirdMan": 3, 
+            "Punk": 7
+          }, 
+          "deaths": {
+            "BirdMan": 14, 
+            "Punk": 4
+          }
+        }, 
+        "Punk": {
+          "curlife": [], 
+          "suicides": 0, 
+          "lives": [
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [], 
+            [
+              "BirdMan", 
+              "BirdMan"
+            ], 
+            [], 
+            [], 
+            [
+              "BirdMan"
+            ], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            [
+              "TerminalJunkie"
+            ], 
+            [], 
+            []
+          ], 
+          "kills": {
+            "BirdMan": 5, 
+            "TerminalJunkie": 4
+          }, 
+          "deaths": {
+            "BirdMan": 17, 
+            "TerminalJunkie": 7
+          }
+        }
+      }
+    }
+  ], 
+  "aggregate": {
+    "leaderboards": [
+      {
+        "matches": 5, 
+        "suicides": 4, 
+        "name": "BirdMan", 
+        "kills": 124, 
+        "deaths": 40
+      }, 
+      {
+        "matches": 4, 
+        "suicides": 0, 
+        "name": "DF", 
+        "kills": 68, 
+        "deaths": 55
+      }, 
+      {
+        "matches": 4, 
+        "suicides": 1, 
+        "name": "Alex", 
+        "kills": 53, 
+        "deaths": 70
+      }, 
+      {
+        "matches": 5, 
+        "suicides": 6, 
+        "name": "TerminalJunkie", 
+        "kills": 54, 
+        "deaths": 85
+      }, 
+      {
+        "matches": 5, 
+        "suicides": 4, 
+        "name": "Punk", 
+        "kills": 48, 
+        "deaths": 97
+      }
+    ], 
+    "pvp": {
+      "BirdMan": [
+        {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 41, 
+          "deaths": 11
+        }, 
+        {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 33, 
+          "deaths": 9
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 29, 
+          "deaths": 7
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 21, 
+          "deaths": 13
+        }
+      ], 
+      "DF": [
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 22, 
+          "deaths": 12
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 17, 
+          "deaths": 10
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 16, 
+          "deaths": 12
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 13, 
+          "deaths": 21
+        }
+      ], 
+      "TerminalJunkie": [
+        {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 20, 
+          "deaths": 15
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 15, 
+          "deaths": 20
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 10, 
+          "deaths": 17
+        }, 
+        {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 9, 
+          "deaths": 33
+        }
+      ], 
+      "Punk": [
+        {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 15, 
+          "deaths": 20
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 12, 
+          "deaths": 22
+        }, 
+        {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 11, 
+          "deaths": 41
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 10, 
+          "deaths": 14
+        }
+      ], 
+      "Alex": [
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 20, 
+          "deaths": 15
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 14, 
+          "deaths": 10
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 12, 
+          "deaths": 16
+        }, 
+        {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 7, 
+          "deaths": 29
+        }
+      ]
+    }, 
+    "weapons_agg": {
+      "blueball": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 0
+      }, 
+      "detonated": {
+        "matches": 1, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "pummel": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 12, 
+        "deaths": 0
+      }, 
+      "bluecombo": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 0
+      }, 
+      "grenade2": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 2, 
+        "deaths": 0
+      }, 
+      "plasma2": {
+        "matches": 1, 
+        "suicides": 1, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "telefrag": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 3, 
+        "deaths": 0
+      }, 
+      "crylink": {
+        "matches": 1, 
+        "suicides": 1, 
+        "name": null, 
+        "kills": 13, 
+        "deaths": 0
+      }, 
+      "blue": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 9, 
+        "deaths": 0
+      }, 
+      "shotgun2": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 59, 
+        "deaths": 0
+      }, 
+      "blue2": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 5, 
+        "deaths": 0
+      }, 
+      "vaporize": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 35, 
+        "deaths": 0
+      }, 
+      "rocket": {
+        "matches": 1, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 36, 
+        "deaths": 0
+      }, 
+      "grounded": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 1, 
+        "deaths": 0
+      }, 
+      "shotgun": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 119, 
+        "deaths": 0
+      }, 
+      "explode": {
+        "matches": 1, 
+        "suicides": 5, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "crylink2": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 23, 
+        "deaths": 0
+      }, 
+      "crylink3": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 2, 
+        "deaths": 0
+      }, 
+      "rocket2": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 12, 
+        "deaths": 0
+      }, 
+      "slimed": {
+        "matches": 1, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 0
+      }, 
+      "plasma": {
+        "matches": 1, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "grenade": {
+        "matches": 1, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 0
+      }
+    }, 
+    "weapons_by_name": {
+      "DF": {
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 8
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "grenade2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 3
+        }, 
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 1
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 14, 
+          "deaths": 4
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "grounded": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 20, 
+          "deaths": 24
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 14, 
+          "deaths": 2
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 6
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 4
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }
+      }, 
+      "BirdMan": {
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 1
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 27, 
+          "deaths": 4
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 1
+        }, 
+        "plasma2": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }, 
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 4
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 30, 
+          "deaths": 5
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 11, 
+          "deaths": 4
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 2
+        }, 
+        "grounded": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 27, 
+          "deaths": 13
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 7, 
+          "deaths": 2
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 7, 
+          "deaths": 0
+        }, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }
+      }, 
+      "TerminalJunkie": {
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 2
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "grenade2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 3
+        }, 
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 6, 
+          "deaths": 20
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 10
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 7
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 30, 
+          "deaths": 27
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 3
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 3
+        }, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }
+      }, 
+      "Alex": {
+        "rocket": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 10
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 2
+        }, 
+        "grenade2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 2
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 2
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 3
+        }, 
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 8
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 3
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 27, 
+          "deaths": 22
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 11
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 6, 
+          "deaths": 4
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }
+      }, 
+      "Punk": {
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 5
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 2
+        }, 
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 1
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 9
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 7
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 15, 
+          "deaths": 33
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 21
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 8
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 5
+        }, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 3
+        }, 
+        "plasma": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }
+      }
+    }
+  }
+}
