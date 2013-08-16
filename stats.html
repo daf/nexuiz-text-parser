@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
+    <link href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" rel="stylesheet" />
+    <link href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables_themeroller.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Nexuiz</h1>
+
+      <ul class="nav nav-pills">
+      </ul>
+
+      <div class="row">
+        <div id="leaderboard-holder" class="col-md-6 col-lg-6">
+          <h3>Leaderboard</h3>
+          <table id="leaderboard" class="table table-bordered table-hover table-striped">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Score</th>
+                <th>Kills</th>
+                <th>Deaths</th>
+                <th>Suicides</th>
+                <th>K/D</th>
+                <th>Matches</th>
+              </tr>
+            <tbody>
+            </tbody>
+          </table>
+        </div>
+
+        <div id="pvp-holder" class="col-md-6 col-lg-6">
+          <h3>PvP</h3>
+          <table id="pvp" class="table table-bordered table-hover table-striped">
+            <thead>
+              <tr>
+                <th>Name</th>
+              </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="row">
+        <div id="kd-chart" class="col-md-12 col-lg-12">
+          <svg width="960" height="200">
+          </svg>
+        </div>
+      </div>
+
+      <div class="row">
+        <div id="weapons-holder" class="col-md-6 col-lg-6">
+          <h3>Weapons</h3>
+          <table id="weapons" class="table table-bordered table-hover table-striped">
+            <thead>
+              <tr>
+                <th>Weapon</th>
+                <th>Kills</th>
+                <th>Suicides</th>
+                <th>Killer</th>
+                <th>#</th>
+                <th>Corpse</th>
+                <th>#</th>
+              </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+
+      var promo = null;
+
+      function showMatch(matchData) {
+
+        //console.log(matchData);
+
+        $('.nav-pills li').each(function(idx, el) {
+          if (d3.select(el).datum().data == matchData) {
+
+            $(el).addClass('active');
+            $(el).siblings().removeClass('active');
+          }
+        });
+
+        // leaderboard!
+        var leaderboard = d3.select('#leaderboard tbody');
+
+        var trs = leaderboard.selectAll("tr")
+          .data(matchData.leaderboard, function(d) { return d.name });
+
+        // new
+        var newtrs = trs.enter().append("tr");
+        newtrs.append("td").text(function(d) { return d.name });
+        newtrs.append("td").text(function(d) { return d.kills - d.suicides });
+        newtrs.append("td").text(function(d) { return d.kills });
+        newtrs.append("td").text(function(d) { return d.deaths });
+        newtrs.append("td").text(function(d) { return d.suicides });
+        newtrs.append("td").text(function(d) { return (d.kills / d.deaths).toFixed(2) });
+        newtrs.append("td").text(function(d) { return d.matches });
+        
+        // update
+        trs.select("td:nth-child(1)").text(function(d) { return d.name })
+        trs.select("td:nth-child(2)").text(function(d) { return d.kills - d.suicides })
+        trs.select("td:nth-child(3)").text(function(d) { return d.kills })
+        trs.select("td:nth-child(4)").text(function(d) { return d.deaths })
+        trs.select("td:nth-child(5)").text(function(d) { return d.suicides })
+        trs.select("td:nth-child(6)").text(function(d) { return (d.kills / d.deaths).toFixed(2) })
+        trs.select("td:nth-child(7)").text(function(d) { return d.matches })
+
+        // old
+        trs.exit().remove();
+
+        // sort!
+        leaderboard.selectAll("tr")
+          .sort(function(a, b) {
+            return d3.descending(a.kills - a.suicides, b.kills - b.suicides);
+          });
+
+        // pvp kills
+
+        // create "kill matrix"
+        // 1. create mapping from name to overall position
+        var posMap = {};
+        matchData.leaderboard.forEach(function(d, i) {
+          posMap[d.name] = i;
+        });
+
+        // 2. populate kill matrix
+        var killMatrix = matchData.leaderboard.map(function(d, i) {
+          var row = [];
+          // suicides
+          row[i] = (d.suicides > 0) ? -d.suicides : '';
+
+          // kills
+          matchData.pvp[d.name].forEach(function(v) {
+            row[posMap[v.name]] = v.kills;
+          });
+
+          row.splice(0, 0, (i+1) + ". " + d.name);
+          return row;
+        });
+
+        //console.log(killMatrix);
+
+        var pvp = d3.select('#pvp');
+
+        var thead = pvp.select('thead tr');
+        var ths = thead.selectAll('th')
+          .data(["Name"].concat(killMatrix.map(function(d, i) { return i+1 })))
+
+        ths.enter()
+          .append("th")
+          .text(function(d) { return d; });
+
+        ths.exit()
+          .remove();
+
+        var trs = pvp.select('tbody').selectAll('tr')
+          .data(killMatrix);
+
+        trs.enter()
+          .append("tr");
+
+        trs.exit()
+          .remove();
+
+        var tds = trs.selectAll("td")
+          .data(Object);
+
+        tds.enter()
+          .append("td")
+          .text(function(d) { return d; });
+
+        tds.exit()
+          .remove();
+
+        tds.text(function(d) { return d; });
+        
+        //
+        // weapons
+        //
+
+        // transform weapons_agg to array
+        var weapon_data = [];
+        for (var prop in matchData.weapons_agg) {
+
+          // pull out all people using this weapon
+          var player_use = [];
+
+          for (var player in matchData.weapons_by_name) {
+            var pd = matchData.weapons_by_name[player];
+            if (pd.hasOwnProperty(prop)) {
+              player_use.push({name:player,
+                               stats:pd[prop]});
+            }
+          }
+
+          var most_val = d3.max(player_use, function(d) { return d.stats.kills });
+          var least_val = d3.max(player_use, function(d) { return d.stats.deaths });
+
+          // now get all names matching these values
+          var most = player_use.filter(function(d) { return d.stats.kills == most_val }).map(function(d) { return d.name })
+          var least = player_use.filter(function(d) { return d.stats.deaths == least_val }).map(function(d) { return d.name })
+
+          weapon_data.push({weapon:prop,
+                            kills: matchData.weapons_agg[prop].kills,
+                            suicides: matchData.weapons_agg[prop].suicides || " ",
+                            most: most,
+                            most_val: most_val,
+                            least: least,
+                            least_val: least_val});
+        };
+
+        weapon_data.sort(function(a, b) {
+          return d3.descending(a.kills, b.kills);
+        });
+
+        var weapons = d3.select('#weapons tbody');
+
+        var trs = weapons.selectAll("tr")
+          .data(weapon_data, function(d) { return d.weapon });
+
+        var newtrs = trs.enter().append("tr");
+
+        newtrs.append("td").text(function(d) { return d.weapon; })
+        newtrs.append("td").text(function(d) { return d.kills; })
+        newtrs.append("td").text(function(d) { return d.suicides; })
+        newtrs.append("td").text(function(d) { return d.most.join(", "); })
+        newtrs.append("td").text(function(d) { return d.most_val; })
+        newtrs.append("td").text(function(d) { return d.least.join(", "); })
+        newtrs.append("td").text(function(d) { return d.least_val; })
+
+        trs.exit().remove();
+
+        trs.select("td:nth-child(1)").text(function(d) { return d.weapon })
+        trs.select("td:nth-child(2)").text(function(d) { return d.kills })
+        trs.select("td:nth-child(3)").text(function(d) { return d.suicides })
+        trs.select("td:nth-child(4)").text(function(d) { return d.most.join(", ") })
+        trs.select("td:nth-child(5)").text(function(d) { return d.most_val })
+        trs.select("td:nth-child(6)").text(function(d) { return d.least.join(", ") })
+        trs.select("td:nth-child(7)").text(function(d) { return d.least_val })
+
+
+        weapons.selectAll("tr")
+          .sort(function(a, b) {
+            return d3.descending(a.kills, b.kills);
+          });
+
+
+        // kd chart if applicable
+        if (matchData.hasOwnProperty('scoreboard')) {
+          var series = {};
+          var allnames = [];
+          matchData.leaderboard.forEach(function(d, i) {
+            series[d.name] = [0];
+            allnames.push(d.name);
+          });
+
+          // iterate scoreboard to build series for each person
+          matchData.scoreboard.forEach(function(d, i) {
+            var curNames = d3.set(allnames);
+
+            // first: suicide or kill?
+            if (d.length == 2) {
+              var k = series[d[0][0]];
+              k.push(k[k.length-1] + 1)
+
+              var c = series[d[1][0]];
+              c.push(c[c.length-1] - 1)
+
+              curNames.remove(d[0][0]);
+              curNames.remove(d[1][0]);
+
+            } else {
+              var c = series[d[0][0]];
+              c.push(c[c.length-1] - 1);
+
+              curNames.remove(d[0][0]);
+            }
+
+            // add keepalives for the ones left
+            curNames.forEach(function(dd) {
+              series[dd].push(series[dd][series[dd].length-1]);
+            });
+          });
+
+          //console.log(series);
+
+          var kdc = d3.select('#kd-chart svg');
+          var x = d3.scale.linear()
+            .domain([0, series[Object.keys(series)[0]].length])
+            .range([0, 960]);
+
+          var dataextent = d3.max(d3.extent(d3.merge(d3.values(series))).map(function(d) { return Math.abs(d); }))
+
+          var y = d3.scale.linear()
+            .domain([dataextent, -dataextent])
+            .range([0, 200]);
+
+          var line = d3.svg.line()
+            .interpolate('cardinal')
+            .x(function(d, i) { return x(i) })
+            .y(function(d) { return y(d) });
+
+          var kdlines = kdc.selectAll(".kdline")
+            .data(d3.entries(series), function(d) { return d.key });
+
+          kdlines.enter().append("path")
+            .attr("class", "kdline")
+            .attr("d", function(d) { return line(d.value) })
+            .attr('fill', 'none')
+            .attr('stroke-width', 2)
+            .attr('stroke', '#000000');
+
+          kdlines.exit().remove();
+
+          kdlines.transition()
+            .duration(250)
+            .attr("d", function(d) { return line(d.value); });
+
+        }
+      }
+
+      $(function() {
+        d3.json("/sample/output.json", function(err, data) {
+          promo = data;
+          console.log(data);
+
+          //
+          // nav
+          //
+          var nav_data = [{lbl:"Overall", data:data.aggregate}].concat(data.matches.map(function(d, i) { return {lbl:i+1, data:d}}));
+
+          var lis = d3.select('.nav-pills').selectAll('li')
+            .data(nav_data);
+
+          lis.enter().append("li")
+            .append("a")
+            .attr("href", "#")
+            .text(function(d) { return d.lbl })
+            .on('click', function(d) {
+              showMatch(d.data);
+              d3.event.preventDefault();
+            });
+
+          showMatch(data.aggregate);
+
+        })
+      });
+    </script>
+  </body>
+</html>
+
