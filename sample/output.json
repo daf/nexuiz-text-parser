@@ -1,435 +1,596 @@
 {
   "matches": [
     {
-      "weapons": {
-        "detonated": [
-          [
-            "TerminalJunkie"
-          ]
+      "pvp": {
+        "BirdMan": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 10, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 10, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 6, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 4, 
+            "deaths": 2
+          }
         ], 
-        "pummel": [
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ]
+        "DF": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 6, 
+            "deaths": 2
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 5, 
+            "deaths": 10
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 4, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 3, 
+            "deaths": 4
+          }
         ], 
-        "bluecombo": [
-          [
-            "DF", 
-            "BirdMan"
-          ]
+        "TerminalJunkie": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 5, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 4, 
+            "deaths": 6
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 4, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 2, 
+            "deaths": 4
+          }
         ], 
-        "grenade2": [
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ]
+        "Punk": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 4, 
+            "deaths": 7
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 3, 
+            "deaths": 10
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 3, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 2, 
+            "deaths": 6
+          }
         ], 
-        "blue2": [
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ]
-        ], 
-        "telefrag": [
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ]
-        ], 
-        "crylink": [
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ]
-        ], 
-        "blue": [
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ]
-        ], 
-        "explode": [
-          [
-            "Alex"
-          ], 
-          [
-            "Punk"
-          ]
-        ], 
-        "rocket": [
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ]
-        ], 
-        "grounded": [
-          [
-            "DF", 
-            "BirdMan"
-          ]
-        ], 
-        "shotgun": [
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "BirdMan"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "BirdMan"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ]
-        ], 
-        "shotgun2": [
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ]
-        ], 
-        "crylink2": [
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ]
-        ], 
-        "crylink3": [
-          [
-            "DF", 
-            "TerminalJunkie"
-          ]
-        ], 
-        "rocket2": [
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ]
-        ], 
-        "plasma": [
-          [
-            "Punk"
-          ]
-        ], 
-        "grenade": [
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ]
+        "Alex": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 7, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 6, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 4, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 3, 
+            "deaths": 6
+          }
         ]
+      }, 
+      "weapons_by_name": {
+        "BirdMan": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 8, 
+            "deaths": 2
+          }, 
+          "grounded": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 10, 
+            "deaths": 3
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 0
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 0
+          }, 
+          "telefrag": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "grenade": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }
+        }, 
+        "DF": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 3
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 6
+          }, 
+          "grounded": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 5, 
+            "deaths": 1
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "crylink3": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "grenade2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "grenade": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 2
+          }
+        }, 
+        "TerminalJunkie": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "detonated": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 5, 
+            "deaths": 6
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 2
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "crylink3": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "grenade2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "grenade": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 1
+          }
+        }, 
+        "Punk": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 1
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 5
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 2
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 11
+          }, 
+          "explode": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 4
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "telefrag": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "grenade": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "plasma": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }
+        }, 
+        "Alex": {
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 3
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 9, 
+            "deaths": 5
+          }, 
+          "explode": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 0
+          }, 
+          "grenade2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "telefrag": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "grenade": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }
+        }
       }, 
       "gametime": "Fri Aug 09 16:57:40 2013", 
       "scoreboard": [
@@ -1990,43 +2151,6 @@
           ]
         ]
       ], 
-      "leaderboard": [
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "BirdMan", 
-          "kills": 30, 
-          "deaths": 13
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": "Alex", 
-          "kills": 20, 
-          "deaths": 18
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "DF", 
-          "kills": 18, 
-          "deaths": 20
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": "TerminalJunkie", 
-          "kills": 15, 
-          "deaths": 16
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": "Punk", 
-          "kills": 12, 
-          "deaths": 28
-        }
-      ], 
       "players": {
         "BirdMan": {
           "curlife": [], 
@@ -2373,442 +2497,652 @@
             "Punk": 4
           }
         }
-      }
+      }, 
+      "weapons_agg": {
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 0
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "grenade2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 0
+        }, 
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 0
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 14, 
+          "deaths": 0
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 11, 
+          "deaths": 0
+        }, 
+        "grounded": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 31, 
+          "deaths": 0
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 7, 
+          "deaths": 0
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 6, 
+          "deaths": 0
+        }, 
+        "plasma": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 0
+        }
+      }, 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 30, 
+          "deaths": 13
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "Alex", 
+          "kills": 20, 
+          "deaths": 18
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 18, 
+          "deaths": 20
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "TerminalJunkie", 
+          "kills": 15, 
+          "deaths": 16
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": "Punk", 
+          "kills": 12, 
+          "deaths": 28
+        }
+      ]
     }, 
     {
-      "weapons": {
-        "blue": [
-          [
-            "BirdMan", 
-            "Alex"
-          ]
+      "pvp": {
+        "DF": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 8, 
+            "deaths": 6
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 7, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 7, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 6, 
+            "deaths": 4
+          }
         ], 
-        "blueball": [
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ]
+        "BirdMan": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 11, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 8, 
+            "deaths": 2
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 7, 
+            "deaths": 1
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 4, 
+            "deaths": 6
+          }
         ], 
-        "vaporize": [
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ]
+        "TerminalJunkie": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 5, 
+            "deaths": 7
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 4, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 3, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 2, 
+            "deaths": 8
+          }
         ], 
-        "rocket": [
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ]
+        "Punk": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 6, 
+            "deaths": 8
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 5, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 1, 
+            "deaths": 7
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 1, 
+            "deaths": 4
+          }
         ], 
-        "pummel": [
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "Punk", 
-            "BirdMan"
-          ]
-        ], 
-        "shotgun": [
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "BirdMan"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "BirdMan"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ]
-        ], 
-        "bluecombo": [
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ]
-        ], 
-        "shotgun2": [
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ]
-        ], 
-        "crylink2": [
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ]
-        ], 
-        "crylink3": [
-          [
-            "Alex", 
-            "BirdMan"
-          ]
-        ], 
-        "rocket2": [
-          [
-            "DF", 
-            "Punk"
-          ]
-        ], 
-        "plasma": [
-          [
-            "Punk"
-          ]
-        ], 
-        "crylink": [
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ]
+        "Alex": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 4, 
+            "deaths": 7
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 4, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 4, 
+            "deaths": 1
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 3, 
+            "deaths": 11
+          }
         ]
+      }, 
+      "weapons_by_name": {
+        "BirdMan": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "blueball": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 2
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 6, 
+            "deaths": 0
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 6, 
+            "deaths": 6
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 6, 
+            "deaths": 1
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 1
+          }, 
+          "crylink3": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }
+        }, 
+        "DF": {
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 7, 
+            "deaths": 0
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 2
+          }, 
+          "blueball": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 6, 
+            "deaths": 2
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 10, 
+            "deaths": 12
+          }
+        }, 
+        "TerminalJunkie": {
+          "blueball": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 12, 
+            "deaths": 9
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 5
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 2
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }
+        }, 
+        "Alex": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 2
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 8, 
+            "deaths": 8
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 5
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 2
+          }, 
+          "crylink3": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }
+        }, 
+        "Punk": {
+          "blueball": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 2
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 3
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 8, 
+            "deaths": 9
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 3
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 2
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "plasma": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }
+        }
       }, 
       "gametime": "Fri Aug 09 16:57:40 2013", 
       "scoreboard": [
@@ -4431,43 +4765,6 @@
           ]
         ]
       ], 
-      "leaderboard": [
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "BirdMan", 
-          "kills": 30, 
-          "deaths": 12
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "DF", 
-          "kills": 28, 
-          "deaths": 19
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "Alex", 
-          "kills": 15, 
-          "deaths": 23
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": "TerminalJunkie", 
-          "kills": 14, 
-          "deaths": 24
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": "Punk", 
-          "kills": 13, 
-          "deaths": 22
-        }
-      ], 
       "players": {
         "DF": {
           "curlife": [], 
@@ -4813,460 +5110,645 @@
             "Punk": 1
           }
         }
-      }
+      }, 
+      "weapons_agg": {
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 0
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 10, 
+          "deaths": 0
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 9, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 0
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 44, 
+          "deaths": 0
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 14, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 9, 
+          "deaths": 0
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "plasma": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }
+      }, 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 30, 
+          "deaths": 12
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 28, 
+          "deaths": 19
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 15, 
+          "deaths": 23
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "TerminalJunkie", 
+          "kills": 14, 
+          "deaths": 24
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "Punk", 
+          "kills": 13, 
+          "deaths": 22
+        }
+      ]
     }, 
     {
-      "weapons": {
-        "blue": [
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ]
+      "pvp": {
+        "DF": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 8, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 7, 
+            "deaths": 1
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 5, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 2, 
+            "deaths": 7
+          }
         ], 
-        "shotgun2": [
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ]
+        "BirdMan": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 12, 
+            "deaths": 1
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 7, 
+            "deaths": 2
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 7, 
+            "deaths": 2
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 7, 
+            "deaths": 2
+          }
         ], 
-        "blueball": [
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ]
+        "TerminalJunkie": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 7, 
+            "deaths": 10
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 5, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 2, 
+            "deaths": 7
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 1, 
+            "deaths": 7
+          }
         ], 
-        "vaporize": [
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ]
+        "Alex": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 10, 
+            "deaths": 7
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 4, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 3, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 1, 
+            "deaths": 12
+          }
         ], 
-        "detonated": [
-          [
-            "Punk"
-          ]
-        ], 
-        "rocket": [
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "Punk", 
-            "BirdMan"
-          ]
-        ], 
-        "shotgun": [
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "BirdMan"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ]
-        ], 
-        "bluecombo": [
-          [
-            "Punk", 
-            "Alex"
-          ]
-        ], 
-        "explode": [
-          [
-            "BirdMan"
-          ]
-        ], 
-        "crylink2": [
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "DF", 
-            "Alex"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ]
-        ], 
-        "rocket2": [
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "DF"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ]
-        ], 
-        "plasma2": [
-          [
-            "BirdMan"
-          ]
-        ], 
-        "blue2": [
-          [
-            "Alex", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "DF"
-          ]
-        ], 
-        "telefrag": [
-          [
-            "TerminalJunkie", 
-            "Alex"
-          ]
-        ], 
-        "crylink": [
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "DF", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "DF"
-          ], 
-          [
-            "Punk", 
-            "Alex"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Alex", 
-            "Punk"
-          ], 
-          [
-            "BirdMan"
-          ], 
-          [
-            "DF", 
-            "BirdMan"
-          ]
+        "Punk": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Alex", 
+            "kills": 5, 
+            "deaths": 3
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "DF", 
+            "kills": 4, 
+            "deaths": 8
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 3, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 2, 
+            "deaths": 7
+          }
         ]
+      }, 
+      "weapons_by_name": {
+        "DF": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 8, 
+            "deaths": 2
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 6, 
+            "deaths": 6
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 1
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 2
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 1
+          }
+        }, 
+        "BirdMan": {
+          "explode": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "blueball": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 5, 
+            "deaths": 1
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 10, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 7, 
+            "deaths": 2
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 7, 
+            "deaths": 0
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 0
+          }, 
+          "plasma2": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }
+        }, 
+        "TerminalJunkie": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "blueball": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 5
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 8, 
+            "deaths": 10
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 6
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "telefrag": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }
+        }, 
+        "Alex": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 5
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 5
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 10, 
+            "deaths": 9
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 3
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 2
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "telefrag": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 2
+          }
+        }, 
+        "Punk": {
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 4
+          }, 
+          "detonated": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 3
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 8
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "crylink2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 2
+          }, 
+          "rocket2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 2
+          }
+        }
       }, 
       "gametime": "Fri Aug 09 16:57:40 2013", 
       "scoreboard": [
@@ -6939,43 +7421,6 @@
           ]
         ]
       ], 
-      "leaderboard": [
-        {
-          "matches": 1, 
-          "suicides": 3, 
-          "name": "BirdMan", 
-          "kills": 33, 
-          "deaths": 7
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "DF", 
-          "kills": 22, 
-          "deaths": 16
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "Alex", 
-          "kills": 18, 
-          "deaths": 29
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "TerminalJunkie", 
-          "kills": 15, 
-          "deaths": 27
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": "Punk", 
-          "kills": 14, 
-          "deaths": 23
-        }
-      ], 
       "players": {
         "DF": {
           "curlife": [], 
@@ -7342,243 +7787,378 @@
             "Alex": 3
           }
         }
-      }
+      }, 
+      "weapons_agg": {
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 17, 
+          "deaths": 0
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 12, 
+          "deaths": 0
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 35, 
+          "deaths": 0
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 12, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 7, 
+          "deaths": 0
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "rocket2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 0
+        }, 
+        "plasma2": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 7, 
+          "deaths": 0
+        }
+      }, 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 3, 
+          "name": "BirdMan", 
+          "kills": 33, 
+          "deaths": 7
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 22, 
+          "deaths": 16
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 18, 
+          "deaths": 29
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 15, 
+          "deaths": 27
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "Punk", 
+          "kills": 14, 
+          "deaths": 23
+        }
+      ]
     }, 
     {
-      "weapons": {
-        "blue": [
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "Punk", 
-            "BirdMan"
-          ]
+      "pvp": {
+        "BirdMan": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 17, 
+            "deaths": 5
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 14, 
+            "deaths": 3
+          }
         ], 
-        "shotgun2": [
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ]
+        "TerminalJunkie": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "Punk", 
+            "kills": 7, 
+            "deaths": 4
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 3, 
+            "deaths": 14
+          }
         ], 
-        "vaporize": [
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ]
-        ], 
-        "rocket": [
-          [
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ]
-        ], 
-        "pummel": [
-          [
-            "Punk", 
-            "BirdMan"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ]
-        ], 
-        "shotgun": [
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie", 
-            "BirdMan"
-          ]
-        ], 
-        "explode": [
-          [
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan"
-          ]
-        ], 
-        "slimed": [
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie"
-          ], 
-          [
-            "BirdMan", 
-            "Punk"
-          ], 
-          [
-            "BirdMan", 
-            "TerminalJunkie"
-          ], 
-          [
-            "TerminalJunkie", 
-            "Punk"
-          ], 
-          [
-            "TerminalJunkie"
-          ]
-        ], 
-        "blue2": [
-          [
-            "Punk", 
-            "TerminalJunkie"
-          ]
+        "Punk": [
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "BirdMan", 
+            "kills": 5, 
+            "deaths": 17
+          }, 
+          {
+            "matches": 2, 
+            "suicides": 0, 
+            "name": "TerminalJunkie", 
+            "kills": 4, 
+            "deaths": 7
+          }
         ]
+      }, 
+      "weapons_by_name": {
+        "BirdMan": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "explode": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 1
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 1
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 2
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 17, 
+            "deaths": 1
+          }, 
+          "slimed": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 0
+          }
+        }, 
+        "TerminalJunkie": {
+          "explode": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 4
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 2
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 5, 
+            "deaths": 2
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 7
+          }, 
+          "slimed": {
+            "matches": 1, 
+            "suicides": 2, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }
+        }, 
+        "Punk": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "vaporize": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 3
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 1
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 1
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 5
+          }, 
+          "shotgun2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 11
+          }, 
+          "slimed": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "blue2": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }
+        }
       }, 
       "gametime": "Fri Aug 09 16:57:40 2013", 
       "scoreboard": [
@@ -8428,29 +9008,6 @@
           ]
         ]
       ], 
-      "leaderboard": [
-        {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": "BirdMan", 
-          "kills": 31, 
-          "deaths": 8
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": "Punk", 
-          "kills": 9, 
-          "deaths": 24
-        }, 
-        {
-          "matches": 1, 
-          "suicides": 4, 
-          "name": "TerminalJunkie", 
-          "kills": 10, 
-          "deaths": 18
-        }
-      ], 
       "players": {
         "BirdMan": {
           "curlife": [], 
@@ -8627,11 +9184,1028 @@
             "TerminalJunkie": 7
           }
         }
-      }
+      }, 
+      "weapons_agg": {
+        "blue": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "vaporize": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 8, 
+          "deaths": 0
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 0
+        }, 
+        "shotgun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 9, 
+          "deaths": 0
+        }, 
+        "shotgun2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 19, 
+          "deaths": 0
+        }, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 0
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }
+      }, 
+      "leaderboard": [
+        {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": "BirdMan", 
+          "kills": 31, 
+          "deaths": 8
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 9, 
+          "deaths": 24
+        }, 
+        {
+          "matches": 1, 
+          "suicides": 4, 
+          "name": "TerminalJunkie", 
+          "kills": 10, 
+          "deaths": 18
+        }
+      ]
     }
   ], 
   "aggregate": {
-    "leaderboards": [
+    "pvp": {
+      "BirdMan": [
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 29, 
+          "deaths": 7
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 21, 
+          "deaths": 13
+        }, 
+        {
+          "matches": 8, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 41, 
+          "deaths": 11
+        }, 
+        {
+          "matches": 8, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 33, 
+          "deaths": 9
+        }
+      ], 
+      "DF": [
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 16, 
+          "deaths": 12
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 13, 
+          "deaths": 21
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 22, 
+          "deaths": 12
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 17, 
+          "deaths": 10
+        }
+      ], 
+      "TerminalJunkie": [
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 15, 
+          "deaths": 20
+        }, 
+        {
+          "matches": 8, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 9, 
+          "deaths": 33
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 10, 
+          "deaths": 17
+        }, 
+        {
+          "matches": 8, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 20, 
+          "deaths": 15
+        }
+      ], 
+      "Punk": [
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "Alex", 
+          "kills": 10, 
+          "deaths": 14
+        }, 
+        {
+          "matches": 8, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 11, 
+          "deaths": 41
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 12, 
+          "deaths": 22
+        }, 
+        {
+          "matches": 8, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 15, 
+          "deaths": 20
+        }
+      ], 
+      "Alex": [
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "BirdMan", 
+          "kills": 7, 
+          "deaths": 29
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "DF", 
+          "kills": 12, 
+          "deaths": 16
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "Punk", 
+          "kills": 14, 
+          "deaths": 10
+        }, 
+        {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": "TerminalJunkie", 
+          "kills": 20, 
+          "deaths": 15
+        }
+      ]
+    }, 
+    "weapons_agg": {
+      "detonated": {
+        "matches": 2, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "rocket": {
+        "matches": 18, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 36, 
+        "deaths": 36
+      }, 
+      "bluecombo": {
+        "matches": 7, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 4
+      }, 
+      "plasma2": {
+        "matches": 1, 
+        "suicides": 1, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "crylink": {
+        "matches": 11, 
+        "suicides": 1, 
+        "name": null, 
+        "kills": 13, 
+        "deaths": 13
+      }, 
+      "blue": {
+        "matches": 11, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 9, 
+        "deaths": 9
+      }, 
+      "explode": {
+        "matches": 5, 
+        "suicides": 5, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "vaporize": {
+        "matches": 13, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 35, 
+        "deaths": 35
+      }, 
+      "pummel": {
+        "matches": 11, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 12, 
+        "deaths": 12
+      }, 
+      "grounded": {
+        "matches": 2, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 1, 
+        "deaths": 1
+      }, 
+      "rocket2": {
+        "matches": 12, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 12, 
+        "deaths": 12
+      }, 
+      "plasma": {
+        "matches": 2, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "blueball": {
+        "matches": 6, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 4
+      }, 
+      "grenade2": {
+        "matches": 3, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 2, 
+        "deaths": 2
+      }, 
+      "blue2": {
+        "matches": 8, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 5, 
+        "deaths": 5
+      }, 
+      "telefrag": {
+        "matches": 5, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 3, 
+        "deaths": 3
+      }, 
+      "shotgun": {
+        "matches": 18, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 119, 
+        "deaths": 119
+      }, 
+      "shotgun2": {
+        "matches": 18, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 59, 
+        "deaths": 59
+      }, 
+      "crylink2": {
+        "matches": 14, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 23, 
+        "deaths": 23
+      }, 
+      "crylink3": {
+        "matches": 4, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 2, 
+        "deaths": 2
+      }, 
+      "slimed": {
+        "matches": 3, 
+        "suicides": 2, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 4
+      }, 
+      "grenade": {
+        "matches": 5, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 4
+      }
+    }, 
+    "weapons_by_name": {
+      "BirdMan": {
+        "blue": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 4
+        }, 
+        "shotgun2": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 30, 
+          "deaths": 5
+        }, 
+        "blueball": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 1
+        }, 
+        "vaporize": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 11, 
+          "deaths": 4
+        }, 
+        "pummel": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 2
+        }, 
+        "grounded": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "shotgun": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 27, 
+          "deaths": 13
+        }, 
+        "rocket": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 27, 
+          "deaths": 4
+        }, 
+        "bluecombo": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 1
+        }, 
+        "explode": {
+          "matches": 2, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 7, 
+          "deaths": 2
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "rocket2": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 7, 
+          "deaths": 0
+        }, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 0
+        }, 
+        "plasma2": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 2, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }
+      }, 
+      "DF": {
+        "blue": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 1
+        }, 
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "vaporize": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 14, 
+          "deaths": 4
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "grounded": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "shotgun": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 20, 
+          "deaths": 24
+        }, 
+        "rocket": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 8
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "shotgun2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 14, 
+          "deaths": 2
+        }, 
+        "crylink2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 6
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "grenade2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "rocket2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 4
+        }, 
+        "blue2": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "crylink": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 3
+        }
+      }, 
+      "TerminalJunkie": {
+        "blue": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "shotgun2": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 6, 
+          "deaths": 20
+        }, 
+        "blueball": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }, 
+        "vaporize": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 10
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 2
+        }, 
+        "shotgun": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 30, 
+          "deaths": 27
+        }, 
+        "rocket": {
+          "matches": 4, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 7
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 3
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "grenade2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "rocket2": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 3
+        }, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "blue2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "crylink": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 3
+        }
+      }, 
+      "Alex": {
+        "blue": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 2
+        }, 
+        "shotgun2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 11
+        }, 
+        "vaporize": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 8
+        }, 
+        "rocket": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 10
+        }, 
+        "pummel": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 3
+        }, 
+        "shotgun": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 27, 
+          "deaths": 22
+        }, 
+        "bluecombo": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 2
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 6, 
+          "deaths": 4
+        }, 
+        "crylink3": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "grenade2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "rocket2": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 0
+        }, 
+        "blue2": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 2
+        }, 
+        "telefrag": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 2
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "crylink": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 3
+        }
+      }, 
+      "Punk": {
+        "blue": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 1
+        }, 
+        "shotgun2": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 21
+        }, 
+        "blueball": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "vaporize": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 9
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 5
+        }, 
+        "shotgun": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 15, 
+          "deaths": 33
+        }, 
+        "rocket": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 7
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "crylink2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 8
+        }, 
+        "rocket2": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 5
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 3
+        }, 
+        "blue2": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "plasma": {
+          "matches": 2, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 1
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 2
+        }
+      }
+    }, 
+    "leaderboard": [
       {
         "matches": 5, 
         "suicides": 4, 
@@ -8667,935 +10241,6 @@
         "kills": 48, 
         "deaths": 97
       }
-    ], 
-    "pvp": {
-      "BirdMan": [
-        {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": "Punk", 
-          "kills": 41, 
-          "deaths": 11
-        }, 
-        {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": "TerminalJunkie", 
-          "kills": 33, 
-          "deaths": 9
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "Alex", 
-          "kills": 29, 
-          "deaths": 7
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "DF", 
-          "kills": 21, 
-          "deaths": 13
-        }
-      ], 
-      "DF": [
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "Punk", 
-          "kills": 22, 
-          "deaths": 12
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "TerminalJunkie", 
-          "kills": 17, 
-          "deaths": 10
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "Alex", 
-          "kills": 16, 
-          "deaths": 12
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "BirdMan", 
-          "kills": 13, 
-          "deaths": 21
-        }
-      ], 
-      "TerminalJunkie": [
-        {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": "Punk", 
-          "kills": 20, 
-          "deaths": 15
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "Alex", 
-          "kills": 15, 
-          "deaths": 20
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "DF", 
-          "kills": 10, 
-          "deaths": 17
-        }, 
-        {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": "BirdMan", 
-          "kills": 9, 
-          "deaths": 33
-        }
-      ], 
-      "Punk": [
-        {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": "TerminalJunkie", 
-          "kills": 15, 
-          "deaths": 20
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "DF", 
-          "kills": 12, 
-          "deaths": 22
-        }, 
-        {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": "BirdMan", 
-          "kills": 11, 
-          "deaths": 41
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "Alex", 
-          "kills": 10, 
-          "deaths": 14
-        }
-      ], 
-      "Alex": [
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "TerminalJunkie", 
-          "kills": 20, 
-          "deaths": 15
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "Punk", 
-          "kills": 14, 
-          "deaths": 10
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "DF", 
-          "kills": 12, 
-          "deaths": 16
-        }, 
-        {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": "BirdMan", 
-          "kills": 7, 
-          "deaths": 29
-        }
-      ]
-    }, 
-    "weapons_agg": {
-      "blueball": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 4, 
-        "deaths": 0
-      }, 
-      "detonated": {
-        "matches": 1, 
-        "suicides": 2, 
-        "name": null, 
-        "kills": 0, 
-        "deaths": 0
-      }, 
-      "pummel": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 12, 
-        "deaths": 0
-      }, 
-      "bluecombo": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 4, 
-        "deaths": 0
-      }, 
-      "grenade2": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 2, 
-        "deaths": 0
-      }, 
-      "plasma2": {
-        "matches": 1, 
-        "suicides": 1, 
-        "name": null, 
-        "kills": 0, 
-        "deaths": 0
-      }, 
-      "telefrag": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 3, 
-        "deaths": 0
-      }, 
-      "crylink": {
-        "matches": 1, 
-        "suicides": 1, 
-        "name": null, 
-        "kills": 13, 
-        "deaths": 0
-      }, 
-      "blue": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 9, 
-        "deaths": 0
-      }, 
-      "shotgun2": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 59, 
-        "deaths": 0
-      }, 
-      "blue2": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 5, 
-        "deaths": 0
-      }, 
-      "vaporize": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 35, 
-        "deaths": 0
-      }, 
-      "rocket": {
-        "matches": 1, 
-        "suicides": 2, 
-        "name": null, 
-        "kills": 36, 
-        "deaths": 0
-      }, 
-      "grounded": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 1, 
-        "deaths": 0
-      }, 
-      "shotgun": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 119, 
-        "deaths": 0
-      }, 
-      "explode": {
-        "matches": 1, 
-        "suicides": 5, 
-        "name": null, 
-        "kills": 0, 
-        "deaths": 0
-      }, 
-      "crylink2": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 23, 
-        "deaths": 0
-      }, 
-      "crylink3": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 2, 
-        "deaths": 0
-      }, 
-      "rocket2": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 12, 
-        "deaths": 0
-      }, 
-      "slimed": {
-        "matches": 1, 
-        "suicides": 2, 
-        "name": null, 
-        "kills": 4, 
-        "deaths": 0
-      }, 
-      "plasma": {
-        "matches": 1, 
-        "suicides": 2, 
-        "name": null, 
-        "kills": 0, 
-        "deaths": 0
-      }, 
-      "grenade": {
-        "matches": 1, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 4, 
-        "deaths": 0
-      }
-    }, 
-    "weapons_by_name": {
-      "DF": {
-        "blueball": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 8
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "grenade2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }, 
-        "crylink": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 3
-        }, 
-        "blue": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 1
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 14, 
-          "deaths": 4
-        }, 
-        "pummel": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "grounded": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "shotgun": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 20, 
-          "deaths": 24
-        }, 
-        "shotgun2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 14, 
-          "deaths": 2
-        }, 
-        "crylink2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 6
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 4
-        }, 
-        "grenade": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }
-      }, 
-      "BirdMan": {
-        "blueball": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 1
-        }, 
-        "rocket": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 27, 
-          "deaths": 4
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 1
-        }, 
-        "plasma2": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "telefrag": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "crylink": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 2
-        }, 
-        "blue": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 4
-        }, 
-        "shotgun2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 30, 
-          "deaths": 5
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 11, 
-          "deaths": 4
-        }, 
-        "pummel": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 2
-        }, 
-        "grounded": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "shotgun": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 27, 
-          "deaths": 13
-        }, 
-        "explode": {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "crylink2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 7, 
-          "deaths": 2
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 7, 
-          "deaths": 0
-        }, 
-        "slimed": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 0
-        }, 
-        "grenade": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }
-      }, 
-      "TerminalJunkie": {
-        "blueball": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 2
-        }, 
-        "detonated": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "pummel": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 2
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "grenade2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 2
-        }, 
-        "telefrag": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "crylink": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 3
-        }, 
-        "blue": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }, 
-        "shotgun2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 6, 
-          "deaths": 20
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 10
-        }, 
-        "rocket": {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 7
-        }, 
-        "shotgun": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 30, 
-          "deaths": 27
-        }, 
-        "explode": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "crylink2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 3
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 3
-        }, 
-        "slimed": {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }, 
-        "grenade": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }
-      }, 
-      "Alex": {
-        "rocket": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 10
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 2
-        }, 
-        "grenade2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 2
-        }, 
-        "telefrag": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 2
-        }, 
-        "crylink": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 3
-        }, 
-        "blue": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 2
-        }, 
-        "explode": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 8
-        }, 
-        "pummel": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 3
-        }, 
-        "shotgun": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 27, 
-          "deaths": 22
-        }, 
-        "shotgun2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 11
-        }, 
-        "crylink2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 6, 
-          "deaths": 4
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 0
-        }, 
-        "grenade": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }
-      }, 
-      "Punk": {
-        "blueball": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "detonated": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "pummel": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 5
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "telefrag": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "crylink": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 2
-        }, 
-        "blue": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 1
-        }, 
-        "explode": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 9
-        }, 
-        "rocket": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 7
-        }, 
-        "shotgun": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 15, 
-          "deaths": 33
-        }, 
-        "shotgun2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 21
-        }, 
-        "crylink2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 8
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 5
-        }, 
-        "slimed": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 3
-        }, 
-        "plasma": {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "grenade": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }
-      }
-    }
+    ]
   }
 }

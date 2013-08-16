@@ -2,8 +2,9 @@
 
 import sys, re
 from collections import defaultdict
-from itertools import groupby
+from itertools import groupby, chain
 from json import JSONEncoder, dumps
+import operator
 
 ignores = ["Server using port",
            "Server listening on address",
@@ -122,7 +123,70 @@ def finish_game(curmatch, matches, last_time):
 
             board.append(sc)
 
-        curmatch['weapons'] = dict(curmatch['weapons'])
+        # build pvp for this match
+
+        keyfunc = lambda x: x.name
+        # dict of name -> [Scores vs each player, sorted by score?]
+        pvp = defaultdict(list)
+        for name, player in curmatch['players'].iteritems():
+            # translate into Scores
+
+            # turn into defaultdicts for easier access
+            kills = defaultdict(int, player['kills'])
+            deaths = defaultdict(int, player['deaths'])
+
+            # get all people we've killed or been killed by
+            opponents = set()
+            map(opponents.add, player['deaths'])
+            map(opponents.add, player['kills'])
+
+            for opp in opponents:
+                sc = Score()
+                sc.name = opp
+                sc.kills = kills[opp]
+                sc.deaths = deaths[opp]
+
+                pvp[name].append(sc)
+
+        # now sort and aggregate pvp
+        for name in pvp.keys():
+            scorelist = sorted(pvp[name], key=keyfunc)
+            scorelist = sorted([sum(v, Score()) for k, v in groupby(scorelist, keyfunc)], reverse=True)
+
+            pvp[name] = scorelist
+
+        curmatch['pvp'] = dict(pvp)
+
+        # assemble weapons stats for this match
+
+        # dict of name -> weapon -> Score(kills with, died by, suicides?)
+        weapons_by_name = defaultdict(lambda: defaultdict(Score))
+
+        # dict of weapon -> Score (only kills / suicides -- deaths are always symmetrical to kills)
+        weapons_agg = defaultdict(Score)
+
+        for weapon, kills in curmatch['weapons'].iteritems():
+            for k in kills:
+                if len(k) == 2:
+                    weapons_by_name[k[0]][weapon].kills += 1
+                    weapons_by_name[k[1]][weapon].deaths += 1
+
+                    weapons_agg[weapon].kills += 1
+                else:
+                    # 1-tuple means suicide!
+                    weapons_by_name[k[0]][weapon].suicides += 1
+                    weapons_agg[weapon].suicides += 1
+
+        # translate back to dicts
+        for name in weapons_by_name.keys():
+            weapons_by_name[name] = dict(weapons_by_name[name])
+
+        weapons_by_name = dict(weapons_by_name)
+        weapons_agg = dict(weapons_agg)
+
+        curmatch['weapons_by_name'] = weapons_by_name
+        curmatch['weapons_agg']     = weapons_agg
+        del curmatch['weapons']
 
         curmatch['leaderboard'] = sorted(board, reverse=True)
         matches.append(curmatch)
@@ -293,64 +357,40 @@ def aggregate(matches):
     boards = sorted(boards, key=keyfunc)
     boards = sorted([sum(v, Score()) for k,v in groupby(boards, keyfunc)], reverse=True)
 
-    # dict of name -> [Scores vs each player, sorted by score?]
     pvp = defaultdict(list)
     for m in matches:
-        for name, player in m['players'].iteritems():
-            # translate into Scores
+        for name, opps in m['pvp'].iteritems():
+            pvp[name].extend(opps)
 
-            # turn into defaultdicts for easier access
-            kills = defaultdict(int, player['kills'])
-            deaths = defaultdict(int, player['deaths'])
+    # sort each one
+    for name in pvp.iterkeys():
+        pvp[name] = sorted(pvp[name], key=keyfunc)
 
-            # get all people we've killed or been killed by
-            opponents = set()
-            map(opponents.add, player['deaths'])
-            map(opponents.add, player['kills'])
+    # groupby and summary
+    for name in pvp.iterkeys():
+        pvp[name] = [reduce(operator.add, v) for _,v in groupby(pvp[name], keyfunc)]
 
-            for opp in opponents:
-                sc = Score()
-                sc.name = opp
-                sc.kills = kills[opp]
-                sc.deaths = deaths[opp]
+    pvp = dict(pvp)
 
-                pvp[name].append(sc)
+    # weapons
+    c = chain(*(m['weapons_by_name'].items() for m in matches))
+    weapons_by_name = sorted(c, key=operator.itemgetter(0))
+    weapons_by_name = {k:[vv[1] for vv in v] for k, v in groupby(weapons_by_name, operator.itemgetter(0))}
 
-    # now sort and aggregate pvp
-    for name in pvp.keys():
-        scorelist = sorted(pvp[name], key=keyfunc)
-        scorelist = sorted([sum(v, Score()) for k, v in groupby(scorelist, keyfunc)], reverse=True)
+    # now iterate each person and aggregate each of their weapon match records
+    for name in weapons_by_name:
+        c = chain(*(w.items() for w in weapons_by_name[name]))
+        player_weapons = sorted(c, key=operator.itemgetter(0))
+        player_weapons = {k:reduce(operator.add, [vv[1] for vv in v]) for k, v in groupby(player_weapons, operator.itemgetter(0))}
 
-        pvp[name] = scorelist
+        weapons_by_name[name] = player_weapons
 
-    # dict of name -> weapon -> Score(kills with, died by, suicides?)
-    weapons_by_name = defaultdict(lambda: defaultdict(Score))
+    # now to aggregate all weapon stats just do same join process with values
+    c = chain(*(w.items() for w in weapons_by_name.itervalues()))
+    weapons_agg = sorted(c, key=operator.itemgetter(0))
+    weapons_agg = {k:reduce(operator.add, [vv[1] for vv in v]) for k, v in groupby(weapons_agg, operator.itemgetter(0))}
 
-    # dict of weapon -> Score (only kills / suicides -- deaths are always symmetrical to kills)
-    weapons_agg = defaultdict(Score)
-
-    for m in matches:
-        for weapon, kills in m['weapons'].iteritems():
-            for k in kills:
-                if len(k) == 2:
-                    weapons_by_name[k[0]][weapon].kills += 1
-                    weapons_by_name[k[1]][weapon].deaths += 1
-
-                    weapons_agg[weapon].kills += 1
-                else:
-                    # 1-tuple means suicide!
-                    weapons_by_name[k[0]][weapon].suicides += 1
-                    weapons_agg[weapon].suicides += 1
-
-    # translate back to dicts
-    for name in weapons_by_name.keys():
-        weapons_by_name[name] = dict(weapons_by_name[name])
-
-    weapons_by_name = dict(weapons_by_name)
-
-    weapons_agg = dict(weapons_agg)
-
-    return {'leaderboards':boards,
+    return {'leaderboard':boards,
             'pvp':dict(pvp),
             'weapons_by_name':weapons_by_name,
             'weapons_agg':weapons_agg}
