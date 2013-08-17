@@ -213,9 +213,10 @@ def parse_log(log_file):
     last_time = None
 
     curmatch = finish_game(None, matches, last_time)
+    rcolors = re.compile("\^.")
 
     for idx, l in enumerate(lines):
-        l = l.strip()
+        l = rcolors.sub("", l.strip()).replace("\x05", "")
         for i in ignores:
             if i in l:
                 break
