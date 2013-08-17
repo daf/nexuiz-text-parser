@@ -281,7 +281,7 @@ def parse_log(log_file):
 
                             break
                     else:
-                        print "I DONT KNOW THIS", idx, l
+                        print >>sys.stderr, "UNKNOWN LINE", idx, l
 
     return matches
 
