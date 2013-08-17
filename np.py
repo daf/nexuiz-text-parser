@@ -47,22 +47,14 @@ rstates = {
 rkills = {
     'shotgun': re.compile("(.*) was gunned by (.*)"),
     'machinegun': re.compile("(.*) was riddled full of holes by (.*)"),
-    'nex': re.compile("(.*) was sniped by (.*)"),
-    'crylink': re.compile("(.*) could not hide from (.*)'s Crylink"),
-    'crylink2': re.compile("(.*) took a close look at (.*)'s Crylink"),
-    'crylink3': re.compile("(.*) was too close to (.*)'s Crylink"),
-    'rocket': re.compile("(.*) almost dodged (.*)'s rocket"),
-    'rocket2': re.compile("(.*) ate (.*)'s rocket"),
-    'rocket3': re.compile("(.*) hoped (.*)'s missiles wouldn't bounce"),
-    'blue': re.compile("(.*) got too close to (.*)'s blue beam"),
-    'blue2': re.compile("(.*) was blasted by (.*)'s blue beam"),
-    'blueball': re.compile("(.*) got in touch with (.*)'s blue ball"),
+    'nex': re.compile("(.*) was sniped by (.*)|(.*) has been vaporized by (.*)"),
+    'crylink': re.compile("(.*) could not hide from (.*)'s Crylink|(.*) took a close look at (.*)'s Crylink|(.*) was too close to (.*)'s Crylink"),
+    'rocket': re.compile("(.*) almost dodged (.*)'s rocket|(.*) ate (.*)'s rocket|(.*) hoped (.*)'s missiles wouldn't bounce"),
+    'blue': re.compile("(.*) got too close to (.*)'s blue beam|(.*) was blasted by (.*)'s blue beam|(.*) got in touch with (.*)'s blue ball"),
     'bluecombo': re.compile("(.*) felt the electrifying air of (.*)'s combo"),
-    'grenade': re.compile("(.*) almost dodged (.*)'s grenade"),
-    'grenade2': re.compile("(.*) ate (.*)'s grenade"),
+    'grenade': re.compile("(.*) almost dodged (.*)'s grenade|(.*) ate (.*)'s grenade"),
     'telefrag': re.compile("(.*) was telefragged by (.*)"),
     'pummel': re.compile("(.*) was pummeled by (.*)"),
-    'vaporize': re.compile("(.*) has been vaporized by (.*)"),
     'grounded': re.compile("(.*) was grounded by (.*)"),
     'slimed': re.compile("(.*) was slimed by (.*)"),
     'lava': re.compile("(.*) was cooked by (.*)"),
@@ -71,8 +63,7 @@ rkills = {
 
 rsuicides = {
     'detonated': re.compile("(.*) detonated"),
-    'plasma': re.compile("(.*) played with plasma"),
-    'plasma2': re.compile("(.*) could not remember where he put plasma"),
+    'plasma': re.compile("(.*) played with plasma|(.*) could not remember where he put plasma"),
     'rocket': re.compile("(.*) played with tiny rockets"),
     'slimed': re.compile("(.*) was slimed"),
     'crylink': re.compile("(.*) succeeded at self-destructing himself with the Crylink"),
@@ -244,7 +235,7 @@ def parse_log(log_file):
                 for weapon, r in rkills.iteritems():
                     m = r.search(l)
                     if m:
-                        killed, killer = m.groups()
+                        killed, killer = filter(None, m.groups())
                         #print "KILL", killer, killed, weapon
 
                         # update killer
@@ -267,7 +258,7 @@ def parse_log(log_file):
                     for lbl, r in rsuicides.iteritems():
                         m = r.search(l)
                         if m:
-                            killed = m.groups()[0]
+                            killed = filter(None, m.groups())[0]
 
                             # updated killed
                             curmatch['players'][killed]['suicides'] += 1

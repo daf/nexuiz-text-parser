@@ -162,19 +162,19 @@
             "kills": 0, 
             "deaths": 2
           }, 
-          "rocket": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 8, 
-            "deaths": 2
-          }, 
           "grounded": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
             "deaths": 1
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 12, 
+            "deaths": 2
           }, 
           "shotgun": {
             "matches": 1, 
@@ -190,25 +190,11 @@
             "kills": 0, 
             "deaths": 1
           }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 4, 
-            "deaths": 0
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 4, 
-            "deaths": 0
-          }, 
           "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 5, 
             "deaths": 1
           }, 
           "telefrag": {
@@ -238,7 +224,7 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 2, 
             "deaths": 1
           }, 
           "rocket": {
@@ -246,7 +232,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
-            "deaths": 3
+            "deaths": 6
           }, 
           "pummel": {
             "matches": 1, 
@@ -276,54 +262,19 @@
             "kills": 1, 
             "deaths": 0
           }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 2
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "grenade2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 3
-          }, 
           "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 2
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
+            "kills": 2, 
+            "deaths": 4
           }, 
           "grenade": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 1
+            "deaths": 2
           }, 
           "machinegun": {
             "matches": 1, 
@@ -338,7 +289,7 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 2, 
             "deaths": 0
           }, 
           "rocket": {
@@ -346,7 +297,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 1
+            "deaths": 2
           }, 
           "pummel": {
             "matches": 1, 
@@ -376,54 +327,19 @@
             "kills": 4, 
             "deaths": 2
           }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "grenade2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 1
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
           "grenade": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 1
+            "kills": 2, 
+            "deaths": 2
           }, 
           "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 2, 
-            "deaths": 1
+            "deaths": 3
           }
         }, 
         "Punk": {
@@ -439,7 +355,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 2, 
-            "deaths": 2
+            "deaths": 4
           }, 
           "pummel": {
             "matches": 1, 
@@ -469,19 +385,12 @@
             "kills": 0, 
             "deaths": 0
           }, 
-          "crylink2": {
+          "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
             "deaths": 4
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 2
           }, 
           "telefrag": {
             "matches": 1, 
@@ -506,11 +415,18 @@
           }
         }, 
         "Alex": {
-          "rocket": {
+          "blue": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
+            "deaths": 2
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
             "deaths": 3
           }, 
           "pummel": {
@@ -541,34 +457,6 @@
             "kills": 0, 
             "deaths": 0
           }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 3, 
-            "deaths": 0
-          }, 
-          "grenade2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 0
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 2
-          }, 
           "telefrag": {
             "matches": 1, 
             "suicides": 0, 
@@ -580,14 +468,14 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 2, 
             "deaths": 1
           }, 
           "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 4, 
             "deaths": 1
           }
         }
@@ -712,14 +600,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -728,14 +616,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -744,14 +632,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -881,14 +769,14 @@
             1, 
             0, 
             0, 
-            "crylink3"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink3"
+            "crylink"
           ]
         ], 
         [
@@ -929,14 +817,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -945,14 +833,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -961,14 +849,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -1265,14 +1153,14 @@
             1, 
             0, 
             0, 
-            "blue2"
+            "blue"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "blue2"
+            "blue"
           ]
         ], 
         [
@@ -1297,14 +1185,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -1345,14 +1233,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -1361,14 +1249,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -1441,14 +1329,14 @@
             1, 
             0, 
             0, 
-            "blue2"
+            "blue"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "blue2"
+            "blue"
           ]
         ], 
         [
@@ -1585,14 +1473,14 @@
             1, 
             0, 
             0, 
-            "grenade2"
+            "grenade"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "grenade2"
+            "grenade"
           ]
         ], 
         [
@@ -1731,14 +1619,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -1795,14 +1683,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -1811,14 +1699,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -1980,14 +1868,14 @@
             1, 
             0, 
             0, 
-            "grenade2"
+            "grenade"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "grenade2"
+            "grenade"
           ]
         ], 
         [
@@ -2140,14 +2028,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ]
       ], 
@@ -2499,11 +2387,18 @@
         }
       }, 
       "weapons_agg": {
-        "detonated": {
+        "blue": {
           "matches": 1, 
-          "suicides": 1, 
+          "suicides": 0, 
           "name": null, 
-          "kills": 0, 
+          "kills": 6, 
+          "deaths": 0
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 17, 
           "deaths": 0
         }, 
         "pummel": {
@@ -2513,102 +2408,11 @@
           "kills": 4, 
           "deaths": 0
         }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "grenade2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "telefrag": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "crylink": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 0
-        }, 
-        "blue": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 0
-        }, 
-        "rocket": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 11, 
-          "deaths": 0
-        }, 
-        "grounded": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
         "shotgun": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
           "kills": 31, 
-          "deaths": 0
-        }, 
-        "machinegun": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 14, 
-          "deaths": 0
-        }, 
-        "explode": {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "crylink2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 7, 
-          "deaths": 0
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 6, 
           "deaths": 0
         }, 
         "plasma": {
@@ -2618,11 +2422,60 @@
           "kills": 0, 
           "deaths": 0
         }, 
+        "grounded": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "explode": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "machinegun": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 14, 
+          "deaths": 0
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
         "grenade": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 4, 
+          "kills": 6, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 13, 
           "deaths": 0
         }
       }, 
@@ -2818,7 +2671,7 @@
         ]
       }, 
       "weapons_by_name": {
-        "BirdMan": {
+        "DF": {
           "blue": {
             "matches": 1, 
             "suicides": 0, 
@@ -2826,19 +2679,49 @@
             "kills": 1, 
             "deaths": 0
           }, 
-          "blueball": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
+            "kills": 6, 
+            "deaths": 2
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 3
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 10, 
+            "deaths": 12
+          }, 
+          "machinegun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 7, 
             "deaths": 0
           }, 
-          "vaporize": {
+          "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
+            "kills": 3, 
             "deaths": 2
+          }
+        }, 
+        "BirdMan": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 3, 
+            "deaths": 0
           }, 
           "rocket": {
             "matches": 1, 
@@ -2868,19 +2751,12 @@
             "kills": 2, 
             "deaths": 0
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 2, 
-            "deaths": 1
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
+            "deaths": 2
           }, 
           "machinegun": {
             "matches": 1, 
@@ -2888,73 +2764,22 @@
             "name": null, 
             "kills": 6, 
             "deaths": 1
-          }
-        }, 
-        "DF": {
-          "crylink2": {
+          }, 
+          "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 3, 
+            "kills": 2, 
             "deaths": 2
-          }, 
-          "blueball": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 6, 
-            "deaths": 2
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "rocket": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 3
-          }, 
-          "shotgun": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 10, 
-            "deaths": 12
-          }, 
-          "machinegun": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 7, 
-            "deaths": 0
           }
         }, 
         "TerminalJunkie": {
-          "blueball": {
+          "blue": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
             "deaths": 2
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
           }, 
           "rocket": {
             "matches": 1, 
@@ -2984,12 +2809,12 @@
             "kills": 0, 
             "deaths": 1
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 2
+            "kills": 0, 
+            "deaths": 1
           }, 
           "machinegun": {
             "matches": 1, 
@@ -3002,8 +2827,8 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
-            "deaths": 1
+            "kills": 1, 
+            "deaths": 3
           }
         }, 
         "Alex": {
@@ -3013,13 +2838,6 @@
             "name": null, 
             "kills": 0, 
             "deaths": 1
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 3
           }, 
           "rocket": {
             "matches": 1, 
@@ -3049,19 +2867,12 @@
             "kills": 0, 
             "deaths": 1
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
-            "deaths": 2
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
+            "kills": 0, 
+            "deaths": 3
           }, 
           "machinegun": {
             "matches": 1, 
@@ -3074,31 +2885,24 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 0
+            "kills": 4, 
+            "deaths": 2
           }
         }, 
         "Punk": {
-          "blueball": {
+          "blue": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
             "deaths": 1
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 2
           }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 1
+            "deaths": 2
           }, 
           "pummel": {
             "matches": 1, 
@@ -3114,19 +2918,12 @@
             "kills": 8, 
             "deaths": 9
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 2, 
             "deaths": 2
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
           }, 
           "plasma": {
             "matches": 1, 
@@ -3141,6 +2938,13 @@
             "name": null, 
             "kills": 1, 
             "deaths": 3
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 2
           }
         }
       }, 
@@ -3280,14 +3084,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -3328,14 +3132,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -3392,14 +3196,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -3408,14 +3212,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -3488,14 +3292,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -3737,14 +3541,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -3785,14 +3589,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -3817,14 +3621,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -3881,14 +3685,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -3929,14 +3733,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -3945,14 +3749,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -4169,14 +3973,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4185,14 +3989,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4201,14 +4005,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4249,14 +4053,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4322,14 +4126,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -4354,14 +4158,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4466,14 +4270,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4482,14 +4286,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4530,14 +4334,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -4546,14 +4350,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -4562,14 +4366,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -4594,14 +4398,14 @@
             1, 
             0, 
             0, 
-            "crylink3"
+            "crylink"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "crylink3"
+            "crylink"
           ]
         ], 
         [
@@ -4722,14 +4526,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -5116,28 +4920,14 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "blueball": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 0
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 10, 
+          "kills": 4, 
           "deaths": 0
         }, 
         "rocket": {
           "matches": 1, 
           "suicides": 1, 
           "name": null, 
-          "kills": 9, 
+          "kills": 10, 
           "deaths": 0
         }, 
         "pummel": {
@@ -5161,25 +4951,11 @@
           "kills": 2, 
           "deaths": 0
         }, 
-        "crylink2": {
+        "nex": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 9, 
-          "deaths": 0
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
+          "kills": 10, 
           "deaths": 0
         }, 
         "plasma": {
@@ -5200,7 +4976,7 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 1, 
+          "kills": 11, 
           "deaths": 0
         }
       }, 
@@ -5402,9 +5178,9 @@
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
-            "deaths": 0
+            "deaths": 1
           }, 
-          "vaporize": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
@@ -5415,8 +5191,8 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
-            "deaths": 2
+            "kills": 1, 
+            "deaths": 3
           }, 
           "shotgun": {
             "matches": 1, 
@@ -5424,27 +5200,6 @@
             "name": null, 
             "kills": 6, 
             "deaths": 6
-          }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 2
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 1
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
           }, 
           "machinegun": {
             "matches": 1, 
@@ -5457,30 +5212,23 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
-            "deaths": 1
+            "kills": 4, 
+            "deaths": 3
           }
         }, 
         "BirdMan": {
-          "blueball": {
+          "blue": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
             "deaths": 1
           }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 5, 
-            "deaths": 1
-          }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 10, 
+            "kills": 13, 
             "deaths": 1
           }, 
           "shotgun": {
@@ -5497,21 +5245,14 @@
             "kills": 0, 
             "deaths": 0
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 5, 
             "deaths": 1
           }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 3, 
-            "deaths": 0
-          }, 
-          "plasma2": {
+          "plasma": {
             "matches": 1, 
             "suicides": 1, 
             "name": null, 
@@ -5529,8 +5270,8 @@
             "matches": 1, 
             "suicides": 1, 
             "name": null, 
-            "kills": 0, 
-            "deaths": 1
+            "kills": 1, 
+            "deaths": 2
           }
         }, 
         "TerminalJunkie": {
@@ -5538,17 +5279,10 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "blueball": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
             "kills": 1, 
-            "deaths": 0
+            "deaths": 2
           }, 
-          "vaporize": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
@@ -5560,7 +5294,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
-            "deaths": 1
+            "deaths": 3
           }, 
           "shotgun": {
             "matches": 1, 
@@ -5568,20 +5302,6 @@
             "name": null, 
             "kills": 8, 
             "deaths": 10
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 2
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
           }, 
           "telefrag": {
             "matches": 1, 
@@ -5610,21 +5330,14 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 3, 
             "deaths": 1
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 5
           }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
+            "kills": 1, 
             "deaths": 5
           }, 
           "shotgun": {
@@ -5641,26 +5354,12 @@
             "kills": 0, 
             "deaths": 1
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 2
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 0
+            "kills": 0, 
+            "deaths": 5
           }, 
           "telefrag": {
             "matches": 1, 
@@ -5680,18 +5379,11 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 2
+            "kills": 2, 
+            "deaths": 4
           }
         }, 
         "Punk": {
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 4
-          }, 
           "detonated": {
             "matches": 1, 
             "suicides": 1, 
@@ -5704,7 +5396,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
-            "deaths": 3
+            "deaths": 5
           }, 
           "shotgun": {
             "matches": 1, 
@@ -5713,26 +5405,19 @@
             "kills": 4, 
             "deaths": 8
           }, 
-          "bluecombo": {
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 7, 
+            "deaths": 4
+          }, 
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
-            "deaths": 0
-          }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 3, 
-            "deaths": 2
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 2
+            "deaths": 4
           }, 
           "machinegun": {
             "matches": 1, 
@@ -5741,12 +5426,12 @@
             "kills": 0, 
             "deaths": 2
           }, 
-          "crylink": {
+          "bluecombo": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 4, 
-            "deaths": 2
+            "kills": 1, 
+            "deaths": 0
           }
         }
       }, 
@@ -5774,14 +5459,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -5870,14 +5555,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -5886,14 +5571,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -5918,14 +5603,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6014,14 +5699,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6174,14 +5859,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -6190,14 +5875,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6286,14 +5971,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -6366,14 +6051,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -6398,14 +6083,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6430,14 +6115,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6462,14 +6147,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -6510,14 +6195,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6606,14 +6291,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6663,14 +6348,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6695,14 +6380,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -6711,14 +6396,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6823,14 +6508,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6839,14 +6524,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6855,14 +6540,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -6871,7 +6556,7 @@
             0, 
             0, 
             1, 
-            "plasma2"
+            "plasma"
           ]
         ], 
         [
@@ -6912,14 +6597,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -6928,14 +6613,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -6953,14 +6638,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -6985,14 +6670,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -7017,14 +6702,14 @@
             1, 
             0, 
             0, 
-            "blue2"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blue2"
+            "blue"
           ]
         ], 
         [
@@ -7033,14 +6718,14 @@
             1, 
             0, 
             0, 
-            "blue2"
+            "blue"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "blue2"
+            "blue"
           ]
         ], 
         [
@@ -7065,14 +6750,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -7081,14 +6766,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -7129,14 +6814,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -7177,14 +6862,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -7394,14 +7079,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -7410,14 +7095,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ]
       ], 
@@ -7793,21 +7478,7 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "blueball": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 17, 
+          "kills": 5, 
           "deaths": 0
         }, 
         "detonated": {
@@ -7821,7 +7492,7 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 12, 
+          "kills": 17, 
           "deaths": 0
         }, 
         "shotgun": {
@@ -7845,32 +7516,18 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "crylink2": {
+        "nex": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 7, 
+          "kills": 17, 
           "deaths": 0
         }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 0
-        }, 
-        "plasma2": {
+        "crylink": {
           "matches": 1, 
           "suicides": 1, 
           "name": null, 
-          "kills": 0, 
+          "kills": 14, 
           "deaths": 0
         }, 
         "telefrag": {
@@ -7887,11 +7544,11 @@
           "kills": 12, 
           "deaths": 0
         }, 
-        "crylink": {
+        "plasma": {
           "matches": 1, 
           "suicides": 1, 
           "name": null, 
-          "kills": 7, 
+          "kills": 0, 
           "deaths": 0
         }
       }, 
@@ -7993,13 +7650,6 @@
             "kills": 0, 
             "deaths": 2
           }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 4, 
-            "deaths": 1
-          }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
@@ -8028,6 +7678,13 @@
             "kills": 0, 
             "deaths": 0
           }, 
+          "nex": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 1
+          }, 
           "slimed": {
             "matches": 1, 
             "suicides": 0, 
@@ -8044,12 +7701,12 @@
           }
         }, 
         "TerminalJunkie": {
-          "vaporize": {
+          "blue": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
-            "deaths": 4
+            "kills": 0, 
+            "deaths": 1
           }, 
           "rocket": {
             "matches": 1, 
@@ -8079,18 +7736,18 @@
             "kills": 0, 
             "deaths": 0
           }, 
+          "nex": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 4
+          }, 
           "slimed": {
             "matches": 1, 
             "suicides": 2, 
             "name": null, 
             "kills": 1, 
-            "deaths": 1
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
             "deaths": 1
           }, 
           "machinegun": {
@@ -8106,15 +7763,8 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
+            "kills": 3, 
             "deaths": 0
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 3
           }, 
           "rocket": {
             "matches": 1, 
@@ -8144,19 +7794,19 @@
             "kills": 0, 
             "deaths": 3
           }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
           "machinegun": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
             "deaths": 11
+          }, 
+          "nex": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 3
           }
         }
       }, 
@@ -8401,14 +8051,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -8458,14 +8108,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -8547,14 +8197,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "BirdMan", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -8748,14 +8398,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -8812,14 +8462,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -8828,14 +8478,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -8844,14 +8494,14 @@
             1, 
             0, 
             0, 
-            "blue2"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blue2"
+            "blue"
           ]
         ], 
         [
@@ -8956,14 +8606,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -8972,14 +8622,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -9190,14 +8840,7 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 8, 
+          "kills": 3, 
           "deaths": 0
         }, 
         "rocket": {
@@ -9228,18 +8871,18 @@
           "kills": 0, 
           "deaths": 0
         }, 
+        "nex": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 8, 
+          "deaths": 0
+        }, 
         "slimed": {
           "matches": 1, 
           "suicides": 2, 
           "name": null, 
           "kills": 4, 
-          "deaths": 0
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
           "deaths": 0
         }, 
         "machinegun": {
@@ -9371,18 +9014,11 @@
       }, 
       "weapons_by_name": {
         "DF": {
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 7, 
-            "deaths": 2
-          }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 4, 
+            "kills": 6, 
             "deaths": 3
           }, 
           "pummel": {
@@ -9410,7 +9046,7 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
+            "kills": 4, 
             "deaths": 1
           }, 
           "explode": {
@@ -9420,33 +9056,12 @@
             "kills": 0, 
             "deaths": 0
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 7, 
             "deaths": 2
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "grenade2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 0
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 0
           }, 
           "telefrag": {
             "matches": 1, 
@@ -9466,18 +9081,11 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 2
+            "kills": 3, 
+            "deaths": 4
           }
         }, 
         "Alex": {
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 5
-          }, 
           "detonated": {
             "matches": 1, 
             "suicides": 1, 
@@ -9489,8 +9097,8 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 5, 
-            "deaths": 3
+            "kills": 8, 
+            "deaths": 6
           }, 
           "shotgun": {
             "matches": 1, 
@@ -9499,40 +9107,26 @@
             "kills": 4, 
             "deaths": 4
           }, 
-          "grenade": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 4, 
-            "deaths": 1
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 3, 
-            "deaths": 0
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 3, 
-            "deaths": 3
-          }, 
           "machinegun": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
             "deaths": 3
+          }, 
+          "nex": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 5
+          }, 
+          "grenade": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
           }, 
           "pummel": {
             "matches": 1, 
@@ -9545,24 +9139,17 @@
             "matches": 1, 
             "suicides": 1, 
             "name": null, 
-            "kills": 2, 
-            "deaths": 0
+            "kills": 9, 
+            "deaths": 1
           }
         }, 
         "TerminalJunkie": {
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 2
-          }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 5
+            "kills": 3, 
+            "deaths": 8
           }, 
           "pummel": {
             "matches": 1, 
@@ -9590,7 +9177,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 2
+            "deaths": 3
           }, 
           "explode": {
             "matches": 1, 
@@ -9599,33 +9186,12 @@
             "kills": 0, 
             "deaths": 0
           }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 2
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 2
-          }, 
-          "grenade2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "rocket2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 2, 
-            "deaths": 3
+            "deaths": 2
           }, 
           "telefrag": {
             "matches": 1, 
@@ -9645,18 +9211,11 @@
             "matches": 1, 
             "suicides": 1, 
             "name": null, 
-            "kills": 0, 
-            "deaths": 0
+            "kills": 1, 
+            "deaths": 4
           }
         }, 
         "Punk": {
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 2
-          }, 
           "detonated": {
             "matches": 1, 
             "suicides": 1, 
@@ -9669,7 +9228,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
-            "deaths": 0
+            "deaths": 1
           }, 
           "shotgun": {
             "matches": 1, 
@@ -9690,35 +9249,14 @@
             "suicides": 0, 
             "name": null, 
             "kills": 2, 
-            "deaths": 0
-          }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
             "deaths": 1
           }, 
-          "crylink3": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
+            "kills": 2, 
             "deaths": 2
-          }, 
-          "grenade2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
           }, 
           "machinegun": {
             "matches": 1, 
@@ -9732,7 +9270,7 @@
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 1
+            "deaths": 4
           }
         }
       }, 
@@ -9744,14 +9282,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -9760,14 +9298,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -9776,14 +9314,14 @@
             1, 
             0, 
             0, 
-            "crylink3"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink3"
+            "crylink"
           ]
         ], 
         [
@@ -9792,14 +9330,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -9945,14 +9483,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -9961,14 +9499,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -9993,14 +9531,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10025,14 +9563,14 @@
             1, 
             0, 
             0, 
-            "grenade2"
+            "grenade"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "grenade2"
+            "grenade"
           ]
         ], 
         [
@@ -10073,14 +9611,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10105,14 +9643,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10137,14 +9675,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -10153,14 +9691,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -10185,14 +9723,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -10201,14 +9739,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -10258,14 +9796,14 @@
             1, 
             0, 
             0, 
-            "crylink3"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink3"
+            "crylink"
           ]
         ], 
         [
@@ -10372,14 +9910,14 @@
             1, 
             0, 
             0, 
-            "grenade2"
+            "grenade"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "grenade2"
+            "grenade"
           ]
         ], 
         [
@@ -10388,14 +9926,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -10436,14 +9974,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10509,14 +10047,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10573,14 +10111,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -10781,14 +10319,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10813,14 +10351,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -10829,14 +10367,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -10893,14 +10431,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10909,14 +10447,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -10925,14 +10463,14 @@
             1, 
             0, 
             0, 
-            "crylink3"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink3"
+            "crylink"
           ]
         ], 
         [
@@ -10957,14 +10495,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -10973,14 +10511,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -10989,14 +10527,14 @@
             1, 
             0, 
             0, 
-            "crylink3"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink3"
+            "crylink"
           ]
         ], 
         [
@@ -11037,14 +10575,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -11372,13 +10910,6 @@
         }
       }, 
       "weapons_agg": {
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 11, 
-          "deaths": 0
-        }, 
         "detonated": {
           "matches": 1, 
           "suicides": 2, 
@@ -11390,7 +10921,7 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 11, 
+          "kills": 18, 
           "deaths": 0
         }, 
         "shotgun": {
@@ -11411,7 +10942,7 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 4, 
+          "kills": 6, 
           "deaths": 0
         }, 
         "explode": {
@@ -11421,32 +10952,11 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "crylink2": {
+        "nex": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 6, 
-          "deaths": 0
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 0
-        }, 
-        "grenade2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 7, 
+          "kills": 11, 
           "deaths": 0
         }, 
         "telefrag": {
@@ -11474,7 +10984,7 @@
           "matches": 1, 
           "suicides": 2, 
           "name": null, 
-          "kills": 3, 
+          "kills": 13, 
           "deaths": 0
         }
       }, 
@@ -11610,28 +11120,14 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
+            "kills": 6, 
             "deaths": 0
-          }, 
-          "blueball": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 4, 
-            "deaths": 0
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
           }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
+            "kills": 1, 
             "deaths": 1
           }, 
           "shotgun": {
@@ -11655,33 +11151,19 @@
             "kills": 1, 
             "deaths": 0
           }, 
-          "crylink2": {
+          "machinegun": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 6, 
+            "kills": 3, 
+            "deaths": 4
+          }, 
+          "nex": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
             "deaths": 1
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
           }, 
           "plasma": {
             "matches": 1, 
@@ -11697,12 +11179,12 @@
             "kills": 1, 
             "deaths": 0
           }, 
-          "machinegun": {
+          "crylink": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 3, 
-            "deaths": 4
+            "kills": 7, 
+            "deaths": 1
           }
         }, 
         "Punk": {
@@ -11711,28 +11193,14 @@
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 1
-          }, 
-          "blueball": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 3
+            "deaths": 2
           }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 1
+            "deaths": 2
           }, 
           "shotgun": {
             "matches": 1, 
@@ -11755,19 +11223,12 @@
             "kills": 1, 
             "deaths": 0
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 3, 
-            "deaths": 1
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
+            "kills": 2, 
+            "deaths": 3
           }, 
           "machinegun": {
             "matches": 1, 
@@ -11780,8 +11241,8 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
-            "deaths": 0
+            "kills": 5, 
+            "deaths": 1
           }
         }, 
         "TerminalJunkie": {
@@ -11790,28 +11251,14 @@
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
-            "deaths": 2
-          }, 
-          "blueball": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 3
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 3, 
-            "deaths": 1
+            "deaths": 5
           }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
-            "deaths": 2
+            "kills": 1, 
+            "deaths": 5
           }, 
           "shotgun": {
             "matches": 1, 
@@ -11827,26 +11274,19 @@
             "kills": 0, 
             "deaths": 2
           }, 
-          "crylink2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 4
-          }, 
-          "grenade2": {
+          "grenade": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
             "deaths": 2
           }, 
-          "rocket2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 3
+            "kills": 3, 
+            "deaths": 1
           }, 
           "machinegun": {
             "matches": 1, 
@@ -11854,6 +11294,13 @@
             "name": null, 
             "kills": 0, 
             "deaths": 10
+          }, 
+          "crylink": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 4
           }
         }, 
         "Alex": {
@@ -11862,21 +11309,14 @@
             "suicides": 0, 
             "name": null, 
             "kills": 2, 
-            "deaths": 0
-          }, 
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
             "deaths": 1
           }, 
           "rocket": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 4, 
-            "deaths": 0
+            "kills": 7, 
+            "deaths": 1
           }, 
           "shotgun": {
             "matches": 1, 
@@ -11906,46 +11346,18 @@
             "kills": 6, 
             "deaths": 5
           }, 
-          "crylink2": {
+          "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
-            "deaths": 4
-          }, 
-          "crylink3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "grenade2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 0
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 3, 
-            "deaths": 1
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
+            "kills": 1, 
             "deaths": 1
           }, 
           "grenade": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 0, 
+            "kills": 2, 
             "deaths": 2
           }, 
           "crylink": {
@@ -11953,7 +11365,7 @@
             "suicides": 1, 
             "name": null, 
             "kills": 0, 
-            "deaths": 2
+            "deaths": 7
           }
         }
       }, 
@@ -11965,14 +11377,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -12136,14 +11548,14 @@
             1, 
             0, 
             0, 
-            "grenade2"
+            "grenade"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "grenade2"
+            "grenade"
           ]
         ], 
         [
@@ -12168,14 +11580,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -12184,14 +11596,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -12264,14 +11676,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -12280,14 +11692,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -12296,14 +11708,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -12312,14 +11724,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -12369,14 +11781,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -12433,14 +11845,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -12513,14 +11925,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -12545,14 +11957,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -12593,14 +12005,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -12657,14 +12069,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -12865,14 +12277,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -12897,14 +12309,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -12929,14 +12341,14 @@
             1, 
             0, 
             0, 
-            "grenade2"
+            "grenade"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "grenade2"
+            "grenade"
           ]
         ], 
         [
@@ -12945,14 +12357,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -13025,14 +12437,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -13121,14 +12533,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -13162,14 +12574,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -13331,14 +12743,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -13411,14 +12823,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -13427,14 +12839,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -13491,14 +12903,14 @@
             1, 
             0, 
             0, 
-            "crylink3"
+            "crylink"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "crylink3"
+            "crylink"
           ]
         ], 
         [
@@ -13507,14 +12919,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -13555,14 +12967,14 @@
             1, 
             0, 
             0, 
-            "crylink2"
+            "crylink"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "crylink2"
+            "crylink"
           ]
         ], 
         [
@@ -13667,14 +13079,14 @@
             1, 
             0, 
             0, 
-            "blueball"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blueball"
+            "blue"
           ]
         ], 
         [
@@ -13683,14 +13095,14 @@
             1, 
             0, 
             0, 
-            "blue2"
+            "blue"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "blue2"
+            "blue"
           ]
         ], 
         [
@@ -14096,60 +13508,18 @@
         }
       }, 
       "weapons_agg": {
-        "blueball": {
+        "blue": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 4, 
+          "kills": 8, 
           "deaths": 0
         }, 
         "rocket": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 4, 
-          "deaths": 0
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "grenade2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "crylink": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "blue": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 0
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 6, 
+          "kills": 9, 
           "deaths": 0
         }, 
         "shotgun": {
@@ -14166,6 +13536,13 @@
           "kills": 3, 
           "deaths": 0
         }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
+        }, 
         "machinegun": {
           "matches": 1, 
           "suicides": 0, 
@@ -14173,25 +13550,11 @@
           "kills": 19, 
           "deaths": 0
         }, 
-        "crylink2": {
+        "nex": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 10, 
-          "deaths": 0
-        }, 
-        "crylink3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
+          "kills": 6, 
           "deaths": 0
         }, 
         "plasma": {
@@ -14205,7 +13568,14 @@
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 2, 
+          "kills": 4, 
+          "deaths": 0
+        }, 
+        "crylink": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 13, 
           "deaths": 0
         }
       }, 
@@ -14337,18 +13707,11 @@
       }, 
       "weapons_by_name": {
         "DF": {
-          "plasma2": {
-            "matches": 1, 
-            "suicides": 1, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 0
-          }, 
-          "vaporize": {
+          "blue": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 6, 
+            "kills": 1, 
             "deaths": 0
           }, 
           "grounded": {
@@ -14362,8 +13725,8 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 1, 
-            "deaths": 1
+            "kills": 3, 
+            "deaths": 3
           }, 
           "shotgun": {
             "matches": 1, 
@@ -14393,30 +13756,16 @@
             "kills": 0, 
             "deaths": 0
           }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 2
-          }, 
           "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 2, 
-            "deaths": 0
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
+            "kills": 8, 
             "deaths": 0
           }, 
           "plasma": {
             "matches": 1, 
-            "suicides": 1, 
+            "suicides": 2, 
             "name": null, 
             "kills": 0, 
             "deaths": 0
@@ -14443,14 +13792,137 @@
             "deaths": 2
           }
         }, 
-        "Alex": {
-          "vaporize": {
+        "Punk": {
+          "grounded": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 0, 
+            "deaths": 1
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 5
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 11
+          }, 
+          "grenade": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "nex": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
             "deaths": 2
           }, 
+          "machinegun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 4, 
+            "deaths": 2
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 6, 
+            "deaths": 2
+          }, 
+          "detonated": {
+            "matches": 1, 
+            "suicides": 1, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }
+        }, 
+        "TerminalJunkie": {
+          "blue": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "grounded": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 0
+          }, 
+          "rocket": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 1, 
+            "deaths": 2
+          }, 
+          "shotgun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 28, 
+            "deaths": 4
+          }, 
+          "bounds": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 2, 
+            "deaths": 0
+          }, 
+          "bluecombo": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 1
+          }, 
+          "nex": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 6
+          }, 
+          "fall": {
+            "matches": 1, 
+            "suicides": 2, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 0
+          }, 
+          "machinegun": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 3
+          }, 
+          "pummel": {
+            "matches": 1, 
+            "suicides": 0, 
+            "name": null, 
+            "kills": 0, 
+            "deaths": 7
+          }
+        }, 
+        "Alex": {
           "grounded": {
             "matches": 1, 
             "suicides": 0, 
@@ -14462,7 +13934,7 @@
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
-            "kills": 3, 
+            "kills": 5, 
             "deaths": 0
           }, 
           "shotgun": {
@@ -14486,26 +13958,12 @@
             "kills": 0, 
             "deaths": 1
           }, 
-          "rocket3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
           "nex": {
             "matches": 1, 
             "suicides": 0, 
             "name": null, 
             "kills": 1, 
-            "deaths": 0
+            "deaths": 2
           }, 
           "fall": {
             "matches": 1, 
@@ -14527,171 +13985,6 @@
             "name": null, 
             "kills": 3, 
             "deaths": 1
-          }
-        }, 
-        "TerminalJunkie": {
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 4
-          }, 
-          "grounded": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "rocket": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "shotgun": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 28, 
-            "deaths": 4
-          }, 
-          "bounds": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 2, 
-            "deaths": 0
-          }, 
-          "bluecombo": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 1
-          }, 
-          "nex": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 2
-          }, 
-          "fall": {
-            "matches": 1, 
-            "suicides": 2, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 0
-          }, 
-          "blue2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "machinegun": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 3
-          }, 
-          "pummel": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 7
-          }
-        }, 
-        "Punk": {
-          "vaporize": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 1
-          }, 
-          "grounded": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "rocket": {
-            "matches": 1, 
-            "suicides": 1, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 3
-          }, 
-          "shotgun": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 11
-          }, 
-          "grenade": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 1, 
-            "deaths": 0
-          }, 
-          "rocket3": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "rocket2": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "nex": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 1
-          }, 
-          "machinegun": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 4, 
-            "deaths": 2
-          }, 
-          "pummel": {
-            "matches": 1, 
-            "suicides": 0, 
-            "name": null, 
-            "kills": 6, 
-            "deaths": 2
-          }, 
-          "detonated": {
-            "matches": 1, 
-            "suicides": 1, 
-            "name": null, 
-            "kills": 0, 
-            "deaths": 0
           }
         }
       }, 
@@ -14799,14 +14092,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -14815,14 +14108,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -14984,14 +14277,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -15000,14 +14293,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -15121,14 +14414,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -15185,14 +14478,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Alex", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -15409,14 +14702,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -15676,14 +14969,14 @@
             1, 
             0, 
             0, 
-            "rocket2"
+            "rocket"
           ], 
           [
             "DF", 
             0, 
             1, 
             0, 
-            "rocket2"
+            "rocket"
           ]
         ], 
         [
@@ -15774,14 +15067,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -15806,14 +15099,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -15838,14 +15131,14 @@
             1, 
             0, 
             0, 
-            "rocket3"
+            "rocket"
           ], 
           [
             "Punk", 
             0, 
             1, 
             0, 
-            "rocket3"
+            "rocket"
           ]
         ], 
         [
@@ -15902,14 +15195,14 @@
             1, 
             0, 
             0, 
-            "blue2"
+            "blue"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "blue2"
+            "blue"
           ]
         ], 
         [
@@ -15918,7 +15211,7 @@
             0, 
             0, 
             1, 
-            "plasma2"
+            "plasma"
           ]
         ], 
         [
@@ -16160,14 +15453,14 @@
             1, 
             0, 
             0, 
-            "vaporize"
+            "nex"
           ], 
           [
             "TerminalJunkie", 
             0, 
             1, 
             0, 
-            "vaporize"
+            "nex"
           ]
         ], 
         [
@@ -16519,60 +15812,11 @@
         }
       }, 
       "weapons_agg": {
-        "detonated": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "rocket": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 0
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "fall": {
-          "matches": 1, 
-          "suicides": 4, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "blue2": {
+        "blue": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
           "kills": 1, 
-          "deaths": 0
-        }, 
-        "plasma2": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "vaporize": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 7, 
-          "deaths": 0
-        }, 
-        "pummel": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 11, 
           "deaths": 0
         }, 
         "grounded": {
@@ -16580,6 +15824,13 @@
           "suicides": 0, 
           "name": null, 
           "kills": 2, 
+          "deaths": 0
+        }, 
+        "rocket": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 10, 
           "deaths": 0
         }, 
         "shotgun": {
@@ -16596,11 +15847,11 @@
           "kills": 3, 
           "deaths": 0
         }, 
-        "machinegun": {
+        "bluecombo": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 10, 
+          "kills": 2, 
           "deaths": 0
         }, 
         "explode": {
@@ -16610,30 +15861,30 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "rocket3": {
+        "machinegun": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
+          "kills": 10, 
           "deaths": 0
         }, 
         "nex": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 3, 
+          "kills": 10, 
+          "deaths": 0
+        }, 
+        "fall": {
+          "matches": 1, 
+          "suicides": 4, 
+          "name": null, 
+          "kills": 0, 
           "deaths": 0
         }, 
         "plasma": {
           "matches": 1, 
-          "suicides": 1, 
+          "suicides": 2, 
           "name": null, 
           "kills": 0, 
           "deaths": 0
@@ -16643,6 +15894,20 @@
           "suicides": 0, 
           "name": null, 
           "kills": 1, 
+          "deaths": 0
+        }, 
+        "pummel": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 11, 
+          "deaths": 0
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 0, 
           "deaths": 0
         }
       }, 
@@ -16832,61 +16097,19 @@
       ]
     }, 
     "weapons_agg": {
+      "blue": {
+        "matches": 23, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 27, 
+        "deaths": 27
+      }, 
       "detonated": {
         "matches": 5, 
         "suicides": 5, 
         "name": null, 
         "kills": 0, 
         "deaths": 0
-      }, 
-      "rocket": {
-        "matches": 30, 
-        "suicides": 3, 
-        "name": null, 
-        "kills": 56, 
-        "deaths": 56
-      }, 
-      "bluecombo": {
-        "matches": 12, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 7, 
-        "deaths": 7
-      }, 
-      "plasma2": {
-        "matches": 2, 
-        "suicides": 2, 
-        "name": null, 
-        "kills": 0, 
-        "deaths": 0
-      }, 
-      "crylink": {
-        "matches": 17, 
-        "suicides": 4, 
-        "name": null, 
-        "kills": 18, 
-        "deaths": 18
-      }, 
-      "blue": {
-        "matches": 15, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 12, 
-        "deaths": 12
-      }, 
-      "vaporize": {
-        "matches": 25, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 59, 
-        "deaths": 59
-      }, 
-      "pummel": {
-        "matches": 18, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 25, 
-        "deaths": 25
       }, 
       "grounded": {
         "matches": 6, 
@@ -16895,82 +16118,19 @@
         "kills": 3, 
         "deaths": 3
       }, 
-      "lava": {
-        "matches": 3, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 3, 
-        "deaths": 3
-      }, 
-      "rocket3": {
-        "matches": 2, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 1, 
-        "deaths": 1
-      }, 
-      "rocket2": {
-        "matches": 24, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 28, 
-        "deaths": 28
-      }, 
-      "nex": {
-        "matches": 4, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 3, 
-        "deaths": 3
-      }, 
-      "plasma": {
-        "matches": 4, 
-        "suicides": 4, 
-        "name": null, 
-        "kills": 0, 
-        "deaths": 0
-      }, 
-      "blueball": {
-        "matches": 9, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 8, 
-        "deaths": 8
-      }, 
-      "grenade2": {
-        "matches": 8, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 6, 
-        "deaths": 6
-      }, 
-      "fall": {
-        "matches": 2, 
-        "suicides": 4, 
-        "name": null, 
-        "kills": 0, 
-        "deaths": 0
-      }, 
-      "blue2": {
-        "matches": 12, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 7, 
-        "deaths": 7
-      }, 
-      "telefrag": {
-        "matches": 7, 
-        "suicides": 0, 
-        "name": null, 
-        "kills": 4, 
-        "deaths": 4
-      }, 
       "shotgun": {
         "matches": 30, 
         "suicides": 0, 
         "name": null, 
         "kills": 220, 
         "deaths": 220
+      }, 
+      "rocket": {
+        "matches": 30, 
+        "suicides": 3, 
+        "name": null, 
+        "kills": 85, 
+        "deaths": 85
       }, 
       "bounds": {
         "matches": 7, 
@@ -16979,12 +16139,19 @@
         "kills": 6, 
         "deaths": 6
       }, 
-      "grenade": {
-        "matches": 14, 
+      "lava": {
+        "matches": 3, 
         "suicides": 0, 
         "name": null, 
-        "kills": 11, 
-        "deaths": 11
+        "kills": 3, 
+        "deaths": 3
+      }, 
+      "bluecombo": {
+        "matches": 12, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 7, 
+        "deaths": 7
       }, 
       "explode": {
         "matches": 8, 
@@ -16993,19 +16160,33 @@
         "kills": 0, 
         "deaths": 0
       }, 
-      "crylink2": {
-        "matches": 22, 
+      "machinegun": {
+        "matches": 30, 
         "suicides": 0, 
         "name": null, 
-        "kills": 39, 
-        "deaths": 39
+        "kills": 98, 
+        "deaths": 98
       }, 
-      "crylink3": {
-        "matches": 10, 
+      "nex": {
+        "matches": 25, 
         "suicides": 0, 
         "name": null, 
-        "kills": 7, 
-        "deaths": 7
+        "kills": 62, 
+        "deaths": 62
+      }, 
+      "fall": {
+        "matches": 2, 
+        "suicides": 4, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "telefrag": {
+        "matches": 7, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 4, 
+        "deaths": 4
       }, 
       "slimed": {
         "matches": 3, 
@@ -17014,36 +16195,43 @@
         "kills": 4, 
         "deaths": 4
       }, 
-      "machinegun": {
-        "matches": 30, 
+      "plasma": {
+        "matches": 5, 
+        "suicides": 6, 
+        "name": null, 
+        "kills": 0, 
+        "deaths": 0
+      }, 
+      "grenade": {
+        "matches": 15, 
         "suicides": 0, 
         "name": null, 
-        "kills": 98, 
-        "deaths": 98
+        "kills": 17, 
+        "deaths": 17
+      }, 
+      "pummel": {
+        "matches": 18, 
+        "suicides": 0, 
+        "name": null, 
+        "kills": 25, 
+        "deaths": 25
+      }, 
+      "crylink": {
+        "matches": 23, 
+        "suicides": 4, 
+        "name": null, 
+        "kills": 64, 
+        "deaths": 64
       }
     }, 
     "weapons_by_name": {
       "BirdMan": {
         "blue": {
-          "matches": 3, 
+          "matches": 4, 
           "suicides": 0, 
           "name": null, 
-          "kills": 1, 
-          "deaths": 4
-        }, 
-        "blueball": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 1
-        }, 
-        "vaporize": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 11, 
-          "deaths": 4
+          "kills": 3, 
+          "deaths": 5
         }, 
         "pummel": {
           "matches": 2, 
@@ -17070,7 +16258,7 @@
           "matches": 4, 
           "suicides": 0, 
           "name": null, 
-          "kills": 27, 
+          "kills": 34, 
           "deaths": 4
         }, 
         "bluecombo": {
@@ -17094,25 +16282,18 @@
           "kills": 30, 
           "deaths": 5
         }, 
-        "crylink2": {
+        "nex": {
           "matches": 3, 
           "suicides": 0, 
           "name": null, 
-          "kills": 7, 
-          "deaths": 2
+          "kills": 11, 
+          "deaths": 4
         }, 
-        "crylink3": {
+        "telefrag": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "rocket2": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 7, 
+          "kills": 2, 
           "deaths": 0
         }, 
         "slimed": {
@@ -17122,18 +16303,11 @@
           "kills": 3, 
           "deaths": 0
         }, 
-        "plasma2": {
+        "plasma": {
           "matches": 1, 
           "suicides": 1, 
           "name": null, 
           "kills": 0, 
-          "deaths": 0
-        }, 
-        "telefrag": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
           "deaths": 0
         }, 
         "grenade": {
@@ -17144,14 +16318,21 @@
           "deaths": 0
         }, 
         "crylink": {
-          "matches": 2, 
+          "matches": 3, 
           "suicides": 1, 
           "name": null, 
-          "kills": 1, 
-          "deaths": 2
+          "kills": 8, 
+          "deaths": 5
         }
       }, 
       "DF": {
+        "blue": {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 11, 
+          "deaths": 2
+        }, 
         "pummel": {
           "matches": 3, 
           "suicides": 0, 
@@ -17159,110 +16340,12 @@
           "kills": 4, 
           "deaths": 2
         }, 
-        "bluecombo": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 0
-        }, 
-        "plasma2": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "crylink": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 5
-        }, 
-        "blue": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 1
-        }, 
-        "vaporize": {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 27, 
-          "deaths": 7
-        }, 
-        "rocket": {
-          "matches": 6, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 6, 
-          "deaths": 13
-        }, 
         "grounded": {
           "matches": 2, 
           "suicides": 0, 
           "name": null, 
           "kills": 2, 
           "deaths": 0
-        }, 
-        "lava": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 6, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 7, 
-          "deaths": 6
-        }, 
-        "nex": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 0
-        }, 
-        "plasma": {
-          "matches": 2, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "blueball": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 0
-        }, 
-        "grenade2": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 1
-        }, 
-        "blue2": {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 1
-        }, 
-        "telefrag": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
         }, 
         "shotgun": {
           "matches": 6, 
@@ -17271,6 +16354,13 @@
           "kills": 42, 
           "deaths": 49
         }, 
+        "rocket": {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 13, 
+          "deaths": 19
+        }, 
         "bounds": {
           "matches": 2, 
           "suicides": 1, 
@@ -17278,12 +16368,19 @@
           "kills": 2, 
           "deaths": 1
         }, 
-        "grenade": {
-          "matches": 4, 
+        "lava": {
+          "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 3, 
-          "deaths": 3
+          "kills": 1, 
+          "deaths": 0
+        }, 
+        "bluecombo": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 0
         }, 
         "explode": {
           "matches": 2, 
@@ -17292,29 +16389,57 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "crylink2": {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 12, 
-          "deaths": 9
-        }, 
-        "crylink3": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 0
-        }, 
         "machinegun": {
           "matches": 6, 
           "suicides": 0, 
           "name": null, 
           "kills": 24, 
           "deaths": 9
+        }, 
+        "nex": {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 29, 
+          "deaths": 7
+        }, 
+        "telefrag": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
+        }, 
+        "plasma": {
+          "matches": 2, 
+          "suicides": 3, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 4
+        }, 
+        "crylink": {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 19, 
+          "deaths": 14
         }
       }, 
       "TerminalJunkie": {
+        "blue": {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 3, 
+          "deaths": 11
+        }, 
         "detonated": {
           "matches": 1, 
           "suicides": 1, 
@@ -17322,109 +16447,11 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "rocket": {
-          "matches": 7, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 15
-        }, 
-        "bluecombo": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 2
-        }, 
-        "crylink": {
-          "matches": 4, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 3
-        }, 
-        "blue": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 3
-        }, 
-        "vaporize": {
-          "matches": 6, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 10, 
-          "deaths": 17
-        }, 
-        "pummel": {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
-          "deaths": 10
-        }, 
         "grounded": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
           "kills": 1, 
-          "deaths": 0
-        }, 
-        "lava": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 2
-        }, 
-        "rocket2": {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 10
-        }, 
-        "nex": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 2
-        }, 
-        "blueball": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 5
-        }, 
-        "grenade2": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 4
-        }, 
-        "fall": {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "blue2": {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 3
-        }, 
-        "telefrag": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 2, 
           "deaths": 0
         }, 
         "shotgun": {
@@ -17434,6 +16461,13 @@
           "kills": 83, 
           "deaths": 46
         }, 
+        "rocket": {
+          "matches": 7, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 6, 
+          "deaths": 25
+        }, 
         "bounds": {
           "matches": 2, 
           "suicides": 0, 
@@ -17441,12 +16475,19 @@
           "kills": 2, 
           "deaths": 2
         }, 
-        "grenade": {
-          "matches": 2, 
+        "lava": {
+          "matches": 1, 
           "suicides": 0, 
           "name": null, 
           "kills": 1, 
-          "deaths": 3
+          "deaths": 2
+        }, 
+        "bluecombo": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 2
         }, 
         "explode": {
           "matches": 2, 
@@ -17455,119 +16496,19 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "crylink2": {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 9
-        }, 
-        "crylink3": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 3
-        }, 
-        "slimed": {
-          "matches": 1, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }, 
         "machinegun": {
           "matches": 7, 
           "suicides": 0, 
           "name": null, 
           "kills": 6, 
           "deaths": 36
-        }
-      }, 
-      "Alex": {
-        "detonated": {
-          "matches": 1, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
         }, 
-        "rocket": {
+        "nex": {
           "matches": 6, 
           "suicides": 0, 
           "name": null, 
-          "kills": 15, 
-          "deaths": 13
-        }, 
-        "bluecombo": {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 4
-        }, 
-        "crylink": {
-          "matches": 5, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 5
-        }, 
-        "blue": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 2
-        }, 
-        "vaporize": {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 16
-        }, 
-        "pummel": {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 5, 
-          "deaths": 4
-        }, 
-        "grounded": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "rocket3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "rocket2": {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": null, 
           "kills": 10, 
-          "deaths": 4
-        }, 
-        "nex": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "grenade2": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 3, 
-          "deaths": 0
+          "deaths": 19
         }, 
         "fall": {
           "matches": 1, 
@@ -17576,19 +16517,63 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "blue2": {
-          "matches": 3, 
-          "suicides": 0, 
+        "slimed": {
+          "matches": 1, 
+          "suicides": 2, 
           "name": null, 
-          "kills": 2, 
-          "deaths": 3
+          "kills": 1, 
+          "deaths": 1
         }, 
         "telefrag": {
           "matches": 2, 
           "suicides": 0, 
           "name": null, 
+          "kills": 2, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 7
+        }, 
+        "pummel": {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 10
+        }, 
+        "crylink": {
+          "matches": 5, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 15
+        }
+      }, 
+      "Alex": {
+        "blue": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 5
+        }, 
+        "detonated": {
+          "matches": 1, 
+          "suicides": 1, 
+          "name": null, 
           "kills": 0, 
-          "deaths": 2
+          "deaths": 0
+        }, 
+        "grounded": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 1
         }, 
         "shotgun": {
           "matches": 6, 
@@ -17597,6 +16582,13 @@
           "kills": 46, 
           "deaths": 55
         }, 
+        "rocket": {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 26, 
+          "deaths": 17
+        }, 
         "bounds": {
           "matches": 2, 
           "suicides": 2, 
@@ -17604,11 +16596,11 @@
           "kills": 1, 
           "deaths": 3
         }, 
-        "grenade": {
-          "matches": 3, 
+        "bluecombo": {
+          "matches": 4, 
           "suicides": 0, 
           "name": null, 
-          "kills": 1, 
+          "kills": 0, 
           "deaths": 4
         }, 
         "explode": {
@@ -17618,29 +16610,64 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "crylink2": {
-          "matches": 5, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 10, 
-          "deaths": 9
-        }, 
-        "crylink3": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 1
-        }, 
         "machinegun": {
           "matches": 6, 
           "suicides": 0, 
           "name": null, 
           "kills": 16, 
           "deaths": 22
+        }, 
+        "nex": {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 2, 
+          "deaths": 16
+        }, 
+        "fall": {
+          "matches": 1, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "telefrag": {
+          "matches": 2, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 2
+        }, 
+        "grenade": {
+          "matches": 3, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 4, 
+          "deaths": 4
+        }, 
+        "pummel": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 4
+        }, 
+        "crylink": {
+          "matches": 5, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 19, 
+          "deaths": 15
         }
       }, 
       "Punk": {
+        "blue": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 5, 
+          "deaths": 4
+        }, 
         "detonated": {
           "matches": 3, 
           "suicides": 3, 
@@ -17648,112 +16675,7 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "rocket": {
-          "matches": 7, 
-          "suicides": 1, 
-          "name": null, 
-          "kills": 6, 
-          "deaths": 11
-        }, 
-        "bluecombo": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "crylink": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 6, 
-          "deaths": 3
-        }, 
-        "blue": {
-          "matches": 3, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 4, 
-          "deaths": 2
-        }, 
-        "vaporize": {
-          "matches": 6, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 10, 
-          "deaths": 15
-        }, 
-        "pummel": {
-          "matches": 4, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 11, 
-          "deaths": 7
-        }, 
         "grounded": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "lava": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 1
-        }, 
-        "rocket3": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "rocket2": {
-          "matches": 6, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 8
-        }, 
-        "nex": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "plasma": {
-          "matches": 2, 
-          "suicides": 2, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 0
-        }, 
-        "blueball": {
-          "matches": 2, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 2
-        }, 
-        "grenade2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 0, 
-          "deaths": 1
-        }, 
-        "blue2": {
-          "matches": 1, 
-          "suicides": 0, 
-          "name": null, 
-          "kills": 1, 
-          "deaths": 0
-        }, 
-        "telefrag": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
@@ -17767,6 +16689,13 @@
           "kills": 22, 
           "deaths": 57
         }, 
+        "rocket": {
+          "matches": 7, 
+          "suicides": 1, 
+          "name": null, 
+          "kills": 6, 
+          "deaths": 20
+        }, 
         "bounds": {
           "matches": 1, 
           "suicides": 1, 
@@ -17774,12 +16703,19 @@
           "kills": 1, 
           "deaths": 0
         }, 
-        "grenade": {
-          "matches": 4, 
+        "lava": {
+          "matches": 1, 
           "suicides": 0, 
           "name": null, 
-          "kills": 5, 
+          "kills": 1, 
           "deaths": 1
+        }, 
+        "bluecombo": {
+          "matches": 1, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 1, 
+          "deaths": 0
         }, 
         "explode": {
           "matches": 1, 
@@ -17788,19 +16724,26 @@
           "kills": 0, 
           "deaths": 0
         }, 
-        "crylink2": {
-          "matches": 5, 
+        "machinegun": {
+          "matches": 7, 
           "suicides": 0, 
           "name": null, 
-          "kills": 7, 
-          "deaths": 10
+          "kills": 22, 
+          "deaths": 26
         }, 
-        "crylink3": {
+        "nex": {
+          "matches": 6, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 10, 
+          "deaths": 16
+        }, 
+        "telefrag": {
           "matches": 1, 
           "suicides": 0, 
           "name": null, 
           "kills": 0, 
-          "deaths": 2
+          "deaths": 1
         }, 
         "slimed": {
           "matches": 1, 
@@ -17809,12 +16752,33 @@
           "kills": 0, 
           "deaths": 3
         }, 
-        "machinegun": {
-          "matches": 7, 
+        "plasma": {
+          "matches": 2, 
+          "suicides": 2, 
+          "name": null, 
+          "kills": 0, 
+          "deaths": 0
+        }, 
+        "grenade": {
+          "matches": 4, 
           "suicides": 0, 
           "name": null, 
-          "kills": 22, 
-          "deaths": 26
+          "kills": 5, 
+          "deaths": 2
+        }, 
+        "pummel": {
+          "matches": 4, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 11, 
+          "deaths": 7
+        }, 
+        "crylink": {
+          "matches": 5, 
+          "suicides": 0, 
+          "name": null, 
+          "kills": 13, 
+          "deaths": 15
         }
       }
     }, 
