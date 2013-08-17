@@ -17,6 +17,10 @@ ignores = ["Server using port",
            "Mod_Q3BSP_LoadFaces",
            "Tuba awaits you... not",
            "Sys_DoubleTime",
+           ":labels:",
+           ":player:",
+           ":end",
+           ":scores:",
            "\"fraglimit\" changed to",
            "\"timelimit\" changed to"]
 
@@ -42,12 +46,14 @@ rstates = {
 
 rkills = {
     'shotgun': re.compile("(.*) was gunned by (.*)"),
-    'shotgun2': re.compile("(.*) was riddled full of holes by (.*)"),
+    'machinegun': re.compile("(.*) was riddled full of holes by (.*)"),
+    'nex': re.compile("(.*) was sniped by (.*)"),
     'crylink': re.compile("(.*) could not hide from (.*)'s Crylink"),
     'crylink2': re.compile("(.*) took a close look at (.*)'s Crylink"),
     'crylink3': re.compile("(.*) was too close to (.*)'s Crylink"),
     'rocket': re.compile("(.*) almost dodged (.*)'s rocket"),
     'rocket2': re.compile("(.*) ate (.*)'s rocket"),
+    'rocket3': re.compile("(.*) hoped (.*)'s missiles wouldn't bounce"),
     'blue': re.compile("(.*) got too close to (.*)'s blue beam"),
     'blue2': re.compile("(.*) was blasted by (.*)'s blue beam"),
     'blueball': re.compile("(.*) got in touch with (.*)'s blue ball"),
@@ -59,6 +65,8 @@ rkills = {
     'vaporize': re.compile("(.*) has been vaporized by (.*)"),
     'grounded': re.compile("(.*) was grounded by (.*)"),
     'slimed': re.compile("(.*) was slimed by (.*)"),
+    'lava': re.compile("(.*) was cooked by (.*)"),
+    'bounds': re.compile("(.*) was thrown into a world of hurt by (.*)"),
 }
 
 rsuicides = {
@@ -69,6 +77,8 @@ rsuicides = {
     'slimed': re.compile("(.*) was slimed"),
     'crylink': re.compile("(.*) succeeded at self-destructing himself with the Crylink"),
     'explode': re.compile("(.*) exploded"),
+    'bounds': re.compile("(.*) was in the wrong place"),
+    'fall': re.compile("(.*) hit the ground with a crunch"),
 }
 
 # player dict:
