@@ -1,2125 +1,2687 @@
 ====== Log started (Fri Aug 02 10:57:27 2013) ======
-Server using port 26000
-Server listening on address 0.0.0.0:26000
-Server listening on address [0:0:0:0:0:0:0:0]:26000
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-"fraglimit" changed to "30"
-"timelimit" changed to "20"
+^7Server using port 26000
+^7Server listening on address 0.0.0.0:26000
+^7Server listening on address [0:0:0:0:0:0:0:0]:26000
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7"fraglimit" changed to "30"
+^7"timelimit" changed to "20"
 ====== Log started (Fri Aug 02 10:58:40 2013) ======
-Server using port 26000
-Server listening on address 0.0.0.0:26000
-Server listening on address [0:0:0:0:0:0:0:0]:26000
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-"fraglimit" changed to "30"
-"timelimit" changed to "20"
+^7Server using port 26000
+^7Server listening on address 0.0.0.0:26000
+^7Server listening on address [0:0:0:0:0:0:0:0]:26000
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7"fraglimit" changed to "30"
+^7"timelimit" changed to "20"
 ====== Log started (Fri Aug 02 16:07:06 2013) ======
-Server using port 26000
-Server listening on address 0.0.0.0:26000
-Server listening on address [0:0:0:0:0:0:0:0]:26000
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-"fraglimit" changed to "30"
-"timelimit" changed to "20"
+^7Server using port 26000
+^7Server listening on address 0.0.0.0:26000
+^7Server listening on address [0:0:0:0:0:0:0:0]:26000
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7"fraglimit" changed to "30"
+^7"timelimit" changed to "20"
 ====== Log started (Fri Aug 02 16:07:33 2013) ======
-Server using port 26000
-Server listening on address 0.0.0.0:26000
-Server listening on address [0:0:0:0:0:0:0:0]:26000
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-"fraglimit" changed to "30"
-"timelimit" changed to "20"
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Sys_DoubleTime: time stepped forward (went from 609901.397000 to 814083.039000, difference 204181.642000)
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-The @!#%'n Tuba awaits you... not.
-The @!#%'n Tuba awaits you... not.
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-The @!#%'n Tuba awaits you... not.
-The @!#%'n Tuba awaits you... not.
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Sys_DoubleTime: time stepped forward (went from 839042.585000 to 1213499.638000, difference 374457.053000)
+^7Server using port 26000
+^7Server listening on address 0.0.0.0:26000
+^7Server listening on address [0:0:0:0:0:0:0:0]:26000
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7"fraglimit" changed to "30"
+^7"timelimit" changed to "20"
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Sys_DoubleTime: time stepped forward (went from 609901.397000 to 814083.039000, difference 204181.642000)
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7The @!#%'n Tuba awaits you... not.
+^7The @!#%'n Tuba awaits you... not.
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7The @!#%'n Tuba awaits you... not.
+^7The @!#%'n Tuba awaits you... not.
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Sys_DoubleTime: time stepped forward (went from 839042.585000 to 1213499.638000, difference 374457.053000)
 ====== Log started (Fri Aug 09 16:57:40 2013) ======
-Server using port 26000
-Server listening on address 0.0.0.0:26000
-Server listening on address [0:0:0:0:0:0:0:0]:26000
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-"fraglimit" changed to "30"
-"timelimit" changed to "20"
-DF connected
-DF connected
-DF is spectating now
-Punk connected
-Punk connected
-Punk is spectating now
-Punk is playing now
-BirdMan connected
-BirdMan connected
-BirdMan is spectating now
-BirdMan: ready to die......
-BirdMan: :-) / nice one
-BirdMan: :-) / nice one
-NOTE: BirdMan is flooding.
-BirdMan is playing now
-DF is playing now
-BirdMan drew first blood
-DF could not hide from BirdMan's Crylink
-DF: damn you, was adjusting headphones
-BirdMan almost dodged Punk's rocket
-TerminalJunkie connected
-TerminalJunkie connected
-TerminalJunkie is spectating now
-Punk was gunned by BirdMan
-BirdMan could not hide from DF's Crylink
-DF almost dodged BirdMan's rocket
-Alex connected
-Alex connected
-Alex is spectating now
-Alex is playing now
-Alex almost dodged BirdMan's rocket
-Punk was gunned by Alex
-DF ate Alex's rocket
-Punk ate Alex's rocket
-Alex has 3 frags in a row
-Alex made a TRIPLE FRAG
-Punk ate BirdMan's rocket
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-Alex exploded
-Alex ended it all after a 3 kill spree
-TerminalJunkie is playing now
-TerminalJunkie could not hide from Alex's Crylink
-Punk almost dodged BirdMan's rocket
-BirdMan has 4 frags in a row
-BirdMan was gunned by Alex
-BirdMan's 4 kill spree was ended by Alex
-DF was gunned by Alex
-Alex has 3 frags in a row
-Alex made a TRIPLE FRAG
-Alex was gunned by BirdMan
-Alex's 3 kill spree was ended by BirdMan
-TerminalJunkie was gunned by BirdMan
-BirdMan got too close to Punk's blue beam
-TerminalJunkie was too close to DF's Crylink
-Punk was gunned by BirdMan
-DF almost dodged TerminalJunkie's grenade
-TerminalJunkie took a close look at Alex's Crylink
-Punk took a close look at Alex's Crylink
-TerminalJunkie ate BirdMan's rocket
-Alex was gunned by Punk
-Punk was riddled full of holes by TerminalJunkie
-DF was gunned by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-TerminalJunkie was gunned by Alex
-DF got too close to Punk's blue beam
-Alex was gunned by TerminalJunkie
-BirdMan almost dodged Punk's rocket
-BirdMan's 3 kill spree was ended by Punk
-Punk was gunned by TerminalJunkie
-Punk was gunned by DF
-TerminalJunkie was gunned by BirdMan
-Punk was pummeled by DF
-Alex was pummeled by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-BirdMan was gunned by Alex
-Alex was riddled full of holes by Punk
-Punk was gunned by BirdMan
-DF was gunned by TerminalJunkie
-DF's 3 kill spree was ended by TerminalJunkie
-Alex almost dodged BirdMan's rocket
-TerminalJunkie was gunned by Punk
-Alex was blasted by DF's blue beam
-Punk was riddled full of holes by DF
-DF ate BirdMan's rocket
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-BirdMan was riddled full of holes by DF
-BirdMan's 3 kill spree was ended by DF
-TerminalJunkie was pummeled by Punk
-Punk took a close look at Alex's Crylink
-DF ate BirdMan's rocket
-Punk was riddled full of holes by Alex
-DF almost dodged BirdMan's rocket
-Punk was riddled full of holes by Alex
-Alex has 3 frags in a row
-Alex made a TRIPLE FRAG
-BirdMan got too close to TerminalJunkie's blue beam
-Alex was blasted by TerminalJunkie's blue beam
-Alex's 3 kill spree was ended by TerminalJunkie
-Punk was gunned by DF
-TerminalJunkie was riddled full of holes by DF
-Alex was telefragged by BirdMan
-BirdMan was riddled full of holes by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-Punk was gunned by TerminalJunkie
-TerminalJunkie almost dodged DF's rocket
-DF has 4 frags in a row
-Punk almost dodged BirdMan's rocket
-Alex was riddled full of holes by DF
-DF has 5 frags in a row
-DF unleashes RAGE
-DF ate TerminalJunkie's grenade
-DF's 5 kill spree was ended by TerminalJunkie
-TerminalJunkie detonated
-Alex almost dodged BirdMan's rocket
-DF was riddled full of holes by Punk
-Punk was gunned by TerminalJunkie
-BirdMan was gunned by Alex
-Alex was pummeled by Punk
-Punk exploded
-TerminalJunkie was riddled full of holes by Alex
-BirdMan was grounded by DF
-DF took a close look at BirdMan's Crylink
-TerminalJunkie almost dodged Punk's grenade
-Alex was gunned by DF
-DF was gunned by Alex
-Punk took a close look at BirdMan's Crylink
-DF took a close look at BirdMan's Crylink
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-Alex almost dodged BirdMan's grenade
-BirdMan has 4 frags in a row
-BirdMan felt the electrifying air of DF's combo
-BirdMan's 4 kill spree was ended by DF
-Punk got too close to DF's blue beam
-TerminalJunkie was gunned by Alex
-DF could not hide from TerminalJunkie's Crylink
-Punk played with plasma
-Punk was telefragged by BirdMan
-Alex could not hide from TerminalJunkie's Crylink
-DF was gunned by BirdMan
-DF was gunned by Alex
-TerminalJunkie ate Alex's grenade
-Alex was gunned by Punk
-Punk was gunned by DF
-Punk almost dodged Alex's grenade
-DF almost dodged BirdMan's rocket
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-Punk was riddled full of holes by TerminalJunkie
-Alex was riddled full of holes by TerminalJunkie
-BirdMan was riddled full of holes by TerminalJunkie
-BirdMan's 3 kill spree was ended by TerminalJunkie
-TerminalJunkie has 3 frags in a row
-TerminalJunkie made a TRIPLE FRAG
-Punk was gunned by BirdMan
-TerminalJunkie was gunned by BirdMan
-TerminalJunkie's 3 kill spree was ended by BirdMan
-Punk took a close look at BirdMan's Crylink
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-BirdMan wins.
-BirdMan: beast!
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Alex connected
-Alex connected
-Alex is spectating now
-Punk connected
-Punk connected
-Punk is spectating now
-TerminalJunkie connected
-TerminalJunkie connected
-TerminalJunkie is spectating now
-BirdMan connected
-BirdMan connected
-BirdMan is spectating now
-DF connected
-DF connected
-DF is spectating now
-Alex is playing now
-Punk is playing now
-DF is playing now
-TerminalJunkie is playing now
-TerminalJunkie drew first blood
-Alex was gunned by TerminalJunkie
-DF was gunned by TerminalJunkie
-Punk was gunned by TerminalJunkie
-TerminalJunkie has 3 frags in a row
-TerminalJunkie made a TRIPLE FRAG
-DF was gunned by Punk
-TerminalJunkie was gunned by Punk
-TerminalJunkie's 3 kill spree was ended by Punk
-BirdMan: :-) / nice one
-BirdMan: :-) / nice one
-BirdMan is playing now
-Alex was gunned by Punk
-Punk has 3 frags in a row
-Punk made a TRIPLE FRAG
-Punk was gunned by Alex
-Punk's 3 kill spree was ended by Alex
-BirdMan was gunned by Alex
-TerminalJunkie got in touch with DF's blue ball
-DF was gunned by Alex
-Alex has 3 frags in a row
-Alex made a TRIPLE FRAG
-BirdMan was gunned by DF
-DF took a close look at Punk's Crylink
-DF was gunned by TerminalJunkie
-Punk was pummeled by BirdMan
-BirdMan was gunned by DF
-Punk took a close look at Alex's Crylink
-Alex has 4 frags in a row
-BirdMan: lagggg
-TerminalJunkie has been vaporized by DF
-Punk: wtf?
-TerminalJunkie: Lag Frag
-DF was gunned by BirdMan
-BirdMan was gunned by TerminalJunkie
-TerminalJunkie almost dodged Alex's rocket
-Alex has 5 frags in a row
-Alex unleashes RAGE
-Alex was gunned by DF
-Alex's 5 kill spree was ended by DF
-Punk ate DF's rocket
-BirdMan was gunned by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-DF was gunned by Alex
-DF's 3 kill spree was ended by Alex
-TerminalJunkie was gunned by Punk
-Punk was gunned by DF
-Alex was gunned by TerminalJunkie
-TerminalJunkie was gunned by DF
-Punk was gunned by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-Punk: Somebody tell Jenn we need a faster network for nexiuz
-Alex got too close to BirdMan's blue beam
-TerminalJunkie: Patch Cables and a GigE switch
-TerminalJunkie played with tiny rockets
-Alex was gunned by DF
-DF has 4 frags in a row
-DF almost dodged BirdMan's rocket
-DF's 4 kill spree was ended by BirdMan
-TerminalJunkie was gunned by Alex
-BirdMan was gunned by Alex
-DF almost dodged BirdMan's rocket
-Alex was gunned by TerminalJunkie
-TerminalJunkie took a close look at DF's Crylink
-Alex was gunned by BirdMan
-Punk was pummeled by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-Alex took a close look at DF's Crylink
-Punk was gunned by TerminalJunkie
-Punk took a close look at DF's Crylink
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-Punk was pummeled by BirdMan
-BirdMan has 4 frags in a row
-DF was gunned by Punk
-DF's 3 kill spree was ended by Punk
-DF was gunned by TerminalJunkie
-DF took a close look at Alex's Crylink
-TerminalJunkie was riddled full of holes by Punk
-Punk almost dodged Alex's rocket
-Punk got in touch with BirdMan's blue ball
-BirdMan has 5 frags in a row
-BirdMan unleashes RAGE
-TerminalJunkie got in touch with BirdMan's blue ball
-BirdMan has 6 frags in a row
-Punk was riddled full of holes by DF
-TerminalJunkie felt the electrifying air of BirdMan's combo
-BirdMan has 7 frags in a row
-DF was gunned by Alex
-Alex has 3 frags in a row
-Alex made a TRIPLE FRAG
-Punk was gunned by TerminalJunkie
-Alex felt the electrifying air of BirdMan's combo
-Alex's 3 kill spree was ended by BirdMan
-BirdMan has 8 frags in a row
-Punk was gunned by Alex
-TerminalJunkie was gunned by DF
-Alex almost dodged BirdMan's rocket
-BirdMan has 9 frags in a row
-Punk: I am soo bad at this...
-DF almost dodged BirdMan's rocket
-BirdMan has 10 frags in a row
-BirdMan starts the MASSACRE!
-Alex was pummeled by TerminalJunkie
-DF was gunned by Punk
-Punk was gunned by DF
-TerminalJunkie was gunned by Punk
-Alex has been vaporized by DF
-Alex has been vaporized by BirdMan
-BirdMan has 11 frags in a row
-Punk has been vaporized by BirdMan
-BirdMan has 12 frags in a row
-Alex was riddled full of holes by BirdMan
-BirdMan has 13 frags in a row
-Alex was riddled full of holes by BirdMan
-BirdMan has 14 frags in a row
-Punk has been vaporized by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan has 15 frags in a row
-BirdMan executes MAYHEM!
-Punk played with plasma
-Punk was riddled full of holes by BirdMan
-BirdMan has 16 frags in a row
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan has 17 frags in a row
-BirdMan took a close look at TerminalJunkie's Crylink
-BirdMan's 17 kill spree was ended by TerminalJunkie
-TerminalJunkie was riddled full of holes by DF
-DF has 4 frags in a row
-Alex has been vaporized by DF
-DF has 5 frags in a row
-DF unleashes RAGE
-DF was gunned by TerminalJunkie
-DF's 5 kill spree was ended by TerminalJunkie
-DF: laggy as fk!
-BirdMan was pummeled by Punk
-TerminalJunkie was gunned by Punk
-Alex was gunned by BirdMan
-Punk was riddled full of holes by DF
-TerminalJunkie almost dodged BirdMan's rocket
-BirdMan has been vaporized by DF
-BirdMan has been vaporized by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-TerminalJunkie almost dodged Alex's rocket
-Punk was gunned by BirdMan
-TerminalJunkie took a close look at BirdMan's Crylink
-Alex took a close look at BirdMan's Crylink
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-DF has been vaporized by Punk
-DF's 3 kill spree was ended by Punk
-TerminalJunkie was gunned by BirdMan
-BirdMan has 4 frags in a row
-BirdMan was too close to Alex's Crylink
-BirdMan's 4 kill spree was ended by Alex
-TerminalJunkie was riddled full of holes by DF
-Alex was riddled full of holes by DF
-DF was gunned by TerminalJunkie
-TerminalJunkie could not hide from Alex's Crylink
-Alex was riddled full of holes by DF
-Alex almost dodged BirdMan's rocket
-BirdMan was riddled full of holes by DF
-DF has been vaporized by Punk
-TerminalJunkie was gunned by BirdMan
-Alex was riddled full of holes by BirdMan
-BirdMan wins.
-Punk: STILL THE BOTTOM OF THE LIST
-DF: n1 comeback
-BirdMan: hahaha
-BirdMan: cant believe i got that
-BirdMan: 1
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Alex connected
-Alex connected
-Alex is spectating now
-Punk connected
-Punk connected
-Punk is spectating now
-TerminalJunkie connected
-TerminalJunkie connected
-TerminalJunkie is spectating now
-BirdMan connected
-BirdMan connected
-BirdMan is spectating now
-Punk is playing now
-Alex is playing now
-BirdMan: :-) / nice one
-BirdMan is playing now
-BirdMan: :-) / nice one
-DF connected
-DF connected
-DF is spectating now
-TerminalJunkie is playing now
-DF is playing now
-BirdMan: :-) / nice one
-Punk drew first blood
-Alex could not hide from Punk's Crylink
-DF took a close look at Punk's Crylink
-Punk was gunned by DF
-DF was gunned by BirdMan
-TerminalJunkie was gunned by BirdMan
-Alex was gunned by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-Punk could not hide from DF's Crylink
-DF has been vaporized by BirdMan
-BirdMan has 4 frags in a row
-Alex has been vaporized by BirdMan
-BirdMan has 5 frags in a row
-BirdMan unleashes RAGE
-TerminalJunkie was riddled full of holes by DF
-DF has been vaporized by BirdMan
-BirdMan has 6 frags in a row
-BirdMan was gunned by TerminalJunkie
-BirdMan's 6 kill spree was ended by TerminalJunkie
-Alex was gunned by DF
-Punk was gunned by BirdMan
-Punk was riddled full of holes by BirdMan
-DF was riddled full of holes by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-TerminalJunkie has been vaporized by Punk
-Alex almost dodged BirdMan's rocket
-BirdMan has 4 frags in a row
-Punk was gunned by DF
-TerminalJunkie was gunned by Alex
-Alex got too close to DF's blue beam
-DF was gunned by Alex
-TerminalJunkie almost dodged BirdMan's rocket
-BirdMan has 5 frags in a row
-BirdMan unleashes RAGE
-Alex almost dodged BirdMan's rocket
-BirdMan has 6 frags in a row
-Alex was telefragged by TerminalJunkie
-Punk almost dodged BirdMan's rocket
-BirdMan has 7 frags in a row
-TerminalJunkie ate BirdMan's rocket
-BirdMan has 8 frags in a row
-BirdMan has been vaporized by DF
-BirdMan's 8 kill spree was ended by DF
-Alex was gunned by Punk
-DF could not hide from Punk's Crylink
-TerminalJunkie was riddled full of holes by Alex
-Alex almost dodged BirdMan's rocket
-Punk was gunned by DF
-Alex took a close look at DF's Crylink
-DF almost dodged BirdMan's rocket
-Punk almost dodged BirdMan's rocket
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-TerminalJunkie was gunned by Alex
-Alex was gunned by TerminalJunkie
-Punk took a close look at Alex's Crylink
-TerminalJunkie was riddled full of holes by DF
-Punk has been vaporized by BirdMan
-BirdMan has 4 frags in a row
-DF almost dodged TerminalJunkie's rocket
-Alex has been vaporized by DF
-TerminalJunkie was gunned by Alex
-BirdMan got in touch with TerminalJunkie's blue ball
-BirdMan's 4 kill spree was ended by TerminalJunkie
-Alex could not hide from Punk's Crylink
-Punk was gunned by TerminalJunkie
-TerminalJunkie has been vaporized by DF
-TerminalJunkie could not hide from Punk's Crylink
-Alex was gunned by TerminalJunkie
-Punk was gunned by TerminalJunkie
-TerminalJunkie was gunned by Punk
-Punk could not hide from Alex's Crylink
-Punk has been vaporized by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-Alex almost dodged BirdMan's rocket
-BirdMan exploded
-BirdMan: lagggg
-DF was gunned by Alex
-DF's 3 kill spree was ended by Alex
-Alex has been vaporized by TerminalJunkie
-TerminalJunkie was gunned by Alex
-BirdMan took a close look at Punk's Crylink
-Alex has been vaporized by DF
-Alex was riddled full of holes by BirdMan
-TerminalJunkie was riddled full of holes by BirdMan
-Punk was gunned by TerminalJunkie
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-Alex was gunned by Punk
-Alex was riddled full of holes by BirdMan
-BirdMan has 4 frags in a row
-Punk has been vaporized by DF
-Punk: NICE SHOOTING DAVE
-TerminalJunkie has been vaporized by DF
-DF has 3 frags in a row
-DF made a TRIPLE FRAG
-Punk: wtw
-TerminalJunkie has been vaporized by BirdMan
-BirdMan has 5 frags in a row
-BirdMan unleashes RAGE
-BirdMan could not remember where he put plasma
-BirdMan ended it all after a 5 kill spree
-DF was gunned by Punk
-DF's 3 kill spree was ended by Punk
-TerminalJunkie was gunned by DF
-Alex took a close look at BirdMan's Crylink
-Punk ate DF's rocket
-BirdMan succeeded at self-destructing himself with the Crylink
-TerminalJunkie ate Alex's rocket
-Alex was gunned by BirdMan
-DF ate BirdMan's rocket
-Punk almost dodged BirdMan's rocket
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-TerminalJunkie was blasted by Alex's blue beam
-DF was blasted by Alex's blue beam
-TerminalJunkie got too close to Alex's blue beam
-Alex has 3 frags in a row
-Alex made a TRIPLE FRAG
-Alex has been vaporized by TerminalJunkie
-Alex's 3 kill spree was ended by TerminalJunkie
-Punk has been vaporized by TerminalJunkie
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan has 4 frags in a row
-Alex almost dodged BirdMan's rocket
-BirdMan has 5 frags in a row
-BirdMan unleashes RAGE
-Punk took a close look at DF's Crylink
-Alex felt the electrifying air of Punk's combo
-Punk was gunned by TerminalJunkie
-DF took a close look at Punk's Crylink
-BirdMan was gunned by Alex
-BirdMan's 5 kill spree was ended by Alex
-TerminalJunkie was gunned by Alex
-Punk was riddled full of holes by Alex
-Alex has 3 frags in a row
-Alex made a TRIPLE FRAG
-Alex was gunned by TerminalJunkie
-Alex's 3 kill spree was ended by TerminalJunkie
-TerminalJunkie was gunned by DF
-DF was gunned by BirdMan
-Alex was gunned by BirdMan
-BirdMan almost dodged Punk's rocket
-BirdMan could not hide from DF's Crylink
-DF was gunned by Alex
-Alex was riddled full of holes by TerminalJunkie
-Punk detonated
-TerminalJunkie was gunned by Alex
-TerminalJunkie has been vaporized by DF
-Punk ate BirdMan's rocket
-BirdMan wins.
-DF: gotta bounce
-Punk: I am sucking less...
-DF: good games
-BirdMan: one more?
-Client "DF" dropped
-DF disconnected
-Client "Alex" dropped
-Alex disconnected
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-TerminalJunkie connected
-TerminalJunkie connected
-TerminalJunkie is spectating now
-Punk connected
-Punk connected
-Punk is spectating now
-BirdMan connected
-BirdMan connected
-BirdMan is spectating now
-Punk is playing now
-BirdMan is playing now
-BirdMan: :-) / nice one
-TerminalJunkie is playing now
-BirdMan drew first blood
-TerminalJunkie was gunned by BirdMan
-TerminalJunkie was riddled full of holes by Punk
-TerminalJunkie exploded
-Punk was slimed by BirdMan
-Punk was gunned by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-TerminalJunkie was gunned by BirdMan
-BirdMan has 4 frags in a row
-Punk was gunned by TerminalJunkie
-Punk was riddled full of holes by BirdMan
-BirdMan has 5 frags in a row
-BirdMan unleashes RAGE
-Punk was riddled full of holes by BirdMan
-BirdMan has 6 frags in a row
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan has 7 frags in a row
-Punk was riddled full of holes by BirdMan
-BirdMan has 8 frags in a row
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan has 9 frags in a row
-Punk was riddled full of holes by BirdMan
-BirdMan has 10 frags in a row
-BirdMan starts the MASSACRE!
-Punk was riddled full of holes by BirdMan
-BirdMan has 11 frags in a row
-Punk was riddled full of holes by BirdMan
-BirdMan has 12 frags in a row
-TerminalJunkie has been vaporized by Punk
-Punk was riddled full of holes by BirdMan
-BirdMan has 13 frags in a row
-TerminalJunkie: HOW the!?
-TerminalJunkie was slimed
-Punk was riddled full of holes by BirdMan
-BirdMan has 14 frags in a row
-Punk has been vaporized by TerminalJunkie
-BirdMan got too close to Punk's blue beam
-BirdMan's 14 kill spree was ended by Punk
-Punk was riddled full of holes by BirdMan
-TerminalJunkie was riddled full of holes by BirdMan
-Punk was slimed by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-TerminalJunkie played with tiny rockets
-BirdMan has been vaporized by Punk
-BirdMan's 3 kill spree was ended by Punk
-Punk was riddled full of holes by BirdMan
-Punk was riddled full of holes by BirdMan
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan has 3 frags in a row
-BirdMan made a TRIPLE FRAG
-BirdMan got too close to Punk's blue beam
-BirdMan's 3 kill spree was ended by Punk
-TerminalJunkie almost dodged BirdMan's rocket
-TerminalJunkie: Damn you
-BirdMan almost dodged Punk's rocket
-Punk was gunned by BirdMan
-BirdMan exploded
-TerminalJunkie was riddled full of holes by BirdMan
-TerminalJunkie was slimed by BirdMan
-BirdMan was gunned by TerminalJunkie
-Punk was gunned by TerminalJunkie
-TerminalJunkie has been vaporized by BirdMan
-TerminalJunkie: down to 1 hp
-TerminalJunkie almost dodged BirdMan's rocket
-Punk was gunned by TerminalJunkie
-BirdMan was pummeled by Punk
-TerminalJunkie has been vaporized by BirdMan
-Punk has been vaporized by BirdMan
-TerminalJunkie was blasted by Punk's blue beam
-Punk was pummeled by TerminalJunkie
-Punk was slimed by TerminalJunkie
-BirdMan was riddled full of holes by TerminalJunkie
-TerminalJunkie has 3 frags in a row
-TerminalJunkie made a TRIPLE FRAG
-TerminalJunkie was pummeled by Punk
-TerminalJunkie's 3 kill spree was ended by Punk
-TerminalJunkie was riddled full of holes by BirdMan
-BirdMan was gunned by TerminalJunkie
-TerminalJunkie has been vaporized by BirdMan
-Punk has been vaporized by TerminalJunkie
-TerminalJunkie was slimed
-Punk almost dodged BirdMan's rocket
-BirdMan wins.
-TerminalJunkie: I'm out
-BirdMan: winner
-Punk: Me too
-Client "BirdMan" dropped
-BirdMan disconnected
-Client "Punk" dropped
-Punk disconnected
-Client "TerminalJunkie" dropped
-TerminalJunkie disconnected
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-The @!#%'n Tuba awaits you... not.
-The @!#%'n Tuba awaits you... not.
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-The @!#%'n Tuba awaits you... not.
-The @!#%'n Tuba awaits you... not.
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-The @!#%'n Tuba awaits you... not.
-The @!#%'n Tuba awaits you... not.
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-The @!#%'n Tuba awaits you... not.
-The @!#%'n Tuba awaits you... not.
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-The @!#%'n Tuba awaits you... not.
-The @!#%'n Tuba awaits you... not.
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
-Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
-Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
-Saving persistent data...
-done!
-Loading csprogs.dat
-server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
-Compressing csprogs.dat
-Deflated: 71.6524%
+^7Server using port 26000
+^7Server listening on address 0.0.0.0:26000
+^7Server listening on address [0:0:0:0:0:0:0:0]:26000
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7"fraglimit" changed to "30"
+^7"timelimit" changed to "20"
+^7^4DF^4 connected
+^7DF connected
+^7^4DF^4 is spectating now
+^7^4Punk^4 connected
+^7Punk connected
+^7^4Punk^4 is spectating now
+^7^4Punk^4 is playing now
+^7^4BirdMan^4 connected
+^7BirdMan connected
+^7^4BirdMan^4 is spectating now
+^7^3BirdMan^7: ready to die......
+^7^3BirdMan^7: :-) / nice one
+^7^3BirdMan^7: :-) / nice one
+^7NOTE: BirdMan^7 is flooding.
+^7^4BirdMan^4 is playing now
+^7^4DF^4 is playing now
+^7^1BirdMan^1 drew first blood
+^7^1DF^1 could not hide from BirdMan^1's Crylink
+^7^3DF^7: damn you, was adjusting headphones
+^7^1BirdMan^1 almost dodged Punk^1's rocket
+^7^4TerminalJunkie^4 connected
+^7TerminalJunkie connected
+^7^4TerminalJunkie^4 is spectating now
+^7^1Punk^1 was gunned by BirdMan
+^7^1BirdMan^1 could not hide from DF^1's Crylink
+^7^1DF^1 almost dodged BirdMan^1's rocket
+^7^4Alex^4 connected
+^7Alex connected
+^7^4Alex^4 is spectating now
+^7^4Alex^4 is playing now
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1Punk^1 was gunned by Alex
+^7^1DF^1 ate Alex^1's rocket
+^7^1Punk^1 ate Alex^1's rocket
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 ate BirdMan^1's rocket
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 exploded
+^7^1Alex^1 ended it all after a 3 kill spree
+^7^4TerminalJunkie^4 is playing now
+^7^1TerminalJunkie^1 could not hide from Alex^1's Crylink
+^7^1Punk^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 4 frags in a row
+^7^1BirdMan^1 was gunned by Alex
+^7^1BirdMan's ^14 kill spree was ended by Alex
+^7^1DF^1 was gunned by Alex
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 was gunned by BirdMan
+^7^1Alex's ^13 kill spree was ended by BirdMan
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1BirdMan^1 got too close to Punk^1's blue beam
+^7^1TerminalJunkie^1 was too close to DF^1's Crylink
+^7^1Punk^1 was gunned by BirdMan
+^7^1DF^1 almost dodged TerminalJunkie^1's grenade
+^7^1TerminalJunkie^1 took a close look at Alex^1's Crylink
+^7^1Punk^1 took a close look at Alex^1's Crylink
+^7^1TerminalJunkie^1 ate BirdMan^1's rocket
+^7^1Alex^1 was gunned by Punk
+^7^1Punk^1 was riddled full of holes by TerminalJunkie
+^7^1DF^1 was gunned by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1DF^1 got too close to Punk^1's blue beam
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1BirdMan^1 almost dodged Punk^1's rocket
+^7^1BirdMan's ^13 kill spree was ended by Punk
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Punk^1 was gunned by DF
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1Punk^1 was pummeled by DF
+^7^1Alex^1 was pummeled by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1BirdMan^1 was gunned by Alex
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1Punk^1 was gunned by BirdMan
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1DF's ^13 kill spree was ended by TerminalJunkie
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1TerminalJunkie^1 was gunned by Punk
+^7^1Alex^1 was blasted by DF^1's blue beam
+^7^1Punk^1 was riddled full of holes by DF
+^7^1DF^1 ate BirdMan^1's rocket
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1BirdMan^1 was riddled full of holes by DF
+^7^1BirdMan's ^13 kill spree was ended by DF
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1Punk^1 took a close look at Alex^1's Crylink
+^7^1DF^1 ate BirdMan^1's rocket
+^7^1Punk^1 was riddled full of holes by Alex
+^7^1DF^1 almost dodged BirdMan^1's rocket
+^7^1Punk^1 was riddled full of holes by Alex
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1BirdMan^1 got too close to TerminalJunkie^1's blue beam
+^7^1Alex^1 was blasted by TerminalJunkie^1's blue beam
+^7^1Alex's ^13 kill spree was ended by TerminalJunkie
+^7^1Punk^1 was gunned by DF
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1Alex^1 was telefragged by BirdMan
+^7^1BirdMan^1 was riddled full of holes by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 almost dodged DF^1's rocket
+^7^1DF^1 has 4 frags in a row
+^7^1Punk^1 almost dodged BirdMan^1's rocket
+^7^1Alex^1 was riddled full of holes by DF
+^7^1DF^1 has 5 frags in a row
+^7DF^7 unleashes ^1RAGE
+^7^1DF^1 ate TerminalJunkie^1's grenade
+^7^1DF's ^15 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 detonated
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1DF^1 was riddled full of holes by Punk
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1BirdMan^1 was gunned by Alex
+^7^1Alex^1 was pummeled by Punk
+^7^1Punk^1 exploded
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1BirdMan^1 was grounded by DF
+^7^1DF^1 took a close look at BirdMan^1's Crylink
+^7^1TerminalJunkie^1 almost dodged Punk^1's grenade
+^7^1Alex^1 was gunned by DF
+^7^1DF^1 was gunned by Alex
+^7^1Punk^1 took a close look at BirdMan^1's Crylink
+^7^1DF^1 took a close look at BirdMan^1's Crylink
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 almost dodged BirdMan^1's grenade
+^7^1BirdMan^1 has 4 frags in a row
+^7^1BirdMan^1 felt the electrifying air of DF^1's combo
+^7^1BirdMan's ^14 kill spree was ended by DF
+^7^1Punk^1 got too close to DF^1's blue beam
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1DF^1 could not hide from TerminalJunkie^1's Crylink
+^7^1Punk^1 played with plasma
+^7^1Punk^1 was telefragged by BirdMan
+^7^1Alex^1 could not hide from TerminalJunkie^1's Crylink
+^7^1DF^1 was gunned by BirdMan
+^7^1DF^1 was gunned by Alex
+^7^1TerminalJunkie^1 ate Alex^1's grenade
+^7^1Alex^1 was gunned by Punk
+^7^1Punk^1 was gunned by DF
+^7^1Punk^1 almost dodged Alex^1's grenade
+^7^1DF^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was riddled full of holes by TerminalJunkie
+^7^1Alex^1 was riddled full of holes by TerminalJunkie
+^7^1BirdMan^1 was riddled full of holes by TerminalJunkie
+^7^1BirdMan's ^13 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by BirdMan
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1TerminalJunkie's ^13 kill spree was ended by BirdMan
+^7^1Punk^1 took a close look at BirdMan^1's Crylink
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7BirdMan ^7wins.
+^7^3BirdMan^7: beast!
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7^4Alex^4 connected
+^7Alex connected
+^7^4Alex^4 is spectating now
+^7^4Punk^4 connected
+^7Punk connected
+^7^4Punk^4 is spectating now
+^7^4TerminalJunkie^4 connected
+^7TerminalJunkie connected
+^7^4TerminalJunkie^4 is spectating now
+^7^4BirdMan^4 connected
+^7BirdMan connected
+^7^4BirdMan^4 is spectating now
+^7^4DF^4 connected
+^7DF connected
+^7^4DF^4 is spectating now
+^7^4Alex^4 is playing now
+^7^4Punk^4 is playing now
+^7^4DF^4 is playing now
+^7^4TerminalJunkie^4 is playing now
+^7^1TerminalJunkie^1 drew first blood
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was gunned by Punk
+^7^1TerminalJunkie^1 was gunned by Punk
+^7^1TerminalJunkie's ^13 kill spree was ended by Punk
+^7^3BirdMan^7: :-) / nice one
+^7^3BirdMan^7: :-) / nice one
+^7^4BirdMan^4 is playing now
+^7^1Alex^1 was gunned by Punk
+^7^1Punk^1 has 3 frags in a row
+^7Punk^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by Alex
+^7^1Punk's ^13 kill spree was ended by Alex
+^7^1BirdMan^1 was gunned by Alex
+^7^1TerminalJunkie^1 got in touch with DF^1's blue ball
+^7^1DF^1 was gunned by Alex
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1BirdMan^1 was gunned by DF
+^7^1DF^1 took a close look at Punk^1's Crylink
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Punk^1 was pummeled by BirdMan
+^7^1BirdMan^1 was gunned by DF
+^7^1Punk^1 took a close look at Alex^1's Crylink
+^7^1Alex^1 has 4 frags in a row
+^7^3BirdMan^7: lagggg
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^3Punk^7: wtf?
+^7^3TerminalJunkie^7: Lag Frag
+^7^1DF^1 was gunned by BirdMan
+^7^1BirdMan^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 almost dodged Alex^1's rocket
+^7^1Alex^1 has 5 frags in a row
+^7Alex^7 unleashes ^1RAGE
+^7^1Alex^1 was gunned by DF
+^7^1Alex's ^15 kill spree was ended by DF
+^7^1Punk^1 ate DF^1's rocket
+^7^1BirdMan^1 was gunned by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was gunned by Alex
+^7^1DF's ^13 kill spree was ended by Alex
+^7^1TerminalJunkie^1 was gunned by Punk
+^7^1Punk^1 was gunned by DF
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1Punk^1 was gunned by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^3Punk^7: Somebody tell Jenn we need a faster network for nexiuz
+^7^1Alex^1 got too close to BirdMan^1's blue beam
+^7^3TerminalJunkie^7: Patch Cables and a GigE switch
+^7^1TerminalJunkie^1 played with tiny rockets
+^7^1Alex^1 was gunned by DF
+^7^1DF^1 has 4 frags in a row
+^7^1DF^1 almost dodged BirdMan^1's rocket
+^7^1DF's ^14 kill spree was ended by BirdMan
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1BirdMan^1 was gunned by Alex
+^7^1DF^1 almost dodged BirdMan^1's rocket
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 took a close look at DF^1's Crylink
+^7^1Alex^1 was gunned by BirdMan
+^7^1Punk^1 was pummeled by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 took a close look at DF^1's Crylink
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Punk^1 took a close look at DF^1's Crylink
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was pummeled by BirdMan
+^7^1BirdMan^1 has 4 frags in a row
+^7^1DF^1 was gunned by Punk
+^7^1DF's ^13 kill spree was ended by Punk
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1DF^1 took a close look at Alex^1's Crylink
+^7^1TerminalJunkie^1 was riddled full of holes by Punk
+^7^1Punk^1 almost dodged Alex^1's rocket
+^7^1Punk^1 got in touch with BirdMan^1's blue ball
+^7^1BirdMan^1 has 5 frags in a row
+^7BirdMan^7 unleashes ^1RAGE
+^7^1TerminalJunkie^1 got in touch with BirdMan^1's blue ball
+^7^1BirdMan^1 has 6 frags in a row
+^7^1Punk^1 was riddled full of holes by DF
+^7^1TerminalJunkie^1 felt the electrifying air of BirdMan^1's combo
+^7^1BirdMan^1 has 7 frags in a row
+^7^1DF^1 was gunned by Alex
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Alex^1 felt the electrifying air of BirdMan^1's combo
+^7^1Alex's ^13 kill spree was ended by BirdMan
+^7^1BirdMan^1 has 8 frags in a row
+^7^1Punk^1 was gunned by Alex
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 9 frags in a row
+^7^3Punk^7: I am soo bad at this...
+^7^1DF^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 10 frags in a row
+^7BirdMan^7 starts the ^1MASSACRE!
+^7^1Alex^1 was pummeled by TerminalJunkie
+^7^1DF^1 was gunned by Punk
+^7^1Punk^1 was gunned by DF
+^7^1TerminalJunkie^1 was gunned by Punk
+^7^1Alex^1 has been vaporized by DF
+^7^1Alex^1 has been vaporized by BirdMan
+^7^1BirdMan^1 has 11 frags in a row
+^7^1Punk^1 has been vaporized by BirdMan
+^7^1BirdMan^1 has 12 frags in a row
+^7^1Alex^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 13 frags in a row
+^7^1Alex^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 14 frags in a row
+^7^1Punk^1 has been vaporized by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 15 frags in a row
+^7BirdMan^7 executes ^1MAYHEM!
+^7^1Punk^1 played with plasma
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 16 frags in a row
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 17 frags in a row
+^7^1BirdMan^1 took a close look at TerminalJunkie^1's Crylink
+^7^1BirdMan's ^117 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1DF^1 has 4 frags in a row
+^7^1Alex^1 has been vaporized by DF
+^7^1DF^1 has 5 frags in a row
+^7DF^7 unleashes ^1RAGE
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1DF's ^15 kill spree was ended by TerminalJunkie
+^7^3DF^7: laggy as fk!
+^7^1BirdMan^1 was pummeled by Punk
+^7^1TerminalJunkie^1 was gunned by Punk
+^7^1Alex^1 was gunned by BirdMan
+^7^1Punk^1 was riddled full of holes by DF
+^7^1TerminalJunkie^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has been vaporized by DF
+^7^1BirdMan^1 has been vaporized by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 almost dodged Alex^1's rocket
+^7^1Punk^1 was gunned by BirdMan
+^7^1TerminalJunkie^1 took a close look at BirdMan^1's Crylink
+^7^1Alex^1 took a close look at BirdMan^1's Crylink
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1DF^1 has been vaporized by Punk
+^7^1DF's ^13 kill spree was ended by Punk
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1BirdMan^1 has 4 frags in a row
+^7^1BirdMan^1 was too close to Alex^1's Crylink
+^7^1BirdMan's ^14 kill spree was ended by Alex
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1Alex^1 was riddled full of holes by DF
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 could not hide from Alex^1's Crylink
+^7^1Alex^1 was riddled full of holes by DF
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 was riddled full of holes by DF
+^7^1DF^1 has been vaporized by Punk
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1Alex^1 was riddled full of holes by BirdMan
+^7BirdMan ^7wins.
+^7^3Punk^7: STILL THE BOTTOM OF THE LIST
+^7^3DF^7: n1 comeback
+^7^3BirdMan^7: hahaha
+^7^3BirdMan^7: cant believe i got that
+^7^3BirdMan^7: 1
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7^4Alex^4 connected
+^7Alex connected
+^7^4Alex^4 is spectating now
+^7^4Punk^4 connected
+^7Punk connected
+^7^4Punk^4 is spectating now
+^7^4TerminalJunkie^4 connected
+^7TerminalJunkie connected
+^7^4TerminalJunkie^4 is spectating now
+^7^4BirdMan^4 connected
+^7BirdMan connected
+^7^4BirdMan^4 is spectating now
+^7^4Punk^4 is playing now
+^7^4Alex^4 is playing now
+^7^3BirdMan^7: :-) / nice one
+^7^4BirdMan^4 is playing now
+^7^3BirdMan^7: :-) / nice one
+^7^4DF^4 connected
+^7DF connected
+^7^4DF^4 is spectating now
+^7^4TerminalJunkie^4 is playing now
+^7^4DF^4 is playing now
+^7^3BirdMan^7: :-) / nice one
+^7^1Punk^1 drew first blood
+^7^1Alex^1 could not hide from Punk^1's Crylink
+^7^1DF^1 took a close look at Punk^1's Crylink
+^7^1Punk^1 was gunned by DF
+^7^1DF^1 was gunned by BirdMan
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1Alex^1 was gunned by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 could not hide from DF^1's Crylink
+^7^1DF^1 has been vaporized by BirdMan
+^7^1BirdMan^1 has 4 frags in a row
+^7^1Alex^1 has been vaporized by BirdMan
+^7^1BirdMan^1 has 5 frags in a row
+^7BirdMan^7 unleashes ^1RAGE
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1DF^1 has been vaporized by BirdMan
+^7^1BirdMan^1 has 6 frags in a row
+^7^1BirdMan^1 was gunned by TerminalJunkie
+^7^1BirdMan's ^16 kill spree was ended by TerminalJunkie
+^7^1Alex^1 was gunned by DF
+^7^1Punk^1 was gunned by BirdMan
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1DF^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 has been vaporized by Punk
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 4 frags in a row
+^7^1Punk^1 was gunned by DF
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1Alex^1 got too close to DF^1's blue beam
+^7^1DF^1 was gunned by Alex
+^7^1TerminalJunkie^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 5 frags in a row
+^7BirdMan^7 unleashes ^1RAGE
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 6 frags in a row
+^7^1Alex^1 was telefragged by TerminalJunkie
+^7^1Punk^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 7 frags in a row
+^7^1TerminalJunkie^1 ate BirdMan^1's rocket
+^7^1BirdMan^1 has 8 frags in a row
+^7^1BirdMan^1 has been vaporized by DF
+^7^1BirdMan's ^18 kill spree was ended by DF
+^7^1Alex^1 was gunned by Punk
+^7^1DF^1 could not hide from Punk^1's Crylink
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1Punk^1 was gunned by DF
+^7^1Alex^1 took a close look at DF^1's Crylink
+^7^1DF^1 almost dodged BirdMan^1's rocket
+^7^1Punk^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Punk^1 took a close look at Alex^1's Crylink
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1Punk^1 has been vaporized by BirdMan
+^7^1BirdMan^1 has 4 frags in a row
+^7^1DF^1 almost dodged TerminalJunkie^1's rocket
+^7^1Alex^1 has been vaporized by DF
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1BirdMan^1 got in touch with TerminalJunkie^1's blue ball
+^7^1BirdMan's ^14 kill spree was ended by TerminalJunkie
+^7^1Alex^1 could not hide from Punk^1's Crylink
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^1TerminalJunkie^1 could not hide from Punk^1's Crylink
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by Punk
+^7^1Punk^1 could not hide from Alex^1's Crylink
+^7^1Punk^1 has been vaporized by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 exploded
+^7^3BirdMan^7: lagggg
+^7^1DF^1 was gunned by Alex
+^7^1DF's ^13 kill spree was ended by Alex
+^7^1Alex^1 has been vaporized by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1BirdMan^1 took a close look at Punk^1's Crylink
+^7^1Alex^1 has been vaporized by DF
+^7^1Alex^1 was riddled full of holes by BirdMan
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 was gunned by Punk
+^7^1Alex^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 4 frags in a row
+^7^1Punk^1 has been vaporized by DF
+^7^3Punk^7: NICE SHOOTING DAVE
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^3Punk^7: wtw
+^7^1TerminalJunkie^1 has been vaporized by BirdMan
+^7^1BirdMan^1 has 5 frags in a row
+^7BirdMan^7 unleashes ^1RAGE
+^7^1BirdMan^1 could not remember where he put plasma
+^7^1BirdMan^1 ended it all after a 5 kill spree
+^7^1DF^1 was gunned by Punk
+^7^1DF's ^13 kill spree was ended by Punk
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1Alex^1 took a close look at BirdMan^1's Crylink
+^7^1Punk^1 ate DF^1's rocket
+^7^1BirdMan^1 succeeded at self-destructing himself with the Crylink
+^7^1TerminalJunkie^1 ate Alex^1's rocket
+^7^1Alex^1 was gunned by BirdMan
+^7^1DF^1 ate BirdMan^1's rocket
+^7^1Punk^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was blasted by Alex^1's blue beam
+^7^1DF^1 was blasted by Alex^1's blue beam
+^7^1TerminalJunkie^1 got too close to Alex^1's blue beam
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 has been vaporized by TerminalJunkie
+^7^1Alex's ^13 kill spree was ended by TerminalJunkie
+^7^1Punk^1 has been vaporized by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 4 frags in a row
+^7^1Alex^1 almost dodged BirdMan^1's rocket
+^7^1BirdMan^1 has 5 frags in a row
+^7BirdMan^7 unleashes ^1RAGE
+^7^1Punk^1 took a close look at DF^1's Crylink
+^7^1Alex^1 felt the electrifying air of Punk^1's combo
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1DF^1 took a close look at Punk^1's Crylink
+^7^1BirdMan^1 was gunned by Alex
+^7^1BirdMan's ^15 kill spree was ended by Alex
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1Punk^1 was riddled full of holes by Alex
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Alex's ^13 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1DF^1 was gunned by BirdMan
+^7^1Alex^1 was gunned by BirdMan
+^7^1BirdMan^1 almost dodged Punk^1's rocket
+^7^1BirdMan^1 could not hide from DF^1's Crylink
+^7^1DF^1 was gunned by Alex
+^7^1Alex^1 was riddled full of holes by TerminalJunkie
+^7^1Punk^1 detonated
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^1Punk^1 ate BirdMan^1's rocket
+^7BirdMan ^7wins.
+^7^3DF^7: gotta bounce
+^7^3Punk^7: I am sucking less...
+^7^3DF^7: good games
+^7^3BirdMan^7: one more?
+^7Client "DF" dropped
+^7^4DF^4 disconnected
+^7Client "Alex" dropped
+^7^4Alex^4 disconnected
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7^4TerminalJunkie^4 connected
+^7TerminalJunkie connected
+^7^4TerminalJunkie^4 is spectating now
+^7^4Punk^4 connected
+^7Punk connected
+^7^4Punk^4 is spectating now
+^7^4BirdMan^4 connected
+^7BirdMan connected
+^7^4BirdMan^4 is spectating now
+^7^4Punk^4 is playing now
+^7^4BirdMan^4 is playing now
+^7^3BirdMan^7: :-) / nice one
+^7^4TerminalJunkie^4 is playing now
+^7^1BirdMan^1 drew first blood
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1TerminalJunkie^1 was riddled full of holes by Punk
+^7^1TerminalJunkie^1 exploded
+^7^1Punk^1 was slimed by BirdMan
+^7^1Punk^1 was gunned by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was gunned by BirdMan
+^7^1BirdMan^1 has 4 frags in a row
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 5 frags in a row
+^7BirdMan^7 unleashes ^1RAGE
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 6 frags in a row
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 7 frags in a row
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 8 frags in a row
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 9 frags in a row
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 10 frags in a row
+^7BirdMan^7 starts the ^1MASSACRE!
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 11 frags in a row
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 12 frags in a row
+^7^1TerminalJunkie^1 has been vaporized by Punk
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 13 frags in a row
+^7^3TerminalJunkie^7: HOW the!?
+^7^1TerminalJunkie^1 was slimed
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 14 frags in a row
+^7^1Punk^1 has been vaporized by TerminalJunkie
+^7^1BirdMan^1 got too close to Punk^1's blue beam
+^7^1BirdMan's ^114 kill spree was ended by Punk
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1Punk^1 was slimed by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 played with tiny rockets
+^7^1BirdMan^1 has been vaporized by Punk
+^7^1BirdMan's ^13 kill spree was ended by Punk
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1Punk^1 was riddled full of holes by BirdMan
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 has 3 frags in a row
+^7BirdMan^7 made a ^1TRIPLE FRAG
+^7^1BirdMan^1 got too close to Punk^1's blue beam
+^7^1BirdMan's ^13 kill spree was ended by Punk
+^7^1TerminalJunkie^1 almost dodged BirdMan^1's rocket
+^7^3TerminalJunkie^7: Damn you
+^7^1BirdMan^1 almost dodged Punk^1's rocket
+^7^1Punk^1 was gunned by BirdMan
+^7^1BirdMan^1 exploded
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1TerminalJunkie^1 was slimed by BirdMan
+^7^1BirdMan^1 was gunned by TerminalJunkie
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by BirdMan
+^7^3TerminalJunkie^7: down to 1 hp
+^7^1TerminalJunkie^1 almost dodged BirdMan^1's rocket
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1BirdMan^1 was pummeled by Punk
+^7^1TerminalJunkie^1 has been vaporized by BirdMan
+^7^1Punk^1 has been vaporized by BirdMan
+^7^1TerminalJunkie^1 was blasted by Punk^1's blue beam
+^7^1Punk^1 was pummeled by TerminalJunkie
+^7^1Punk^1 was slimed by TerminalJunkie
+^7^1BirdMan^1 was riddled full of holes by TerminalJunkie
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1TerminalJunkie's ^13 kill spree was ended by Punk
+^7^1TerminalJunkie^1 was riddled full of holes by BirdMan
+^7^1BirdMan^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by BirdMan
+^7^1Punk^1 has been vaporized by TerminalJunkie
+^7^1TerminalJunkie^1 was slimed
+^7^1Punk^1 almost dodged BirdMan^1's rocket
+^7BirdMan ^7wins.
+^7^3TerminalJunkie^7: I'm out
+^7^3BirdMan^7: winner
+^7^3Punk^7: Me too
+^7Client "BirdMan" dropped
+^7^4BirdMan^4 disconnected
+^7Client "Punk" dropped
+^7^4Punk^4 disconnected
+^7Client "TerminalJunkie" dropped
+^7^4TerminalJunkie^4 disconnected
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7The @!#%'n Tuba awaits you... not.
+^7The @!#%'n Tuba awaits you... not.
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7The @!#%'n Tuba awaits you... not.
+^7The @!#%'n Tuba awaits you... not.
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7The @!#%'n Tuba awaits you... not.
+^7The @!#%'n Tuba awaits you... not.
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7The @!#%'n Tuba awaits you... not.
+^7The @!#%'n Tuba awaits you... not.
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7The @!#%'n Tuba awaits you... not.
+^7The @!#%'n Tuba awaits you... not.
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 3 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 4 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no vertices, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 5 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Mod_Q3BSP_LoadFaces: surface 0 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 1 has no triangles, ignoring
+^7Mod_Q3BSP_LoadFaces: surface 2 has no triangles, ignoring
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+====== Log started (Mon Aug 12 14:40:23 2013) ======
+^7Server using port 26000
+^7Server listening on address 0.0.0.0:26000
+^7Server listening on address [0:0:0:0:0:0:0:0]:26000
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7"fraglimit" changed to "30"
+^7"timelimit" changed to "20"
+====== Log started (Fri Aug 16 16:40:04 2013) ======
+^7Server using port 26000
+^7Server listening on address 0.0.0.0:26000
+^7Server listening on address [0:0:0:0:0:0:0:0]:26000
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7"fraglimit" changed to "30"
+^7"timelimit" changed to "20"
+^7^4Alex^4 connected
+^7Alex connected
+^7^4Alex^4 is spectating now
+^7^4Alex^4 is playing now
+^7^4TerminalJunkie^4 connected
+^7TerminalJunkie connected
+^7^4TerminalJunkie^4 is spectating now
+^7^4TerminalJunkie^4 is playing now
+^7^1Alex^1 drew first blood
+^7^1TerminalJunkie^1 ate Alex^1's rocket
+^7^1TerminalJunkie^1 took a close look at Alex^1's Crylink
+^7^4DF^4 connected
+^7DF connected
+^7^4DF^4 is spectating now
+^7^4DF^4 is playing now
+^7^1TerminalJunkie^1 was too close to Alex^1's Crylink
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 ate TerminalJunkie^1's rocket
+^7^1Alex's ^13 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1Alex^1 almost dodged DF^1's rocket
+^7^1TerminalJunkie^1 almost dodged DF^1's rocket
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 detonated
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1DF^1 has 4 frags in a row
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1DF^1 has 5 frags in a row
+^7DF^7 unleashes ^1RAGE
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1TerminalJunkie^1 almost dodged DF^1's rocket
+^7^1DF^1 has 6 frags in a row
+^7^1Alex^1 has been vaporized by DF
+^7^1DF^1 has 7 frags in a row
+^7^1Alex^1 has been vaporized by DF
+^7^1DF^1 has 8 frags in a row
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1Alex^1 has been vaporized by DF
+^7^1DF^1 has 9 frags in a row
+^7^1TerminalJunkie^1 almost dodged DF^1's grenade
+^7^1DF^1 has 10 frags in a row
+^7DF^7 starts the ^1MASSACRE!
+^7^1TerminalJunkie^1 ate DF^1's grenade
+^7^1DF^1 has 11 frags in a row
+^7^1Alex^1 almost dodged DF^1's grenade
+^7^1DF^1 has 12 frags in a row
+^7^4Punk^4 connected
+^7Punk connected
+^7^4Punk^4 is spectating now
+^7^3Punk^7: Fuck all'yall!
+^7^4Punk^4 is playing now
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Alex^1 has been vaporized by DF
+^7^1DF^1 has 13 frags in a row
+^7^1TerminalJunkie^1 almost dodged Punk^1's grenade
+^7^1Punk^1 has been vaporized by DF
+^7^1DF^1 has 14 frags in a row
+^7^1DF^1 could not hide from Alex^1's Crylink
+^7^1DF's ^114 kill spree was ended by Alex
+^7^1TerminalJunkie^1 took a close look at Alex^1's Crylink
+^7^3DF^7: booooo
+^7^1Alex^1 took a close look at DF^1's Crylink
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Punk^1 took a close look at TerminalJunkie^1's Crylink
+^7^1Alex^1 ate TerminalJunkie^1's rocket
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 exploded
+^7^1TerminalJunkie^1 ended it all after a 3 kill spree
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Punk^1 could not hide from DF^1's Crylink
+^7^1TerminalJunkie^1 was too close to DF^1's Crylink
+^7^1DF^1 almost dodged Alex^1's rocket
+^7^3DF^7: niiiice
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1TerminalJunkie^1 almost dodged DF^1's rocket
+^7^1DF^1 exploded
+^7^1TerminalJunkie^1 succeeded at self-destructing himself with the Crylink
+^7^1TerminalJunkie^1 almost dodged Alex^1's rocket
+^7^1Punk^1 ate DF^1's grenade
+^7^1TerminalJunkie^1 ate Alex^1's rocket
+^7^1DF^1 almost dodged Alex^1's rocket
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 almost dodged Punk^1's rocket
+^7^1Alex's ^13 kill spree was ended by Punk
+^7^1DF^1 has been vaporized by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1Punk^1 detonated
+^7^1DF^1 almost dodged Punk^1's grenade
+^7^1DF^1 was telefragged by TerminalJunkie
+^7^1Alex^1 has been vaporized by TerminalJunkie
+^7^1Punk^1 was cooked by TerminalJunkie
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1TerminalJunkie's ^13 kill spree was ended by DF
+^7^1TerminalJunkie^1 almost dodged Alex^1's rocket
+^7^1Punk^1 ate Alex^1's rocket
+^7^1DF^1 almost dodged Alex^1's rocket
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1DF^1 could not hide from Alex^1's Crylink
+^7^1Alex^1 has 4 frags in a row
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1Alex's ^14 kill spree was ended by Punk
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1DF^1 was riddled full of holes by Punk
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1Punk^1 has 3 frags in a row
+^7Punk^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by DF
+^7^1Punk's ^13 kill spree was ended by DF
+^7^1Punk^1 was riddled full of holes by DF
+^7^1TerminalJunkie^1 was pummeled by Alex
+^7^1DF^1 was pummeled by Alex
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 ate DF^1's rocket
+^7^1Alex^1 ate DF^1's rocket
+^7^1Punk^1 was riddled full of holes by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was gunned by Alex
+^7^1DF's ^13 kill spree was ended by Alex
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by Punk
+^7^1DF^1 took a close look at Alex^1's Crylink
+^7^1Punk^1 was too close to Alex^1's Crylink
+^7^1Punk^1 was riddled full of holes by DF
+^7^1DF^1 took a close look at Alex^1's Crylink
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1DF^1 has been vaporized by Punk
+^7^1Punk^1 was too close to Alex^1's Crylink
+^7^1Alex^1 has 4 frags in a row
+^7^1Alex^1 almost dodged TerminalJunkie^1's rocket
+^7^1Alex's ^14 kill spree was ended by TerminalJunkie
+^7^3Alex^7: :-) / nice one
+^7^1TerminalJunkie^1 was cooked by Punk
+^7^1Punk^1 has been vaporized by DF
+^7^1Alex^1 succeeded at self-destructing himself with the Crylink
+^7^3Punk^7: Crap!
+^7^1DF^1 was gunned by Alex
+^7^1TerminalJunkie^1 was cooked by DF
+^7:scores:dm_final_rage:974
+^7:labels:player:score!!,kills,deaths<,suicides<,,,,,,
+^7:player:see-labels:22,24,22,2,0,0,0,0,0,0:943:-1:Alex
+^7:player:see-labels:14,16,31,2,0,0,0,0,0,0:875:-1:TerminalJunkie
+^7:player:see-labels:30,31,19,1,0,0,0,0,0,0:808:-1:DF
+^7:player:see-labels:9,10,15,1,0,0,0,0,0,0:548:-1:Punk
+^7:end
+^7DF ^7wins.
+^7^3Punk^7: Shit Dave!
+^7^3TerminalJunkie^7: So this is what the scores look like without birdman
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7^4Alex^4 connected
+^7Alex connected
+^7^4Alex^4 is spectating now
+^7^4Punk^4 connected
+^7Punk connected
+^7^4Punk^4 is spectating now
+^7^4TerminalJunkie^4 connected
+^7TerminalJunkie connected
+^7^4TerminalJunkie^4 is spectating now
+^7^4DF^4 connected
+^7DF connected
+^7^4DF^4 is spectating now
+^7^4Alex^4 is playing now
+^7^4Punk^4 is playing now
+^7^4TerminalJunkie^4 is playing now
+^7^4DF^4 is playing now
+^7^1TerminalJunkie^1 drew first blood
+^7^1Alex^1 took a close look at TerminalJunkie^1's Crylink
+^7^1DF^1 was riddled full of holes by Punk
+^7^1Alex^1 was in the wrong place
+^7^1TerminalJunkie^1 was thrown into a world of hurt by Alex
+^7^1Punk^1 got too close to DF^1's blue beam
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1Punk^1 was in the wrong place
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was in the wrong place
+^7^3Alex^7: sdss
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1Alex^1 has 4 frags in a row
+^7^1Alex^1 was gunned by DF
+^7^1Alex's ^14 kill spree was ended by DF
+^7^3Alex^7: need help (l:Machine Gun^7) (h:150^7 a:0^7 w:Shotgun^7)
+^7^3Alex^7: need help (l:Machine Gun^7) (h:150^7 a:0^7 w:Shotgun^7)
+^7^1Punk^1 was gunned by Alex
+^7^3DF^7: ikik wat
+^7^1TerminalJunkie^1 ate Alex^1's grenade
+^7^1Alex^1 was gunned by Punk
+^7^1Punk^1 took a close look at DF^1's Crylink
+^7^1TerminalJunkie^1 ate Alex^1's rocket
+^7^1DF^1 almost dodged Alex^1's rocket
+^7^3TerminalJunkie^7: Alex is raping me!
+^7^1Punk^1 was gunned by DF
+^7^3Alex^7: adas
+^7^1Alex^1 was gunned by DF
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1Alex^1 has been vaporized by Punk
+^7^3TerminalJunkie^7: Type kill
+^7^1Punk^1 got in touch with DF^1's blue ball
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 has been vaporized by TerminalJunkie
+^7^1TerminalJunkie^1 got in touch with DF^1's blue ball
+^7^1DF^1 has 4 frags in a row
+^7^1TerminalJunkie^1 was thrown into a world of hurt by DF
+^7^1DF^1 has 5 frags in a row
+^7DF^7 unleashes ^1RAGE
+^7^1Punk^1 almost dodged Alex^1's rocket
+^7^1Alex^1 succeeded at self-destructing himself with the Crylink
+^7^1TerminalJunkie^1 ate DF^1's rocket
+^7^1DF^1 has 6 frags in a row
+^7^1DF^1 was gunned by Punk
+^7^1DF's ^16 kill spree was ended by Punk
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 got too close to Alex^1's blue beam
+^7^1TerminalJunkie^1 ate Alex^1's rocket
+^7^1Alex^1 was gunned by DF
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Alex^1 was gunned by Punk
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1Alex^1 took a close look at DF^1's Crylink
+^7^1DF^1 was gunned by Punk
+^7^1Alex^1 ate TerminalJunkie^1's rocket
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1DF^1 was riddled full of holes by Alex
+^7^1Punk^1 ate Alex^1's rocket
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was gunned by Punk
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Alex's ^13 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 almost dodged Alex^1's rocket
+^7^1Alex^1 took a close look at DF^1's Crylink
+^7^1Punk^1 was gunned by DF
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1DF^1 was riddled full of holes by Punk
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 got too close to Alex^1's blue beam
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1TerminalJunkie^1 was riddled full of holes by Punk
+^7^1Alex^1 was gunned by DF
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1Punk^1 has 3 frags in a row
+^7Punk^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 was riddled full of holes by Punk
+^7^1Punk^1 has 4 frags in a row
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Punk's ^14 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1Punk^1 has been vaporized by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1DF^1 has been vaporized by Alex
+^7^1Alex^1 has 3 frags in a row
+^7Alex^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 ate Alex^1's grenade
+^7^1Alex^1 has 4 frags in a row
+^7^1TerminalJunkie^1 got in touch with DF^1's blue ball
+^7^1Alex^1 almost dodged Punk^1's grenade
+^7^1Alex's ^14 kill spree was ended by Punk
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1Alex^1 was riddled full of holes by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1DF's ^13 kill spree was ended by TerminalJunkie
+^7^1Punk^1 has been vaporized by TerminalJunkie
+^7^1Alex^1 was thrown into a world of hurt by Punk
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1Alex^1 felt the electrifying air of DF^1's combo
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Alex^1 took a close look at Punk^1's Crylink
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1Alex^1 was in the wrong place
+^7^1DF^1 took a close look at Punk^1's Crylink
+^7^1Punk^1 has 3 frags in a row
+^7Punk^7 made a ^1TRIPLE FRAG
+^7^3Alex^7: SAddddddd
+^7^1TerminalJunkie^1 almost dodged Alex^1's rocket
+^7^1Alex^1 could not hide from Punk^1's Crylink
+^7^1Punk^1 has 4 frags in a row
+^7^1Punk^1 was gunned by Alex
+^7^1Punk's ^14 kill spree was ended by Alex
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1Punk^1 was gunned by Alex
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1DF^1 played with plasma
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by Punk
+^7^1Alex^1 almost dodged DF^1's grenade
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1Punk^1 has 3 frags in a row
+^7Punk^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Punk's ^13 kill spree was ended by TerminalJunkie
+^7^1TerminalJunkie^1 took a close look at DF^1's Crylink
+^7^1TerminalJunkie^1 took a close look at DF^1's Crylink
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was gunned by Punk
+^7^1DF's ^13 kill spree was ended by Punk
+^7^1Punk^1 was gunned by Alex
+^7^1Punk^1 was gunned by Alex
+^7^1Alex^1 was too close to DF^1's Crylink
+^7^1TerminalJunkie^1 took a close look at DF^1's Crylink
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1DF^1 was riddled full of holes by Punk
+^7^1TerminalJunkie^1 took a close look at Punk^1's Crylink
+^7^1Punk^1 has 3 frags in a row
+^7Punk^7 made a ^1TRIPLE FRAG
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Alex^1 could not hide from Punk^1's Crylink
+^7^1Punk^1 has 4 frags in a row
+^7^1Alex^1 was gunned by DF
+^7^1DF^1 was gunned by Alex
+^7^3DF^7: loool comon
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by Punk
+^7^1Punk^1 has 5 frags in a row
+^7Punk^7 unleashes ^1RAGE
+^7^1TerminalJunkie^1 got in touch with DF^1's blue ball
+^7^1Alex^1 was blasted by DF^1's blue beam
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by DF
+^7:scores:dm_aneurysm:831
+^7:labels:player:score!!,kills,deaths<,suicides<,,,,,,
+^7:player:see-labels:26,29,35,3,0,0,0,0,0,0:828:-1:Alex
+^7:player:see-labels:22,22,38,0,0,0,0,0,0,0:828:-1:TerminalJunkie
+^7:player:see-labels:30,32,21,2,0,0,0,0,0,0:828:-1:DF
+^7:player:see-labels:24,25,20,1,0,0,0,0,0,0:828:-1:Punk
+^7:end
+^7DF ^7wins.
+^7^3TerminalJunkie^7: good game
+^7^3DF^7: ya real good
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
+^7^4Alex^4 connected
+^7Alex connected
+^7^4Alex^4 is spectating now
+^7^4Punk^4 connected
+^7Punk connected
+^7^4Punk^4 is spectating now
+^7^4TerminalJunkie^4 connected
+^7TerminalJunkie connected
+^7^4TerminalJunkie^4 is spectating now
+^7^4DF^4 connected
+^7DF connected
+^7^4DF^4 is spectating now
+^7^4TerminalJunkie^4 is playing now
+^7^4DF^4 is playing now
+^7^4Punk^4 is playing now
+^7^4Alex^4 is playing now
+^7^1Alex^1 drew first blood
+^7^1DF^1 was gunned by Alex
+^7^1Alex^1 was thrown into a world of hurt by DF
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1DF^1 was gunned by Alex
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Punk^1 almost dodged DF^1's rocket
+^7^1TerminalJunkie^1 ate DF^1's rocket
+^7^1DF^1 ate TerminalJunkie^1's rocket
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Punk^1 was riddled full of holes by Alex
+^7^1Punk^1 almost dodged Alex^1's rocket
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has 4 frags in a row
+^7^1TerminalJunkie^1 felt the electrifying air of DF^1's combo
+^7^1TerminalJunkie's ^14 kill spree was ended by DF
+^7^1Alex^1 felt the electrifying air of DF^1's combo
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was gunned by Punk
+^7^1Alex^1 hit the ground with a crunch
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^1DF^1 has 3 frags in a row
+^7DF^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 has been vaporized by DF
+^7^1DF^1 has 4 frags in a row
+^7^1DF^1 almost dodged Punk^1's rocket
+^7^1DF's ^14 kill spree was ended by Punk
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1Punk^1 has 3 frags in a row
+^7Punk^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 was gunned by DF
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Punk^1 played with tiny rockets
+^7^1Punk^1 ended it all after a 3 kill spree
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1Alex^1 was thrown into a world of hurt by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^1Punk^1 was gunned by Alex
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Alex^1 has been vaporized by DF
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has 4 frags in a row
+^7^1Punk^1 was riddled full of holes by Alex
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has 5 frags in a row
+^7TerminalJunkie^7 unleashes ^1RAGE
+^7^1TerminalJunkie^1 was riddled full of holes by Alex
+^7^1TerminalJunkie's ^15 kill spree was ended by Alex
+^7^1Alex^1 was pummeled by DF
+^7^1Punk^1 was gunned by Alex
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1DF^1 was pummeled by Alex
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1TerminalJunkie^1 was pummeled by Alex
+^7^1Punk^1 ate DF^1's rocket
+^7^1DF^1 exploded
+^7^1TerminalJunkie^1 almost dodged Alex^1's rocket
+^7^1Alex^1 was gunned by DF
+^7^1TerminalJunkie^1 was gunned by Alex
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1Alex^1 was grounded by TerminalJunkie
+^7^1DF^1 played with plasma
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 hit the ground with a crunch
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1DF^1 was riddled full of holes by Alex
+^7^1Alex^1 was gunned by DF
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1DF^1 ate Alex^1's rocket
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Alex^1 hit the ground with a crunch
+^7^1TerminalJunkie^1 hit the ground with a crunch
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has 3 frags in a row
+^7TerminalJunkie^7 made a ^1TRIPLE FRAG
+^7^1TerminalJunkie^1 has been vaporized by DF
+^7^1TerminalJunkie's ^13 kill spree was ended by DF
+^7^1Punk^1 almost dodged Alex^1's rocket
+^7^1Punk^1 has been vaporized by DF
+^7^1TerminalJunkie^1 was pummeled by Punk
+^7^1Punk^1 hoped Alex^1's missiles wouldn't bounce
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1DF^1 was riddled full of holes by Punk
+^7^1Punk^1 was sniped by Alex
+^7^1TerminalJunkie^1 was blasted by DF^1's blue beam
+^7^1DF^1 could not remember where he put plasma
+^7^1Alex^1 was riddled full of holes by Punk
+^7^1Punk^1 was pummeled by Alex
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1Punk^1 was pummeled by DF
+^7^1Alex^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was riddled full of holes by DF
+^7^1DF^1 almost dodged Punk^1's grenade
+^7^1Punk^1 detonated
+^7^1Alex^1 was gunned by TerminalJunkie
+^7Client "Alex" dropped
+^7^4Alex^4 disconnected
+^7^1TerminalJunkie^1 was gunned by DF
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1Punk^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 was sniped by DF
+^7^1Punk^1 was grounded by DF
+^7^1DF^1 was gunned by TerminalJunkie
+^7^1TerminalJunkie^1 has been vaporized by Punk
+^7^1TerminalJunkie^1 was sniped by DF
+^7^1DF^1 was thrown into a world of hurt by TerminalJunkie
+^7:scores:dm_bluesky:973
+^7:labels:player:score!!,kills,deaths<,suicides<,,,,,,
+^7:player:see-labels:30,32,26,2,0,0,0,0,0,0:971:-1:TerminalJunkie
+^7:player:see-labels:22,25,19,3,0,0,0,0,0,0:970:-1:DF
+^7:player:see-labels:12,14,25,2,0,0,0,0,0,0:971:-1:Punk
+^7:end
+^7TerminalJunkie ^7wins.
+^7^3TerminalJunkie^7: good game
+^7^3Punk^7: Sucking less...
+^7^3DF^7: n more alex
+^7^3TerminalJunkie^7: i finally won one
+^7^3Punk^7: Time to goo
+^7^3DF^7: ?
+^7^3DF^7: yah
+^7NOTE: DF^7 is flooding.
+^7^3TerminalJunkie^7: dtg
+^7Client "DF" dropped
+^7^4DF^4 disconnected
+^7Client "Punk" dropped
+^7^4Punk^4 disconnected
+^7Client "TerminalJunkie" dropped
+^7^4TerminalJunkie^4 disconnected
+^7Saving persistent data...
+^7done!
+^7Loading csprogs.dat
+^7server detected csqc progs file "csprogs.dat" with size 408476 and crc 61283
+^7Compressing csprogs.dat
+^7Deflated: 71.6524%
