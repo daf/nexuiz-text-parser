@@ -8,6 +8,7 @@
     <script src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
     <link href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" rel="stylesheet" />
     <link href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables_themeroller.css" rel="stylesheet" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.1/underscore-min.js"></script>
   </head>
   <body>
     <div class="container">
@@ -27,7 +28,7 @@
                 <th>Kills</th>
                 <th>Deaths</th>
                 <th>Suicides</th>
-                <th>K/D</th>
+                <th>Eff</th>
                 <th>Matches</th>
               </tr>
             <tbody>
@@ -52,7 +53,7 @@
 
       <div class="row">
         <div id="kd-chart" class="col-md-12 col-lg-12">
-          <svg width="960" height="200">
+          <svg width="1140" height="200">
           </svg>
         </div>
       </div>
@@ -109,7 +110,7 @@
         newtrs.append("td").text(function(d) { return d.kills });
         newtrs.append("td").text(function(d) { return d.deaths });
         newtrs.append("td").text(function(d) { return d.suicides });
-        newtrs.append("td").text(function(d) { return (d.kills / d.deaths).toFixed(2) });
+        newtrs.append("td").text(function(d) { return (d.kills / (d.deaths + d.suicides)).toFixed(2) });
         newtrs.append("td").text(function(d) { return d.matches });
         
         // update
@@ -118,7 +119,7 @@
         trs.select("td:nth-child(3)").text(function(d) { return d.kills })
         trs.select("td:nth-child(4)").text(function(d) { return d.deaths })
         trs.select("td:nth-child(5)").text(function(d) { return d.suicides })
-        trs.select("td:nth-child(6)").text(function(d) { return (d.kills / d.deaths).toFixed(2) })
+        trs.select("td:nth-child(6)").text(function(d) { return (d.kills / (d.deaths + d.suicides)).toFixed(2) })
         trs.select("td:nth-child(7)").text(function(d) { return d.matches })
 
         // old
@@ -263,58 +264,53 @@
 
         // kd chart if applicable
         if (matchData.hasOwnProperty('scoreboard')) {
-          var series = {};
-          var allnames = [];
-          matchData.leaderboard.forEach(function(d, i) {
-            series[d.name] = [0];
-            allnames.push(d.name);
+          var series = _.object(matchData.leaderboard.map(function(d) {
+            return [d.name, []];
+          }));
+
+          var cumulScores = _.object(matchData.leaderboard.map(function(d) {
+            return [d.name, 0];
+          }));
+
+          matchData.scoreboard.forEach(function(d, i) {
+            if (d.length == 2) {
+              cumulScores[d[0][0]] += 1;    // change scores
+              cumulScores[d[1][0]] -= 1;
+              series[d[0][0]].push([i, cumulScores[d[0][0]]]);
+              series[d[1][0]].push([i, cumulScores[d[1][0]]]);
+            } else {
+              cumulScores[d[0][0]] -= 1;
+              series[d[0][0]].push([i, cumulScores[d[0][0]]]);
+            }
           });
 
-          // iterate scoreboard to build series for each person
-          matchData.scoreboard.forEach(function(d, i) {
-            var curNames = d3.set(allnames);
-
-            // first: suicide or kill?
-            if (d.length == 2) {
-              var k = series[d[0][0]];
-              k.push(k[k.length-1] + 1)
-
-              var c = series[d[1][0]];
-              c.push(c[c.length-1] - 1)
-
-              curNames.remove(d[0][0]);
-              curNames.remove(d[1][0]);
-
-            } else {
-              var c = series[d[0][0]];
-              c.push(c[c.length-1] - 1);
-
-              curNames.remove(d[0][0]);
-            }
-
-            // add keepalives for the ones left
-            curNames.forEach(function(dd) {
-              series[dd].push(series[dd][series[dd].length-1]);
-            });
+          // all the players not involved in the last kill should get a final data point to make sure they go to the end
+          var last = matchData.scoreboard[matchData.scoreboard.length-1].map(function(d) {
+            return d[0];
+          })
+          _.difference(d3.keys(series), last).forEach(function(d) {
+            series[d].push([matchData.scoreboard.length - 1, cumulScores[d]]);
           });
 
           //console.log(series);
 
           var kdc = d3.select('#kd-chart svg');
           var x = d3.scale.linear()
-            .domain([0, series[Object.keys(series)[0]].length])
+            .domain([0, matchData.scoreboard.length])
             .range([0, 960]);
 
-          var dataextent = d3.max(d3.extent(d3.merge(d3.values(series))).map(function(d) { return Math.abs(d); }))
+          var dataextent = d3.max(d3.extent(d3.merge(d3.values(series).map(function(d) { return d.map(function(dd) { return Math.abs(dd[1]) }) }))))
+
+          //console.log(dataextent);
 
           var y = d3.scale.linear()
             .domain([dataextent, -dataextent])
-            .range([0, 200]);
+            .range([10, 190]);
 
           var line = d3.svg.line()
-            .interpolate('cardinal')
-            .x(function(d, i) { return x(i) })
-            .y(function(d) { return y(d) });
+            .interpolate('step')
+            .x(function(d) { return x(d[0]) })
+            .y(function(d) { return y(d[1]) });
 
           var kdlines = kdc.selectAll(".kdline")
             .data(d3.entries(series), function(d) { return d.key });
@@ -323,8 +319,19 @@
             .attr("class", "kdline")
             .attr("d", function(d) { return line(d.value) })
             .attr('fill', 'none')
-            .attr('stroke-width', 2)
-            .attr('stroke', '#000000');
+            .attr('stroke-width', 1)
+            .attr('stroke', '#cccccc')
+            .on("mouseover", function() {
+              var me = d3.select(this);
+              me.transition().duration(250)
+                .attr('stroke-width', 2)
+                .attr('stroke', '#000000');
+            })
+            .on("mouseout", function() {
+              d3.select(this).transition().duration(250)
+                .attr('stroke-width', 1)
+                .attr('stroke', '#cccccc');
+            });
 
           kdlines.exit().remove();
 
@@ -332,6 +339,26 @@
             .duration(250)
             .attr("d", function(d) { return line(d.value); });
 
+          // create labels for these
+          var labelData = d3.entries(series).map(function(d) {
+            return {lbl: d.key, x: matchData.scoreboard.length, y: cumulScores[d.key]};
+          });
+          //console.log(labelData);
+
+          var labels = kdc.selectAll(".kdlabel")
+            .data(labelData, function(d) { return d.lbl });
+
+          labels.enter().append("text")
+            .attr("class", "kdlabel")
+            .text(function(d) { return d.lbl })
+            .attr("x", function(d) { return x(d.x) })
+            .attr("y", function(d) { return y(d.y) })
+
+          labels.exit().remove();
+
+          labels.transition().duration(250)
+            .attr("x", function(d) { return x(d.x); })
+            .attr("y", function(d) { return y(d.y); })
         }
       }
 
