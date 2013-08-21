@@ -312,6 +312,19 @@
             .x(function(d) { return x(d[0]) })
             .y(function(d) { return y(d[1]) });
 
+          // 0 line for axis
+          var midline = kdc.selectAll(".midline")
+            .data([[[0, 0], [matchData.scoreboard.length, 0]]]);
+
+          midline.enter().append("path")
+            .attr("class", "midline")
+            .attr("d", function(d) { return line(d) })
+            .attr("stroke", "#3696ef")
+            .attr("stroke-width", 1)
+            .attr("stroke-dasharray", "5,7")
+
+          // data
+
           var kdlines = kdc.selectAll(".kdline")
             .data(d3.entries(series), function(d) { return d.key });
 
