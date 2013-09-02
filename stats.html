@@ -9,6 +9,13 @@
     <link href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" rel="stylesheet" />
     <link href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables_themeroller.css" rel="stylesheet" />
     <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.1/underscore-min.js"></script>
+    <style>
+    #leaderboard-holder {
+    }
+
+    #pvp-holder {
+    }
+    </style>
   </head>
   <body>
     <div class="container">
@@ -101,26 +108,26 @@
         var leaderboard = d3.select('#leaderboard tbody');
 
         var trs = leaderboard.selectAll("tr")
-          .data(matchData.leaderboard, function(d) { return d.name });
+          .data(matchData.leaderboard, function(d) { return d[0] });
 
         // new
         var newtrs = trs.enter().append("tr");
-        newtrs.append("td").text(function(d) { return d.name });
-        newtrs.append("td").text(function(d) { return d.kills - d.suicides });
-        newtrs.append("td").text(function(d) { return d.kills });
-        newtrs.append("td").text(function(d) { return d.deaths });
-        newtrs.append("td").text(function(d) { return d.suicides });
-        newtrs.append("td").text(function(d) { return (d.kills / (d.deaths + d.suicides)).toFixed(2) });
-        newtrs.append("td").text(function(d) { return d.matches });
+        newtrs.append("td").text(function(d) { return d[0] });
+        newtrs.append("td").text(function(d) { return d[2] - d[4] });
+        newtrs.append("td").text(function(d) { return d[2] });
+        newtrs.append("td").text(function(d) { return d[3] });
+        newtrs.append("td").text(function(d) { return d[4] });
+        newtrs.append("td").text(function(d) { return (d[2] / (d[3] + d[4])).toFixed(2) });
+        newtrs.append("td").text(function(d) { return d[1] });
         
         // update
-        trs.select("td:nth-child(1)").text(function(d) { return d.name })
-        trs.select("td:nth-child(2)").text(function(d) { return d.kills - d.suicides })
-        trs.select("td:nth-child(3)").text(function(d) { return d.kills })
-        trs.select("td:nth-child(4)").text(function(d) { return d.deaths })
-        trs.select("td:nth-child(5)").text(function(d) { return d.suicides })
-        trs.select("td:nth-child(6)").text(function(d) { return (d.kills / (d.deaths + d.suicides)).toFixed(2) })
-        trs.select("td:nth-child(7)").text(function(d) { return d.matches })
+        trs.select("td:nth-child(1)").text(function(d) { return d[0] })
+        trs.select("td:nth-child(2)").text(function(d) { return d[2] - d[4] })
+        trs.select("td:nth-child(3)").text(function(d) { return d[2] })
+        trs.select("td:nth-child(4)").text(function(d) { return d[3] })
+        trs.select("td:nth-child(5)").text(function(d) { return d[4] })
+        trs.select("td:nth-child(6)").text(function(d) { return (d[2] / (d[3] + d[4])).toFixed(2) })
+        trs.select("td:nth-child(7)").text(function(d) { return d[1] })
 
         // old
         trs.exit().remove();
@@ -128,7 +135,7 @@
         // sort!
         leaderboard.selectAll("tr")
           .sort(function(a, b) {
-            return d3.descending(a.kills - a.suicides, b.kills - b.suicides);
+            return d3.descending(a[2] - a[4], b[2] - b[4]);
           });
 
         // pvp kills
@@ -137,21 +144,21 @@
         // 1. create mapping from name to overall position
         var posMap = {};
         matchData.leaderboard.forEach(function(d, i) {
-          posMap[d.name] = i;
+          posMap[d[0]] = i;
         });
 
         // 2. populate kill matrix
         var killMatrix = matchData.leaderboard.map(function(d, i) {
           var row = [];
           // suicides
-          row[i] = (d.suicides > 0) ? -d.suicides : '';
+          row[i] = (d[4] > 0) ? -d[4] : '';
 
           // kills
-          matchData.pvp[d.name].forEach(function(v) {
-            row[posMap[v.name]] = v.kills;
+          matchData.pvp[d[0]].forEach(function(v) {
+            row[posMap[v[0]]] = v[2];
           });
 
-          row.splice(0, 0, (i+1) + ". " + d.name);
+          row.splice(0, 0, (i+1) + ". " + d[0]);
           return row;
         });
 
@@ -210,16 +217,16 @@
             }
           }
 
-          var most_val = d3.max(player_use, function(d) { return d.stats.kills });
-          var least_val = d3.max(player_use, function(d) { return d.stats.deaths });
+          var most_val = d3.max(player_use, function(d) { return d.stats[2] });
+          var least_val = d3.max(player_use, function(d) { return d.stats[3] });
 
           // now get all names matching these values
-          var most = player_use.filter(function(d) { return d.stats.kills == most_val }).map(function(d) { return d.name })
-          var least = player_use.filter(function(d) { return d.stats.deaths == least_val }).map(function(d) { return d.name })
+          var most = player_use.filter(function(d) { return d.stats[2] == most_val }).map(function(d) { return d.name; })
+          var least = player_use.filter(function(d) { return d.stats[3] == least_val }).map(function(d) { return d.name; })
 
           weapon_data.push({weapon:prop,
-                            kills: matchData.weapons_agg[prop].kills,
-                            suicides: matchData.weapons_agg[prop].suicides || " ",
+                            kills: matchData.weapons_agg[prop][2],
+                            suicides: matchData.weapons_agg[prop][4] || " ",
                             most: most,
                             most_val: most_val,
                             least: least,
@@ -265,22 +272,25 @@
         // kd chart if applicable
         if (matchData.hasOwnProperty('scoreboard')) {
           var series = _.object(matchData.leaderboard.map(function(d) {
-            return [d.name, []];
+            return [d[0], []];
           }));
 
           var cumulScores = _.object(matchData.leaderboard.map(function(d) {
-            return [d.name, 0];
+            return [d[0], 0];
           }));
 
           matchData.scoreboard.forEach(function(d, i) {
-            if (d.length == 2) {
-              cumulScores[d[0][0]] += 1;    // change scores
-              cumulScores[d[1][0]] -= 1;
-              series[d[0][0]].push([i, cumulScores[d[0][0]]]);
-              series[d[1][0]].push([i, cumulScores[d[1][0]]]);
+            if (d[2] != null) {
+              cumulScores[d[1]] -= 1;
+              series[d[1]].push([i, cumulScores[d[1]]]);
+
+              if (d[0] != null) {
+                cumulScores[d[0]] += 1;
+                series[d[0]].push([i, cumulScores[d[0]]]);
+              }
+
             } else {
-              cumulScores[d[0][0]] -= 1;
-              series[d[0][0]].push([i, cumulScores[d[0][0]]]);
+              // @TODO: handle join/part
             }
           });
 
@@ -366,12 +376,15 @@
             .text(function(d) { return d.lbl })
             .attr("x", function(d) { return x(d.x) })
             .attr("y", function(d) { return y(d.y) })
+            .attr("dy", 5)
 
           labels.exit().remove();
 
           labels.transition().duration(250)
             .attr("x", function(d) { return x(d.x); })
             .attr("y", function(d) { return y(d.y); })
+        } else {
+          $('#kd-chart svg').empty();
         }
       }
 

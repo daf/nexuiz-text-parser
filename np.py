@@ -229,6 +229,12 @@ def parse_log(log_file):
                 m = r.search(l)
                 if m:
                     #print "MATCH", lbl, l
+                    if lbl == 'rdisconnected':
+                        name = filter(None, m.groups())[0]
+                        curmatch['scoreboard'].append([None, name, None])
+                    elif lbl == 'rplaying':
+                        name = filter(None, m.groups())[0]
+                        curmatch['scoreboard'].append([name, None, None])
                     break
             else:
 
@@ -250,12 +256,13 @@ def parse_log(log_file):
                         curmatch['weapons'][weapon].append((killer, killed))
 
                         # update scoreboard
-                        curmatch['scoreboard'].append([(killer, 1, 0, 0, weapon),
-                                                       (killed, 0, 1, 0, weapon)])
+                        # curmatch['scoreboard'].append([(killer, 1, 0, 0, weapon),
+                        #                                (killed, 0, 1, 0, weapon)])
+                        curmatch['scoreboard'].append([killer, killed, weapon])
 
                         break
                 else:
-                    for lbl, r in rsuicides.iteritems():
+                    for weapon, r in rsuicides.iteritems():
                         m = r.search(l)
                         if m:
                             killed = filter(None, m.groups())[0]
@@ -265,10 +272,11 @@ def parse_log(log_file):
                             curmatch['players'][killed].push_curlife()
 
                             # update weapons with a 1-tuple to indicate suicide
-                            curmatch['weapons'][lbl].append((killed,))
+                            curmatch['weapons'][weapon].append((killed,))
 
                             # update scoreboard
-                            curmatch['scoreboard'].append([(killed, 0, 0, 1, lbl)])
+                            # curmatch['scoreboard'].append([(killed, 0, 0, 1, weapon)])
+                            curmatch['scoreboard'].append([None, killed, weapon])
 
                             break
                     else:
@@ -322,6 +330,9 @@ class Score(object):
 
     def __repr__(self):
         return "%15s %4d %4d %4d %4d %6.2f (%4d)" % (self.name, self.score, self.kills, self.deaths, self.suicides, self.kdr, self.matches)
+
+    def serialize(self):
+        return (self.name, self.matches, self.kills, self.deaths, self.suicides)
 
 def scoreboard(scoreboard, players=None):
     """
@@ -403,9 +414,12 @@ if __name__ == "__main__":
 
     class DefaultEncoder(JSONEncoder):
         def default(self, o):
+            if hasattr(o, 'serialize'):
+                return o.serialize()
+
             return o.__dict__
 
-    print dumps({'matches':matches, 'aggregate':agg}, cls=DefaultEncoder, indent=2)
+    print dumps({'matches':matches, 'aggregate':agg}, cls=DefaultEncoder)
 
 
 
