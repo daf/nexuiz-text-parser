@@ -92,7 +92,7 @@
 
       var promo = null;
 
-      function showMatch(matchData) {
+      function showMatch(matchData, playerTable, weaponTable) {
 
         //console.log(matchData);
 
@@ -112,7 +112,7 @@
 
         // new
         var newtrs = trs.enter().append("tr");
-        newtrs.append("td").text(function(d) { return d[0] });
+        newtrs.append("td").text(function(d) { return playerTable[d[0]] });
         newtrs.append("td").text(function(d) { return d[2] - d[4] });
         newtrs.append("td").text(function(d) { return d[2] });
         newtrs.append("td").text(function(d) { return d[3] });
@@ -121,7 +121,7 @@
         newtrs.append("td").text(function(d) { return d[1] });
         
         // update
-        trs.select("td:nth-child(1)").text(function(d) { return d[0] })
+        trs.select("td:nth-child(1)").text(function(d) { return playerTable[d[0]] })
         trs.select("td:nth-child(2)").text(function(d) { return d[2] - d[4] })
         trs.select("td:nth-child(3)").text(function(d) { return d[2] })
         trs.select("td:nth-child(4)").text(function(d) { return d[3] })
@@ -158,7 +158,7 @@
             row[posMap[v[0]]] = v[2];
           });
 
-          row.splice(0, 0, (i+1) + ". " + d[0]);
+          row.splice(0, 0, (i+1) + ". " + playerTable[d[0]]);
           return row;
         });
 
@@ -224,12 +224,12 @@
           var most = player_use.filter(function(d) { return d.stats[2] == most_val }).map(function(d) { return d.name; })
           var least = player_use.filter(function(d) { return d.stats[3] == least_val }).map(function(d) { return d.name; })
 
-          weapon_data.push({weapon:prop,
+          weapon_data.push({weapon: weaponTable[prop],
                             kills: matchData.weapons_agg[prop][2],
                             suicides: matchData.weapons_agg[prop][4] || " ",
-                            most: most,
+                            most: most.map(function(dd) { return playerTable[dd] }),
                             most_val: most_val,
-                            least: least,
+                            least: least.map(function(dd) { return playerTable[dd] }),
                             least_val: least_val});
         };
 
@@ -364,7 +364,7 @@
 
           // create labels for these
           var labelData = d3.entries(series).map(function(d) {
-            return {lbl: d.key, x: matchData.scoreboard.length, y: cumulScores[d.key]};
+            return {lbl: playerTable[d.key], x: matchData.scoreboard.length, y: cumulScores[d.key]};
           });
           //console.log(labelData);
 
@@ -389,7 +389,7 @@
       }
 
       $(function() {
-        d3.json("/sample/output.json", function(err, data) {
+        d3.json("/sample/try.json", function(err, data) {
           promo = data;
           console.log(data);
 
@@ -406,11 +406,11 @@
             .attr("href", "#")
             .text(function(d) { return d.lbl })
             .on('click', function(d) {
-              showMatch(d.data);
+              showMatch(d.data, data.players, data.weapons);
               d3.event.preventDefault();
             });
 
-          showMatch(data.aggregate);
+          showMatch(data.aggregate, data.players, data.weapons);
 
         })
       });

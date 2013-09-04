@@ -79,6 +79,23 @@ rsuicides = {
     # deaths: {}    # user -> number
     # suicides: number
 
+class StringTable(object):
+    """
+    Used to turn strings (names/weapons) into indexes for redudancy elimination.
+    """
+    def __init__(self):
+        self._seen = []
+
+    def lookup(self, name):
+        if name in self._seen:
+            return self._seen.index(name)
+
+        self._seen.append(name)
+        return len(self._seen) - 1
+
+    def serialize(self):
+        return self._seen
+
 class Player(dict):
     def __init__(self):
         self['lives'] = []
@@ -194,7 +211,7 @@ def finish_game(curmatch, matches, last_time):
 
     return Match()
 
-def parse_log(log_file):
+def parse_log(log_file, player_table, weapon_table):
 
     matches = []
 
@@ -230,10 +247,10 @@ def parse_log(log_file):
                 if m:
                     #print "MATCH", lbl, l
                     if lbl == 'rdisconnected':
-                        name = filter(None, m.groups())[0]
+                        name = player_table.lookup(filter(None, m.groups())[0])
                         curmatch['scoreboard'].append([None, name, None])
                     elif lbl == 'rplaying':
-                        name = filter(None, m.groups())[0]
+                        name = player_table.lookup(filter(None, m.groups())[0])
                         curmatch['scoreboard'].append([name, None, None])
                     break
             else:
@@ -244,6 +261,9 @@ def parse_log(log_file):
                         killed, killer = filter(None, m.groups())
                         #print "KILL", killer, killed, weapon
 
+                        killer = player_table.lookup(killer)
+                        killed = player_table.lookup(killed)
+
                         # update killer
                         curmatch['players'][killer]['kills'][killed] += 1
                         curmatch['players'][killer]['curlife'].append(killed)
@@ -253,6 +273,7 @@ def parse_log(log_file):
                         curmatch['players'][killed].push_curlife()
 
                         # update weapons
+                        weapon = weapon_table.lookup(weapon)
                         curmatch['weapons'][weapon].append((killer, killed))
 
                         # update scoreboard
@@ -265,13 +286,14 @@ def parse_log(log_file):
                     for weapon, r in rsuicides.iteritems():
                         m = r.search(l)
                         if m:
-                            killed = filter(None, m.groups())[0]
+                            killed = player_table.lookup(filter(None, m.groups())[0])
 
                             # updated killed
                             curmatch['players'][killed]['suicides'] += 1
                             curmatch['players'][killed].push_curlife()
 
                             # update weapons with a 1-tuple to indicate suicide
+                            weapon = weapon_table.lookup(weapon)
                             curmatch['weapons'][weapon].append((killed,))
 
                             # update scoreboard
@@ -359,7 +381,7 @@ def scoreboard(scoreboard, players=None):
     board = sorted(by_player.values(), reverse=True)
     return board
 
-def aggregate(matches):
+def aggregate(matches, player_table, weapon_table):
     """
     Get totals for leaderboards, PvP, weapons.
     """
@@ -409,8 +431,11 @@ def aggregate(matches):
             'weapons_agg':weapons_agg}
 
 if __name__ == "__main__":
-    matches = parse_log(sys.argv[1])
-    agg = aggregate(matches)
+    player_table = StringTable()
+    weapon_table = StringTable()
+
+    matches = parse_log(sys.argv[1], player_table, weapon_table)
+    agg = aggregate(matches, player_table, weapon_table)
 
     class DefaultEncoder(JSONEncoder):
         def default(self, o):
@@ -419,7 +444,11 @@ if __name__ == "__main__":
 
             return o.__dict__
 
-    print dumps({'matches':matches, 'aggregate':agg}, cls=DefaultEncoder)
+    #print dumps(matches, cls=DefaultEncoder)
+    print dumps({'players':player_table,
+                 'weapons':weapon_table,
+                 'matches':matches,
+                 'aggregate':agg}, cls=DefaultEncoder)
 
 
 
