@@ -21,6 +21,18 @@ ignores = ["Server using port",
            ":player:",
            ":end",
            ":scores:",
+           "Game is Xonotic",
+           "Xonotic Windows",
+           "Skeletal animation",
+           "execing ",
+           "there is already a signed private key",
+           "Server failed to open socket on address",
+           "Beginning notification",
+           "Notification initialization",
+           "Game type successfully",
+           "Maplist contains",
+           "Weapon stats written",
+           "\"maxplayers\" set to",
            "\"fraglimit\" changed to",
            "\"timelimit\" changed to"]
 
@@ -29,45 +41,51 @@ rwin  = re.compile("(.*) wins")
 
 rstates = {
     'rconnected': re.compile("(.*) connected"),
-    'rspec': re.compile("(.*) is spectating now"),
-    'rplaying': re.compile("(.*) is playing now"),
+    'rspec': re.compile("(.*) is now spectating"),
+    'rplaying': re.compile("(.*) is now playing"),
+    'rchangedname': re.compile("(.*) changed name to (.*)"),
     'rchat': re.compile("(.*): .*$"),
     'rfirst': re.compile("(.*) drew first blood"),
     'rstreak': re.compile("(.*) has (\d+) frags in a row"),
     'rstreakend': re.compile("(.*)'s (\d+) kill spree was ended by (.*)"),
     'rstreakendsuicide': re.compile("(.*) ended it all after a (\d+) kill spree"),
     'rtriple': re.compile("(.*) made a TRIPLE FRAG"),
-    'rrage': re.compile("(.*) unleashes RAGE"),
-    'rmassacre': re.compile("(.*) starts the MASSACRE"),
+    'rrage': re.compile("(.*) unlocked RAGE"),
+    'rmassacre': re.compile("(.*) started a MASSACRE"),
     'rmayhem': re.compile("(.*) executes MAYHEM!"),
     'rdropped': re.compile("Client \"(.*)\" dropped"),
     'rdisconnected': re.compile("(.*) disconnected")
 }
 
 rkills = {
-    'shotgun': re.compile("(.*) was gunned by (.*)"),
-    'machinegun': re.compile("(.*) was riddled full of holes by (.*)"),
-    'nex': re.compile("(.*) was sniped by (.*)|(.*) has been vaporized by (.*)"),
-    'crylink': re.compile("(.*) could not hide from (.*)'s Crylink|(.*) took a close look at (.*)'s Crylink|(.*) was too close to (.*)'s Crylink"),
-    'rocket': re.compile("(.*) almost dodged (.*)'s rocket|(.*) ate (.*)'s rocket|(.*) hoped (.*)'s missiles wouldn't bounce"),
-    'blue': re.compile("(.*) got too close to (.*)'s blue beam|(.*) was blasted by (.*)'s blue beam|(.*) got in touch with (.*)'s blue ball"),
-    'bluecombo': re.compile("(.*) felt the electrifying air of (.*)'s combo"),
-    'grenade': re.compile("(.*) almost dodged (.*)'s grenade|(.*) ate (.*)'s grenade"),
+    'shotgun': re.compile("(.*) was gunned down by (.*)'s Shotgun"),
+    'machinegun': re.compile("(.*) was riddled full of holes by (.*)'s Machine Gun"),
+    'nex': re.compile("(.*) was sniped by (.*)|(.*) has been vaporized by (.*)'s Nex"),
+    'crylink': re.compile("(.*) felt the strong pull of (.*)'s Crylink|(.*) took a close look at (.*)'s Crylink|(.*) was too close to (.*)'s Crylink"),
+    'rocket': re.compile("(.*) got too close (.*)'s rocket|(.*) ate (.*)'s rocket|(.*) hoped (.*)'s missiles wouldn't bounce"),
+    'electro': re.compile("(.*) got too close to (.*)'s Electro plasma|(.*) was blasted by (.*)'s Electro bolt|(.*) got in touch with (.*)'s blue ball"),
+    'electrocombo': re.compile("(.*) felt the electrifying air of (.*)'s Electro combo"),
+    'grenade': re.compile("(.*) almost dodged (.*)'s grenade|(.*) ate (.*)'s Mortar grenade|(.*) got too close to (.*)'s Mortar grenade"),
     'telefrag': re.compile("(.*) was telefragged by (.*)"),
-    'pummel': re.compile("(.*) was pummeled by (.*)"),
+    'hagar': re.compile("(.*) was pummeled by (.*)'s Hagar rockets"),
     'grounded': re.compile("(.*) was grounded by (.*)"),
     'slimed': re.compile("(.*) was slimed by (.*)"),
     'lava': re.compile("(.*) was cooked by (.*)"),
     'bounds': re.compile("(.*) was thrown into a world of hurt by (.*)"),
+    'melee': re.compile("(.*) slapped (.*) around a bit with a large Shotgun"), # @TODO this is backwards
 }
 
 rsuicides = {
     'detonated': re.compile("(.*) detonated"),
-    'plasma': re.compile("(.*) played with plasma|(.*) could not remember where he put plasma"),
+    'plasma': re.compile("(.*) played with Electro plasma|(.*) could not remember where they put their Electro plasma"),
     'rocket': re.compile("(.*) played with tiny rockets"),
     'slimed': re.compile("(.*) was slimed"),
-    'crylink': re.compile("(.*) succeeded at self-destructing himself with the Crylink"),
+    'lava': re.compile("(.*) turned into hot slag"),
+    'crylink': re.compile("(.*) felt the strong pull of their Crylink"),
     'explode': re.compile("(.*) exploded"),
+    'rocket': re.compile("(.*) blew themself up with their"),
+    'hagar': re.compile("(.*) played with tiny Hagar rockets"),
+    'mortar': re.compile("(.*) didn't see their own Mortar grenade"),
     'bounds': re.compile("(.*) was in the wrong place"),
     'fall': re.compile("(.*) hit the ground with a crunch"),
 }
@@ -222,9 +240,11 @@ def parse_log(log_file, player_table, weapon_table):
 
     curmatch = finish_game(None, matches, last_time)
     rcolors = re.compile("\^.")
+    rspree = re.compile(", (ending|losing) their \\d+ frag spree")
 
     for idx, l in enumerate(lines):
         l = rcolors.sub("", l.strip()).replace("\x05", "")
+        l = rspree.sub("", l)
         for i in ignores:
             if i in l:
                 break
@@ -259,7 +279,11 @@ def parse_log(log_file, player_table, weapon_table):
                     m = r.search(l)
                     if m:
                         killed, killer = filter(None, m.groups())
-                        #print "KILL", killer, killed, weapon
+
+                        # FIXUP for melee's kill string
+                        if weapon == "melee":
+                            killed, killer = killer, killed
+                        print >>sys.stderr, "KILL", killer, killed, weapon, ":", l
 
                         killer = player_table.lookup(killer)
                         killed = player_table.lookup(killed)
@@ -449,7 +473,6 @@ if __name__ == "__main__":
                  'weapons':weapon_table,
                  'matches':matches,
                  'aggregate':agg}, cls=DefaultEncoder)
-
 
 
 
