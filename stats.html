@@ -92,6 +92,83 @@
 
       var promo = null;
 
+      var demodata = [{current:{x:5, y:1},  optimal:{x:5, y:2}, height:3},
+                      {current:{x:5, y:10}, optimal:{x:5, y:6}, height:3},
+                      {current:{x:5, y:11}, optimal:{x:5, y:7}, height:3}]
+
+      function saCost(state) {
+        var distances = state.map(function(d) {
+          var c = Math.sqrt(Math.pow(d.current.x - d.optimal.x, 2) + Math.pow(d.current.y - d.optimal.y, 2))
+          return c;
+        }); 
+
+        var overlaps = state.map(function(d, idx) {
+
+          var subs = state.slice(idx+1).map(function(dd, jdx) {
+
+            // intersect d vs dd
+            itop = Math.min(d.current.y + d.height, dd.current.y + dd.height);
+            ibottom = Math.max(d.current.y, dd.current.y);
+
+            if (ibottom < itop) {
+              return itop - ibottom;
+            }
+
+            return 0;
+          });
+
+          return _.reduce(subs, function(m, n) { return m + n; }, 0);
+        });
+
+        oversum = 1 * _.reduce(overlaps, function(m, n) { return m + n; }, 0);
+
+        return _.reduce(distances, function(m, n) { return m + n; }, 0) + oversum;
+      }
+
+      function saNew(state) {
+        var newState = $.extend(true, [], state);   // deep copy state
+
+        var idx = Math.floor((Math.random() * newState.length));
+        newState[idx].current.y += (Math.random() > 0.5) ? 1 : -1;
+
+        return newState;
+      }
+
+      function saAccept(current, proposal, temperature) {
+        if (proposal < current) { console.log("better"); return true; }
+        if (temperature <= 0) { return false; }
+
+        var prob = Math.exp(-(proposal - current) / temperature);
+        console.log(prob);
+
+        return Math.random() < prob;
+      }
+
+      function anneal(state) {
+        var best = $.extend(true, [], state);
+        var bestScore = saCost(best);
+
+        var temp = 1000;
+        while (temp > 0) {
+          var newState = saNew(state);
+          var newCost = saCost(newState);
+          var curCost = saCost(state);
+
+          if (saAccept(curCost, newCost, temp)) {
+            state = newState;
+            curCost = newCost;
+          }
+
+          if (curCost < bestScore) {
+            best = $.extend(true, [], state);
+          }
+ 
+          temp -= 1;
+        }
+
+        return best;
+      }
+
       function showMatch(matchData, playerTable, weaponTable) {
 
         //console.log(matchData);
@@ -389,7 +466,7 @@
       }
 
       $(function() {
-        d3.json("/sample/try.json", function(err, data) {
+        d3.json("/sample/output.json", function(err, data) {
           promo = data;
           console.log(data);
 
